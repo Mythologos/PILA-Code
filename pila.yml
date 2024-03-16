@@ -1,0 +1,9 @@
+name: PILA
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.10
+  - pip:
+      - cltk
+      - pycldf
