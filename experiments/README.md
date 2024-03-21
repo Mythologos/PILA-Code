@@ -10,6 +10,9 @@ the software environment it was developed in.
 
 * `data/`: Contains the preprocessed training, validation, and test splits of
   the PILA dataset used for the experiments.
+* `predictions/`: Contains outputs predicted by the transformer models whose
+  scores are reported for the Proto-Italic-to-Latin (forward) and
+  Latin-to-Proto-Italic (backward) tasks.
 * `experiments/`: Contains scripts for reproducing experiments and figures.
   Details below.
 * `scripts/`: Contains helper scripts for setting up the software environment,
