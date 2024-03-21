@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "pila_experiments"
+version = "1.0.0"
+description = "Code for the experiments of the paper \"PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin\""
+authors = ["Brian DuSell"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^1.12.0"
+numpy = "^1.19.0"
+more-itertools = "^8.6.0"
+scipy = "^1.5.4"
+humanize = "^3.12.0"
+pytest = "^7.1.2"
+humanfriendly = "^10.0"
+pycldf = "^1.35.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

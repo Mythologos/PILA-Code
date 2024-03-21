@@ -1,0 +1,3 @@
+IMAGE=pila-experiments
+DEV_IMAGE=$IMAGE-dev
+SINGULARITY_IMAGE=$IMAGE
