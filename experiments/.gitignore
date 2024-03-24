@@ -1,8 +1,0 @@
-/.venv/
-__pycache__/
-*.pyc
-/*.sif
-/ignore/
-*.swp
-/data/pila-forward-*/
-/data/pila-backward-*/

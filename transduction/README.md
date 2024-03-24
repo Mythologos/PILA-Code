@@ -1,13 +1,16 @@
-# Experiments for PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin
+# Transduction Experiments for "PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin"
 
-This repository contains the code for the experiments in the paper
-"PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin"
-(Bothwell et al., 2024). It includes all of the code necessary to reproduce the
-experiments, as well as a Docker image definition that can be used to replicate
-the software environment it was developed in.
+This repository contains the code for the transduction-based experiments in the paper
+"PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin" (Bothwell *et al.*, 2024). 
+Specifically, it performs the tasks of *reflex prediction* (from Proto-Italic to Latin) 
+and *etymon reconstruction* (from Latin to Proto-Italic). 
+It includes all the code necessary to reproduce the experiments, 
+as well as a Docker image definition that can be used 
+to replicate the software environment it was developed in.
 
 ## Directory Structure
 
+This directory contains the following subdirectories:
 * `data/`: Contains the preprocessed training, validation, and test splits of
   the PILA dataset used for the experiments.
 * `predictions/`: Contains outputs predicted by the transformer models whose
@@ -23,12 +26,12 @@ the software environment it was developed in.
 
 ## Installation and Setup
 
-Clone this repository and the PILA dataset:
+To rerun our experiments, start by cloning this repository and the PILA dataset:
 
     $ git clone --recurse-submodules <repo-url>
 
 In order to foster reproducibility, the code for this paper was developed and
-run inside of a [Docker](https://www.docker.com/) container defined in the file
+run inside a [Docker](https://www.docker.com/) container defined in the file
 [`Dockerfile-dev`](Dockerfile-dev). To run this code, you can build the
 Docker image yourself and run it using Docker. Or, if you don't feel like
 installing Docker, you can simply use `Dockerfile-dev` as a reference for
@@ -54,7 +57,7 @@ up a bash shell inside of it, run
     $ bash scripts/docker-shell.bash --build
 
 After you have built the image once, there is no need to do so again, so
-afterwards you can simply run
+afterward you can simply run
 
     $ bash scripts/docker-shell.bash
 
@@ -82,7 +85,7 @@ the instructions above, you can use the following to create the `.sif` file:
     $ bash scripts/build-singularity-image.bash
 
 This will create the file `pila-experiments.sif`. It is normal for this to take
-several minutes. Afterwards, you can upload the `.sif` file to your HPC cluster
+several minutes. Afterward, you can upload the `.sif` file to your HPC cluster
 and use it there.
 
 You can open a shell in the Singularity container using
@@ -125,7 +128,7 @@ top-level directory as the current working directory.
 The [`experiments/pila`](experiments/pila) directory contains scripts for
 reproducing the experiments and tables presented in the paper. Some of these
 scripts are intended to be used to submit jobs to a computing cluster. They
-should be run outside of the container. You will need to edit the file
+should be run outside the container. You will need to edit the file
 [`experiments/submit-job.bash`](experiments/submit-job.bash)
 to tailor it to your specific computing cluster. Other scripts are for plotting
 or printing tables and should be run inside the container.
@@ -145,13 +148,19 @@ An explanation of the scripts is below.
 
 ## Citation
 
+To cite this repository, please use to the following paper's citation:
+
 ```bibtex
-@inproceedings{bothwell-etal-2024-pila,
-    title = "{PILA}: A Historical-Linguistic Dataset of {P}roto-{I}talic and {L}atin",
-    author = "Bothwell, Stephen and DuSell, Brian and Chiang, David and Krostenko, Brian",
-    booktitle = "Proc. LREC-COLING",
-    year = "2024",
-    month = may,
-    address = "Turin, Italy"
+@inproceedings{bothwellPILA2024,
+  title = {{{PILA}}: {{A}} Historical-Linguistic Dataset of {{Proto-Italic}} and {{Latin}}},
+  booktitle = {Proceedings of the {{The}} 2024 {{Joint International Conference}} on {{Computational Linguistics}}, {{Language Resources}} and {{Evaluation}}},
+  author = {Bothwell, Stephen and DuSell, Brian and Chiang, David and Krostenko, Brian},
+  year = "2024",
+  month = may,
+  publisher = {European Language Resources Association},
+  address = {Turin, Italy},
+  abstract = {Computational historical linguistics seeks to systematically understand processes of sound change, including during periods at which little to no formal recording of language is attested. At the same time, few computational resources exist which deeply explore phonological and morphological connections between proto-languages and their descendants. This is particularly true for the family of Italic languages. To assist historical linguists in the study of Italic sound change, we introduce the Proto-Italic to Latin (PILA) dataset, which consists of roughly 3,000 pairs of forms from Proto-Italic and Latin. We provide a detailed description of how our dataset was created and organized. Then, we exhibit PILA's value in two ways. First, we present baseline results for PILA on a pair of traditional computational historical linguistics tasks. Second, we demonstrate PILA's capability for enhancing other historical-linguistic datasets through a dataset compatibility study.},
+  langid = {english},
+  annotation = {To appear.}
 }
 ```

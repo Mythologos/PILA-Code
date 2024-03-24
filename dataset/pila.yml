@@ -3,7 +3,9 @@ channels:
   - defaults
 dependencies:
   - numpy
+  - scipy
   - python=3.10
   - pip:
       - cltk
+      - csvw
       - pycldf

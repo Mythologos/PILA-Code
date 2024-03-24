@@ -8,17 +8,25 @@
 
 ## Summary
 
-This is a repository containing code for the LREC-COLING 2024 paper, **"PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin."**
+This is a repository containing code for the LREC-COLING 2024 paper, 
+**"PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin."**
 It contains relevant tools for public use. 
-All code was produced in Python 3.10, and it has not been tested in versions outside of it.
+
+For the dataset that pertains to this paper, 
+see the [PILA](https://github.com/Mythologos/PILA) repository.
 
 ## Contents
 
-...
+This repository contains two subdirectories which pertain to distinct studies performed in our paper. 
+The `dataset` subdirectory contains CLI tools which allow for the construction of PILA in CLDF from raw TSV data, 
+the analysis of PILA with respect ot various statistics, 
+the examination of etymon-reflex pair quantities involving proto-languages across a variety of datasets,
+and the performance of a dataset compatibility study.
+Meanwhile, the `transduction` subdirectory permits the creation of a Docker environment 
+to rerun the *reflex prediction* and *etymon reconstruction* performed on PILA in our work.
 
-```
-...
-```
+Note that each subdirectory has separate environment requirements. 
+Both subdirectories contain further instructions as to the use of the tools within them.
 
 ## Contributing
 
@@ -34,14 +42,19 @@ and we are happy to provide clarifications or assistance in reproducing our resu
 
 ## Citations
 
-To cite this repository, please use to the following paper:
+To cite this repository, please use to the following paper's citation:
 
-```
-...
-```
-
-For other works referenced above, see the following:
-
-```
-...
+```bibtex
+@inproceedings{bothwellPILA2024,
+  title = {{{PILA}}: {{A}} Historical-Linguistic Dataset of {{Proto-Italic}} and {{Latin}}},
+  booktitle = {Proceedings of the {{The}} 2024 {{Joint International Conference}} on {{Computational Linguistics}}, {{Language Resources}} and {{Evaluation}}},
+  author = {Bothwell, Stephen and DuSell, Brian and Chiang, David and Krostenko, Brian},
+  year = "2024",
+  month = may,
+  publisher = {European Language Resources Association},
+  address = {Turin, Italy},
+  abstract = {Computational historical linguistics seeks to systematically understand processes of sound change, including during periods at which little to no formal recording of language is attested. At the same time, few computational resources exist which deeply explore phonological and morphological connections between proto-languages and their descendants. This is particularly true for the family of Italic languages. To assist historical linguists in the study of Italic sound change, we introduce the Proto-Italic to Latin (PILA) dataset, which consists of roughly 3,000 pairs of forms from Proto-Italic and Latin. We provide a detailed description of how our dataset was created and organized. Then, we exhibit PILA's value in two ways. First, we present baseline results for PILA on a pair of traditional computational historical linguistics tasks. Second, we demonstrate PILA's capability for enhancing other historical-linguistic datasets through a dataset compatibility study.},
+  langid = {english},
+  annotation = {To appear.}
+}
 ```
