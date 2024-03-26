@@ -1,3 +1,3 @@
-[submodule "experiments/pila"]
-	path = experiments/pila
+[submodule "transduction/pila"]
+	path = transduction/pila
 	url = git@github.com:Mythologos/PILA.git
