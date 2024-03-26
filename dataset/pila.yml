@@ -2,8 +2,10 @@ name: PILA
 channels:
   - defaults
 dependencies:
+  - natsort
   - numpy
   - scipy
+  - scrapy
   - python=3.10
   - pip:
       - cltk

@@ -18,8 +18,10 @@ see the [PILA](https://github.com/Mythologos/PILA) repository.
 ## Contents
 
 This repository contains two subdirectories which pertain to distinct studies performed in our paper. 
-The `dataset` subdirectory contains CLI tools which allow for the construction of PILA in CLDF from raw TSV data, 
-the analysis of PILA with respect ot various statistics, 
+The `dataset` subdirectory contains CLI tools which allow for 
+the scraping of Latin and Proto-Italic data from Wiktionary, 
+the construction of PILA in CLDF from raw TSV data, 
+the analysis of PILA with respect to various statistics, 
 the examination of etymon-reflex pair quantities involving proto-languages across a variety of datasets,
 and the performance of a dataset compatibility study.
 Meanwhile, the `transduction` subdirectory permits the creation of a Docker environment 
@@ -42,7 +44,7 @@ and we are happy to provide clarifications or assistance in reproducing our resu
 
 ## Citations
 
-To cite this repository, please use to the following paper's citation:
+To cite this repository, please use the following paper's citation:
 
 ```bibtex
 @inproceedings{bothwellPILA2024,

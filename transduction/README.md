@@ -148,7 +148,7 @@ An explanation of the scripts is below.
 
 ## Citation
 
-To cite this repository, please use to the following paper's citation:
+To cite this repository, please use the following paper's citation:
 
 ```bibtex
 @inproceedings{bothwellPILA2024,

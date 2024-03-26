@@ -1,0 +1,2 @@
+# File containing the URL for pages that relate to Latin terms that originate from Proto-Italic.
+https://en.wiktionary.org/wiki/Category:Latin_terms_derived_from_Proto-Italic

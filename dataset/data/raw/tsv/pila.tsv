@@ -1,0 +1,1556 @@
+REFLEX	ETYMA	LEMMA	POS [OLD]	INFLECTION CLASS [OLD]	BASE TAGS [OLD]	REFLEX INFLECTED	ETYMA INFLECTED	INFLECTED TAGS [OLD]	FL2 [[OLD]]	IRREGULARITIES	CUT	ADDED	NOTES	SOURCE [NOTES]
+ab	['ap']	AB	Preposition											
+abdu:co:	['abdouko:']	ABDUCO	Verb	3	1-S-Pr-Act-Ind	abdu:cit	['abdouketi']	3-S-Pr-Act-Ind	V3					
+abie:s	['abjets']	ABIES	Noun	3	Nm-F-S	abietis	['abjetes']	Gn-F-S	V3					
+abs	['aps']	AB	Preposition											
+accipiter	['akupetris']	ACCIPITER	Noun	3	Nm-M-S	accipitris	['akupetres']	Gn-M-S	G3	ASSOCIATION			[Association] Apparently *acip- > *accip- by analogy with accipere.	
+aceo:	['ake:jo:']	ACEO	Verb	2	1-S-Pr-Act-Ind	acet	['ake:jeti']	3-S-Pr-Act-Ind	V3					
+a:cer	['a:kris']		Adjective	3	Nm-M-S-Ps	a:cris	['a:kres']	Gn-M-S-Ps	G3		TRUE	TRUE		
+acerbus	['akriðos']	ACERBUS	Adjective	2	Nm-M-S-Ps	acerbi:	['akriði:']	Gn-M-S-Ps	G2			TRUE		
+acus_1	['akus']	ACUS1	Noun	4	Nm-F-S	acu:s	['akuos']	Gn-F-S	G4					
+acus_2	['akos']	ACUS2	Noun	3	Nm-N-S	aceris	['akezes']	Gn-N-S	G3					
+ad	['ad']	AD	Preposition											
+adeps	['adlepa']										TRUE		*ade:pa: is secure for Umbrian but its connection to the Latin consonant stem adeps, adipis is unclear.	
+ador	['ados' 'ado:s']	ADOR	Noun	3	Nm-N-S	adoris	['adoses' 'ado:ses']	Gn-N-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The reason Wiktionary gives two versions is because there is some doubt about the original form. Probably it was the collective ado:s. Both quantities are attested in the gen. (adoris, ado:ris).	
+adverto:	['adwerto:']	ADVERTO	Verb	3	1-S-Pr-Act-Ind	advertit	['adwerteti']	3-S-Pr-Act-Ind	V3					
+aedis	['aiðes']	AEDIS	Noun	3	Nm-F-S	aedis	['aiðes']	Gn-F-S	G3				There is also a nom. sg. aede:s.	
+aedi:lis	['aiði:lis']	AEDILIS	Noun	3	Nm-M-S	aedi:lis	['aiði:les']	Gn-M-S	G3					
+aeger	['aigros']	AEGER	Adjective	2	Nm-M-S-Ps	aegri:	['aigri:']	Gn-M-S-Ps	G2					
+aemulus	['aimelos']	AEMULUS	Adjective	2	Nm-M-S-Ps	aemuli:	['aimeli:']	Gn-M-S-Ps	G2					
+aequus	['aikʷos']	AEQUUS	Adjective	2	Nm-M-S-Ps	aequi:	['aikʷi:']	Gn-M-S-Ps	G2					
+aes_2	['ajos']	AES	Noun	3	Nm-N-S	aeris	['ajezes']	Gn-N-S	G3					
+aesta:s	['aissa:ts']	AESTAS	Noun	3	Nm-F-S	aesta:tis	['aissa:tes']	Gn-F-S	G3	MORPHOLOGY			[Morphology] Inherited -st- became -ss- but was in some places restored to -st-, apparently by analogy to other forms in -tas.	
+aestus	['aissus']	AESTUS	Noun	4	Nm-M-S	aestu:s	['aisswos']	Gn-M-S	G4	MORPHOLOGY			[Morphology] Inherited -st- became -ss- but was in some places restored to -st-, apparently by analogy to other forms in -tas.	
+aeta:s	['aiwota:ts']	AETAS	Noun	3	Nm-F-S	aeta:tis	['aiwota:tes']	Gn-F-S	G3					
+aevita:s	['aiwota:ts']		Noun	3	Nm-F-S	aevita:tis	['aiwota:tes']	Gn-F-S	G3	ARCHAISM	TRUE		(CUT?): It survived to the time of the 12 Tables but otherwise disappeared. Cut? So the RNN doesn't think aevi- and ae- are in free variation or equally valid outcomes (they aren't)? To put it another way, aevita:s is really an intermediary stage that happens to be attested, so probably doesn't belong in the target set.	
+aevum	['aiwom']	AEVUM	Noun	2	Nm-N-S	aevi:	['aiwi:']	Gn-N-S	G2					
+ae:nus	['aeznos' 'ajesnos']	AENUS	Adjective	2	Nm-M-S-Ps	ae:ni:	['aezni:' 'ajesni:']	Gn-M-S-Ps	G2	BORROWING			[Borrowing] *ajos, ajes may be the protoform, which is one way of accounting for the hiatus. This could be an Umbrian loan word.	
+affecto:	['adfaktajo:']	AFFECTO	Verb	1	1-S-Pr-Act-Ind	affectat	['adfaktajeti']	3-S-Pr-Act-Ind	V3				Relevant to all 1st conjugation verbs, the outcome of -ajo: should be -a:. -o: was imported into the first conjugation by analogy to other conjugations.	
+afficio:	['adfakjo:']	AFFICIO	Verb	3	1-S-Pr-Act-Ind	afficit	['adfakjeti']	3-S-Pr-Act-Ind	V3					
+ager	['agros']	AGER	Noun	2	Nm-M-S	agri:	['agri:']	Gn-M-S	G2					
+agilis	['agelis']	AGILIS	Adjective	3	Nm-M/F-S-Ps	agilis	['ageles']	Gn-M/F-S-Ps	G3					
+agilita:s	['agelita:ts']	AGILITAS	Noun	3	Nm-F-S	agilita:tis	['agelita:tes']	Gn-F-S	G3					
+aŋnus	['agʷnos']	AGNUS	Noun	2	Nm-M-S	aŋni:	['agʷni:']	Gn-M-S	G2					
+ago:	['ago:']	AGO	Verb	3	1-S-Pr-Act-Ind	agit	['ageti']	3-S-Pr-Act-Ind	V3					
+actus	['agtos']	AGO	Participle	2	Pf-Psv-Nm-M-S-Ps	acti:	['agti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+aio:	['agjo:']	AIO	Verb	Special	1-S-Pr-Act-Ind	ait	['agjeti']	3-S-Pr-Act-Ind	V3					
+albus	['alβos']	ALBUS	Adjective	2	Nm-M-S-Ps	albi:	['alβi:']	Gn-M-S-Ps	G2					
+aliorsum	['aljoworssom']	ALIORSUM	Adverb		Ps									
+alius	['aljos']	ALIUS	Adjective	Special	Nm-M-S-Ps								The genitive is irregular, so it wasn't included. So for totus, ullus, unus, etc.	
+alnus	['alznos']	ALNUS	Noun	2	Nm-F-S									
+alo:	['alo:']	ALO	Verb	3	1-S-Pr-Act-Ind	alit	['aleti']	3-S-Pr-Act-Ind	V3					
+altus	['altos']	ALTUS	Adjective	2	Nm-M-S-Ps	alti:	['alti:']	Gn-M-S-Ps	G2			TRUE		
+alumnus	['alomanos']	ALUMNUS	Adjective	2	Nm-M-S-Ps	alumni:	['alomani:']	Gn-M-S-Ps	G2					
+alvus	['aulos']	ALVUS	Noun	2	Nm-F-S	auli:	['auli:']	Gn-F-S	G2	PHONOLOGY			[Phonology] This form has a rare metathesis (-lv- > -ul-), as does parvus (-ur- > -rv-, the mirror image change).	
+amor_1	['amo:s']	AMOR	Noun	3	Nm-M-S	amo:ris	['amo:ses']	Gn-M-S	G3					
+amosio	['amosjo']										TRUE		Unknown meaning. This is an rare -osyo gen. that was replaced by -i:.	
+amo:_1	['ama:jo:']	AMO	Verb	1	1-S-Pr-Act-Ind	amat	['ama:eti']	3-S-Pr-Act-Ind	V3		TRUE		Some have argued that it's a post-P. Ital. stative (ama-e:-). That means the set would contain a non-P. Ital. form. The sound laws work out the same, so it doesn't matter for teaching the machine, but it does matter if the set is supposed to be late P. Ital.	
+amtruo:	['amβidrewa:jo:']	AMTRUO	Verb	1	1-S-Pr-Act-Ind	amtruat	['amβidrewa:jeti']	3-S-Pr-Act-Ind	V3					
+an	['an']	AN	Conjunction											
+anas	['anats']	ANAS	Noun	3	Nm-F-S	anatis	['anates']	Gn-F-S	G3					
+anci:le	['amβikaidzli']	ANCILE	Noun	3	Nm-N-S	anci:lis	['amβikaidzles']	Gn-N-S	G3				This is apparently in origin an adjective that in principle could refer to anything 'cut on both sides,' but it ends up only as a neuter noun, so here only the neuter is reconstructed.	
+anculus	['amβikʷolos']	ANCULUS	Noun	2	Nm-M-S	anculi:	['amβikʷoli:']	Gn-M-S	G2					
+aŋgo:	['anɣo:']	ANGO	Verb	3	1-S-Pr-Act-Ind	aŋgit	['anɣeti']	3-S-Pr-Act-Ind	V3					
+animus	['anamos']	ANIMUS	Noun	2	Nm-M-S	animi:	['anami:']	Gn-M-S	G2					
+anno:na	['atnozna:']	ANNONA	Noun	1	Nm-F-S	anno:nae	['atnozna:i:']	Gn-F-S	G1				s > z /_vd. That should probably be reconstructed for P. Ital.	
+annus	['atnos']	ANNUS	Noun	2	Nm-M-S	anni:	['atni:']	Gn-M-S	G2					
+antecessor	['antikezto:r']										TRUE		Not really an old word.	
+antenna	['antitempna:']	ANTENNA	Noun	1	Nm-F-S	antennae	['antitempna:i:']	Gn-F-S	G1					
+anti:quus	['anti:kʷos']	ANTIQUUS	Adjective	2	Nm-M-S-Ps	anti:qui:	['anti:kʷi:']	Gn-M-S-Ps	G2					
+aper	['apros']	APER	Noun	2	Nm-M-S	apri:	['apri:']	Gn-M-S	G2					
+apo:	['apo:']										TRUE		Did not survive to Classical Latin (so there is no target).	
+aptus	['aptos']	APTUS	Adjective	2	Nm-M-S-Ps	apti:	['apti:']	Gn-M-S-Ps	G2					
+aqua	['akʷa:']	AQUA	Noun	1	Nm-F-S	aquae	['akʷa:i:']	Gn-F-S	G1					
+arbor	['arðo:s']	ARBOR	Noun	3	Nm-F-S	arboris	['arðozes']	Gn-F-S	G3					
+arceo:	['arkejo:']	ARCEO	Verb	2	1-S-Pr-Act-Ind	arcet	['arke:jeti']	3-S-Pr-Act-Ind	V3					
+arduus	['arðwos']	ARDUUS	Adjective	2	Nm-M-S-Ps	ardui:	['arðwi:']	Gn-M-S-Ps	G2					
+argentum	['argentom']	ARGENTUM	Noun	2	Nm-N-S	argenti:	['argenti:']	Gn-N-S	G2					
+aro:	['ara:jo:']	ARO	Verb	1	1-S-Pr-Act-Ind	arat	['ara:jeti']	3-S-Pr-Act-Ind	V3					
+ars	['artis']	ARS	Noun	3	Nm-F-S	artis	['artes']	Gn-F-S	G3					
+assus	['adtos']	ASSUS	Participle	2	Pf-Psv-Nm-M-S-Ps	assi:	['adti:']	Pf-Psv-Gn-M-S-Ps	PP			TRUE		
+auceps	['awikaps']	AUCEPS	Noun	3	Nm-M-S	aucupis	['awikapes']	Gn-M-S	G3					
+auctus	['augtos']	AUGEO	Participle	2	Pf-Psv-Nm-M-S-Ps	aucti:	['augti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+audeo:	['awide:o:']	AUDEO	Verb	2	1-S-Pr-Act-Ind	audet	['awide:eti']	3-S-Pr-Act-Ind	V3					
+audio:	['awizdjo:']	AUDIO	Verb	4	1-S-Pr-Act-Ind	audit	['awizdjeti']	3-S-Pr-Act-Ind	V3					
+augeo:	['augejo:']	AUGEO	Verb	2	1-S-Pr-Act-Ind	auget	['augejeti']	3-S-Pr-Act-Ind	V3					
+auro:ra	['auzo:s']	AURORA	Noun	1	Nm-F-S	auro:rae	['auzo:sa:i:']	Gn-F-S	G1	MORPHOLOGY			[Morphology] Latin made the inherited s-stem into an a-stem, probably because of the fem. gender of the IE word. That is, auro:ra is not the result of phonological change.	
+aurum	['auzom']	AURUM	Noun	2	Nm-N-S	auri:	['auzi:']	Gn-N-S	G2					
+aut	['auti']	AUT	Conjunction											
+auxi:	['augsai']	AUGEO	Verb	2	1-S-Pf-Act-Ind							TRUE		
+aveo:	['awe:jo:']	AVEO	Verb	2	1-S-Pr-Act-Ind	avet	['awe:jeti']	3-S-Pr-Act-Ind	V3					
+ave:ns	['awents']										TRUE		Generally we are not reconstructing -ns participles.	
+avidus	['awiðos']	AVIDUS	Adjective	2	Nm-M-S-Ps	avidi:	['awiði:']	Gn-M-S-Ps	G2					
+avis	['awis']	AVIS	Noun	3	Nm-F-S	avis	['awojs']	Gn-F-S	G3	MORPHOLOGY			[Morphology] The -is gen. sg. of the i- stems is usually explained as a borrowing from the consonant stems. Sihler argues that *oys was replaced in L. by *yes which (on his view) became *is by normal phonetic processes.	
+avus	['awos']	AVUS	Noun	2	Nm-M-S	avi:	['awi:']	Gn-M-S	G2					
+axis	['aksis']	AXIS	Noun	3	Nm-M-S	axis	['akses']	Gn-M-S	G3					
+axo:	['aksa:jo:']		Verb	1	1-S-Pr-Act-Ind	axat	['aksa:jeti']	3-S-Pr-Act-Ind	V3	DEAD	TRUE		[Dead] This is a very archaic verb attested only in Paulus Festus and not in use in the classical period. So it doesn't really have a outcome or target in the normal sense.	
+a:cer	['akris']	ACER	Adjective	3	Nm-M-S-Ps	a:cris	['akres']	Gn-M-S-Ps	G3					
+a:lium	['a:ljom']	ALIUM	Noun	2	Nm-N-S	a:li:	['a:li:']	Gn-N-S	G2					
+a:nser	['ha:ns']	ANSER	Noun	3	Nm-M-S	a:nseris	['ha:nseres']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] *ha:ns is the IE nom, and the paradigm would have been n *ha:ns, g *ha:nsos, a *ha:nesm, but by the time of Latin the gen. & acc. have been conflated to produce a stem ha:nses- which becomes ha:nser- and takes over. In short, the Latin nom. is an analogical, not a phonological, product.	
+a:ra	['a:za:']	ARA	Noun	1	Nm-F-S	a:rae	['a:za:i:']	Gn-F-S	G1					
+a:rdeo:_1	['a:zide:jo:']	ARDEO	Verb	2	1-S-Pr-Act-Ind	a:rdet	['a:zide:jeti']	3-S-Pr-Act-Ind	V3					
+a:rsus	['a:rdtos']	ARDEO	Adjective	2	Nm-M-S-Ps	a:rsi:	['a:rdti:']	Gn-M-S-Ps	G1			TRUE		
+a:rea	['a:zea:' 'a:rea:']	AREA	Noun	1	Nm-F-S	a:rea	['a:zea:i:' 'a:rea:i:']	Gn-F-S	G1					
+a:reo:	['a:ze:jo:']	AREO	Verb	2	1-S-Pr-Act-Ind	aret	['a:ze:jeti']	3-S-Pr-Act-Ind	V3					
+a:ridita:s	['a:zideta:ts']	ARIDITAS	Noun	3	Nm-F-S	a:ridita:tis	['a:zideta:tess']	Gn-F-S	G3					
+a:ridus	['a:zidos']	ARIDUS	Adjective	2	Nm-M-S-Ps	a:ridi:	['a:zidi:']	Gn-M-S-Ps	G2					
+a:ter	['a:tros']	ATER	Adjective	2	Nm-M-S-Ps	a:tri:	['a:tri:']	Gn-M-S-Ps	G2					
+barba	['farβa:']	BARBA	Noun	1	Nm-F-S	barbae	['farβa:i:']	Gn-F-S	G1					
+barba:tus	['farβa:tos']	BARBATUS	Adjective	2	Nm-M-S-Ps	barba:ti:	['farβa:ti:']	Gn-M-S-Ps	G2					
+beniŋnus	['dwenignos']	BENIGNUS	Adjective	2	Nm-M-S-Ps	beniŋni:	['dwenigni:']	Gn-M-S-Ps	G2				There's no reason to think the combining form had adverbial inflection as on Wiktionary, hence 'dwenedgenos' was cut; we reconstruct dweni-.	
+beo:	['dwea:jo:']	BEO	Verb	1	1-S-Pr-Act-Ind	beat	['dwea:jeti']	3-S-Pr-Act-Ind	V3					
+bibo:	['pibo:']	BIBO	Verb	3	1-S-Pr-Act-Ind	bibit	['pibeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] A one-off regressive assimilation seems to have made p-b- into b-b-. But that didn't happen everywhere: pubes didn't become bubes; cf. also pabulum, publicus.	
+bonus	['dwenos']	BONUS	Adjective	2	Nm-M-S-Ps	boni:	['dweni:']	Gn-M-S-Ps	G2					
+bo:s	['gʷo:s']	BOS	Noun	3	Nm-M/F-S	bovis	['gʷowes']	Gn-M/F-S	G3	BORROWING			[Borrowing] The initial consonant shows a non-Latin outcome and is thus probably a borrowing.	
+brevis	['breɣʷis']	BREVIS	Adjective	3	Nm-M/F-S-Ps	brevis	['breɣʷes']	Gn-M/F-S-Ps	G3					
+bru:tus	['gʷru:tos']	BRUTUS	Adjective	2	Nm-M-S-Ps	bru:ti:	['gʷru:ti:']	Gn-M-S-Ps	G2	BORROWING			[Borrowing] The initial consonant shows a non-Latin outcome and is thus probably a borrowing.	
+cado:	['kado:']	CADO	Verb	3	1-S-Pr-Act-Ind	cadit	['kadeti']	3-S-Pr-Act-Ind	V3					
+caecus	['kaikos']	CAECUS	Adjective	2	Nm-M-S-Ps	caeci:	['kaiki:']	Gn-M-S-Ps	G2					
+caedo:	['kaido:']	CAEDO	Verb	3	1-S-Pr-Act-Ind	caedit	['kaideti']	3-S-Pr-Act-Ind	V3					
+caelum_1	['kailom']	CAELUM1	Noun	2	Nm-N-S	caeli:	['kaili:']	Gn-N-S	G2					
+caelum_2	['kaidslom' 'kaidlom']	CAELUM2	Noun	2	Nm-N-S	caeli:	['kaidsli:' 'kaidli:']	Gn-N-S	G2					
+caementum	['kaidmentom']	CAEMENTUM	Noun	2	Nm-N-S	caementi:	['kaidmenti:']	Gn-N-S	G2					
+caleo:	['kale:o:']	CALEO	Verb	2	1-S-Pr-Act-Ind	calet	['kale:eti']	3-S-Pr-Act-Ind	V3					
+calo:	['kalo:']	CALO	Verb	1	1-S-Pr-Act-Ind	calat	['kalati']	3-S-Pr-Act-Ind	V3				Unlike most 1st conj. verbs, the -a- in this paradigm seems to come from a laryngeal (like do: dare), hence a short -a- is reconstructed for the 3rd sg.	
+calumnia	['kalwomnia:']	CALUMNIA	Noun	1	Nm-F-S	calumniae	['kalwomnia:i:']	Gn-F-S	G1					
+calva	['kalowa:']	CALVA	Noun	1	Nm-F-S	calvae	['kalowa:i:']	Gn-F-S	G1					
+calvor	['kalwo:r']	CALVOR	Verb	3	1-S-Pr-Dep-Ind	calvitur	['kalwetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+calvus	['kalowos']	CALVUS	Adjective	2	Nm-M-S-Ps	calvi:	['kalowi:']	Gn-M-S-Ps	G2					
+camur	['kameros']	CAMUR	Adjective	2	Nm-M-S-Ps	cameri:	['kameri:']	Gn-M-S-Ps	G2					
+cancer	['kankros' 'karkros']	CANCER	Noun	3	Nm-M-S					PHONOLOGY			[Phonology] *karkros is a postulated pre-form of securely reconstructable *kankros. Feeding both forms in implies they are both late P. Ital., but one is older. That is, the forms are layered. (Probably some r-r dissimilation).	
+candeo:	['kande:o:']	CANDEO	Verb	2	1-S-Pr-Act-Ind	candet	['kande:eti']	3-S-Pr-Act-Ind	V3					
+cano:	['kano:']	CANO	Verb	3	1-S-Pr-Act-Ind	canit	['kaneti']	3-S-Pr-Act-Ind	V3					
+caper	['kapros']	CAPER	Noun	2	Nm-M-S	capri:	['kapri:']	Gn-M-S	G2					
+capio:	['kapjo:']	CAPIO	Verb	3	1-S-Pr-Act-Ind	capit	['kapjeti']	3-S-Pr-Act-Ind	V3					
+caput	['kaput']	CAPUT	Noun	3	Nm-N-S	capitis	['kaputes']	Gn-N-S	G3					
+carcer	['karkros']	CARCER	Noun	2	Nm-M-S	carcri:	['karkri:']	Gn-M-S	G2					
+careo:	['kaze:o:']	CAREO	Verb	2	1-S-Pr-Act-Ind	caret	['kaze:eti']	3-S-Pr-Act-Ind	V3					
+carmen	['kanmen']	CARMEN	Noun	3	Nm-N-S	carminis	['kanmenes']	Gn-N-S	G3					
+caro:	['kero:']	CARO	Noun	3	Nm-F-S	carnis	['karenes']	Gn-F-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The inherited full grade nominative was levelled out.	
+carpo:	['karpo:']	CARPO	Verb	3	1-S-Pr-Act-Ind	carpit	['karpeti']	3-S-Pr-Act-Ind	V3					
+cascus	['kaskos']	CASCUS	Adjective	2	Nm-M-S-Ps	casci:	['kaski:']	Gn-M-S-Ps	G2					
+castro:	['kastra:jo:']	CASTRO	Verb	1	1-S-Pr-Act-Ind	castrat	['kastra:jeti']	3-S-Pr-Act-Ind	V3					
+castrum	['kastrom']	CASTRUM	Noun	2	Nm-N-S	castri:	['kastri:']	Gn-N-S	G2					
+caterva:	['kateswa:']	CATERVA	Noun	1	Nm-F-S	catervae	['kateswa:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Rix 1981: 119 claims -sw- > -rw-; the form is sometimes reconstructed as katesowa, in which case the -r- would be normal.	rixRapportiOnomastici1981
+cate:na	['katezna:']	CATENA	Noun	1	Nm-F-S	cate:nae	['katezna:i:']	Gn-F-S	G1					
+cati:nus	['kati:nos']	CATINUS	Noun	2	Nm-M-S	cati:ni:	['kati:ni:']	Gn-M-S	G2					
+catulus	['katelos']	CATULUS	Noun	2	Nm-M-S	catuli:	['kateli:']	Gn-M-S	G2					
+catus	['katos']	CATUS	Adjective	2	Nm-M-S-Ps	cati:	['kati:']	Gn-M-S-Ps	G2					
+cauda	['kauda:']	CAUDA	Noun	1	Nm-F-S	caudae	['kauda:i:']	Gn-F-S	G1					
+caula	['kaɣela']	CAULA	Noun	1	Nm-F-S	caulae	['kaɣela:i:']	Gn-F-S	G1				(1) de Vaan usually uses χ and not ɣ. This is an allomorphy problem. It is usually assumed that the fricatives were voiced intervocalically but not initially. Thus the sounds are identical phonemically but not phonetically. The data we have is mostly phonetic, not phonemic (thus we are reconstructing with -zn- and not -sn-). (2) We reconstruct the singular; the word happens to be attested only in the plural, but that is a lexicalization not relevant to phonetic processes.	deVaan2008
+caurus	['kaweros']	CAURUS	Noun	2	Nm-M-S	cauri:	['kauweri:']	Gn-M-S	G2					
+causa	['kaussa:']	CAUSA	Noun	1	Nm-F-S	causae	['kaussa:i:']	Gn-F-S	G1				This one is often reconstructed *kaud-ta:.	
+causa:	['kaussa:']										TRUE		This is the ablative of the preceding used as a preposition and not relevant to phonetic processes. Furthermore the Ital. abl. was -a:d.	
+caveo:	['kawe:jo:']	CAVEO	Verb	2	1-S-Pr-Act-Ind	cavet	['kawe:jeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] The real origin here is *-ow-. -ow- is unrounded pretonically to -aw-, probably pre-Proto-Italic (Vine's law). The broader issue is accent. IE had mobile accent; P. Ital. developed head accent; classical Latin has the well-known penultimate rule.	
+cavo:	['kawa:jo:']	CAVO	Verb	1	1-S-Pr-Act-Ind	cavat	['kawa:jeti:']	3-S-Pr-Act-Ind	G2					
+cavus	['kawos']	CAVUS	Adjective	2	Nm-M-S-Ps	cavi:	['kawi:']	Gn-M-S-Ps	G2					
+ca:nus	['kaznos']	CANUS	Adjective	2	Nm-M-S-Ps	ca:ni:	['kazni:']	Gn-M-S-Ps	G2					
+ca:rus	['ka:ros']	CARUS	Adjective	2	Nm-M-S-Ps	ca:ri:	['ka:ri:']	Gn-M-S-Ps	G2					
+cedo	['kedo:']	CEDO1	Verb	3	2-S-Pr-Act-Imp								We cut Wiktionary's "ke-date". That's the pre-form of the plural cette (added below). Cedo is the singular.	
+celeber	['kelizris']	CELEBER	Adjective	3	Nm-M-S-Ps	celebris	['kelizres']	Gn-M-S-Ps	G3					
+centum	['kentom']	CENTUM	Numeral											
+cerebrum	['kerazrom']	CEREBRUM	Noun	2	Nm-N-S	cerebri:	['kerazri:']	Gn-N-S	G2					
+cerno:	['krino:']	CERNO	Verb	3	1-S-Pr-Act-Ind	cernit	['krineti']	3-S-Pr-Act-Ind	V3					
+cette	['kedate']	CEDO1	Verb	3	2-P-Pr-Act-Imp							TRUE		
+ceu	['keiwe']	CEU	Adverb		Ps									
+ce:do:	['kezdo:']	CEDO2	Verb	3	1-S-Pr-Act-Ind	ce:dit	['kezdeti']	3-S-Pr-Act-Ind	V3					
+ce:na	['kertsna:']										TRUE		CHANGE—cut. The later short quantity shouldn't be in P. Ital.	
+ce:na:	['kertzna:']	CENA	Noun	1	Nm-F-S	ce:nae	['kertzna:i:']	Gn-F-S	G1					
+ce:nseo:	['kense:jo:']	CENSEO	Verb	2	1-S-Pr-Act-Ind	ce:nset	['kense:jeti']	3-S-Pr-Act-Ind	V3					
+ce:veo:	['ke:wejo:']	CEVEO	Verb	2	1-S-Pr-Act-Ind	ce:vet	['ke:wejeti']	3-S-Pr-Act-Ind	V3					
+ci:vis	['keiwis']	CIVIS	Noun	3	Nm-M/F-S	ci:vis	['keiwes']	Gn-M/F-S	G3					
+ci:vita:s	['keiwita:ts']	CIVITAS	Noun	3	Nm-F-S	ci:vita:tis	['keiwita:tes']	Gn-F-S	G3					
+classis	['kla:ssis']	CLASSIS	Noun	3	Nm-F-S	classis	['kla:sses']	Gn-F-S	G3					
+claudo:	['klaudo:']	CLAUDO	Verb	3	1-S-Pr-Act-Ind	claudit	['klaudeti']	3-S-Pr-Act-Ind	V3					
+cla:mo:	['kla:ma:jo:']	CLAMO	Verb	1	1-S-Pr-Act-Ind	cla:mat	['kla:ma:jeti']	3-S-Pr-Act-Ind	V3					
+cla:rus	['kla:zos']	CLARUS	Adjective	2	Nm-M-S-Ps	cla:ri:	['kla:zi:']	Gn-M-S-Ps	G2					
+cla:vis	['kla:wis']	CLAVIS	Noun	3	Nm-F-S	cla:vis	['kla:wes']	Gn-F-S	G3					
+cla:vus	['kla:wos']	CLAVUS	Noun	2	Nm-M-S	cla:vi:	['kla:wi:']	Gn-M-S	G2					
+clepo:	['klepo:']	CLEPO	Verb	3	1-S-Pr-Act-Ind	clepit	['klepeti']	3-S-Pr-Act-Ind	V3					
+cle:me:ns	['kleiments']	CLEMENS	Adjective	3	Nm-M/F/N-S-Ps	cle:mentis	['kleimentes']	Gn-M/F/N-S-Ps	G3	ASSOCIATION			[Association] The normal outcome of *-ei- is -i:-. It may be that the expected cli:mens was remodelled to cle:mens by antithetical analogy to vehemens (= ve:mens).	
+clipeus	['klupeos']	CLIPEUS	Noun	2	Nm-M-S	clipei:	['klupei:']	Gn-M-S	G2					
+cli:no:	['kleina:jo:']	CLINO	Verb	1	1-S-Pr-Act-Ind	cli:nat	['kleina:jeti']	3-S-Pr-Act-Ind	V3					
+clueo:	['klue:o:']	CLUEO	Verb	2	1-S-Pr-Act-Ind	cluet	['klue:eti']	3-S-Pr-Act-Ind	V3					
+clu:nis	['klounis']	CLUNIS	Noun	3	Nm-M/F-S	clu:nis	['klounes']	Gn-M/F-S	G3					
+cohors	['komɣortis']	COHORS	Noun	3	Nm-F-S	cohortis	['komɣortes']	Gn-F-S	G3			TRUE		
+cohum	['koɣom']	COHUM	Noun	2	Nm-N-S	cohi:	['koɣi:']	Gn-N-S	G2				We cut ['kaɣjom'] for ['koɣom']. kaɣ-je- is the verbal pre-form postulated for some Sabellic forms. The noun did not have a -j-.	
+collis	['kolnis']	COLLIS	Noun	3	Nm-M-S	collis	['kolnes']	Gn-M-S	G3			TRUE		
+collus	['kwolsos']	COLLUS	Noun	2	Nm-M-S	colli:	['kwolsi:']	Gn-M-S	G2			TRUE		
+colo:	['kʷelo:']	COLO	Verb	3	1-S-Pr-Act-Ind	colit	['kʷeleti']	3-S-Pr-Act-Ind	V3					
+colo:s	['kelo:s']	COLOR	Noun	3	Nm-M-S	colo:ris	['kolozes']	Gn-M-S	G3					
+coluber	['kolozros']	COLUBER	Noun	2	Nm-M-S	colubri:	['kolozri:']	Gn-M-S	G2					
+colubra	['kolozra:']	COLUBRA	Noun	1	Nm-F-S	colubrae	['kolozra:i:']	Gn-F-S	G1					
+columen	['kolamen']	COLUMEN	Noun	3	Nm-N-S	columinis	['kolamenes']	Gn-N-S	G3					
+colus	['kʷelus']	COLUS	Noun	4	Nm-F-S	colu:s	['kʷeluos']	Gn-F-S	G4					
+comes	['komits']	COMES	Noun	3	Nm-M/F-S	comitis	['komites']	Gn-M/F-S	G3					
+comis	['komsmis']										TRUE		Co:mis is only long.	
+commu:nis	['kommoinis']	COMMUNIS	Adjective	3	Nm-M/F-S-Ps	commu:nis	['kommoines']	Gn-M/F-S-Ps	G3					
+compos	['kompotis']	COMPOS	Adjective	3	Nm-M/F/N-S-Ps	compotis	['kompotes']	Gn-M/F/N-S-Ps	G3					
+condu:co:	['komdouko:']	CONDUCO	Verb	3	1-S-Pr-Act-Ind	condu:cit	['komdouketi']	3-S-Pr-Act-Ind	V3					
+co:nor	['ko:na:jo:r']	CONOR	Verb	1	1-S-Pr-Dep-Ind	cona:tur	['kona:jetor']	3-S-Pr-Dep-Ind	V1			TRUE		
+co:nsulo:	['komselo:']	CONSULO	Verb	3	1-S-Pr-Act-Ind	co:nsulit	['komseleti']	3-S-Pr-Act-Ind	V3			TRUE	Within Latin, -Vns > -V:ns.	
+contio:	['komwentio:']	CONTIO	Noun	3	Nm-F-S	contio:nis	['komwentio:nes']	Gn-F-S	G3			TRUE		
+contra:	['komtera:d']	CONTRA	Preposition											
+convexus	['komwekttos']	CONVEXUS	Adjective	2	Nm-M-S-Ps	convexi:	['komwektti:']	Gn-M-S-Ps	G2	MORPHOLOGY		TRUE	[Morphology] The -vex- might also be by analogy with flexus, nexus; and the etymology might be *-weχso-.	
+coquo:	['kʷekʷo:']	COQUO	Verb	3	1-S-Pr-Act-Ind	coquit	['kʷekʷeti']	3-S-Pr-Act-Ind	V3					
+cor	['kord']	COR	Noun	3	Nm-N-S	cordis	['kordes']	Gn-N-S	G3					
+corpus	['korpos']	CORPUS	Noun	3	Nm-N-S	corporis	['korpozes']	Gn-N-S	G3					
+corvus	['korwos']	CORVUS	Noun	2	Nm-M-S	corvi:	['korwi:']	Gn-M-S	G2					
+co:mis	['komsmis']	COMIS	Adjective	3	Nm-M/F-S-Ps	co:mis	['komsmes']	Gn-M/F-S-Ps	G3					
+co:ni:veo:	['komkneiɣʷe:o:']	CONIVEO	Verb	2	1-S-Pr-Act-Ind	co:ni:vet	['komkneiɣʷe:eti']	3-S-Pr-Act-Ind	V3				Add kom-. The form in the list is the (unattested) simplex.	
+co:nsta:ns	['komstaje:nts']	CONSTO	Adjective	3	Nm-M/F/N-S-Ps	co:nstantis	['komstaje:nts']	Gn-M/F/N-S-Ps	G3					
+co:nsto:	['komstaje:o:']	CONSTO	Verb	1	1-S-Pr-Act-Ind	co:nstat	['komstaje:eti']	3-S-Pr-Act-Ind	V3					
+co:s	['ko:tis']	COS	Noun	3	Nm-F-S	co:tis	['ko:tes']	Gn-F-S	G3					
+co:ram	['koo:sa:m']	CORAM	Preposition									TRUE		
+corium	['korjom']	CORIUM	Noun	2	Nm-N-S	corii:	['korji:']	Gn-N-S	G2			TRUE		
+corpus	['korpos']		Noun	3	Nm-N-S	corporis	['korpores']	Gn-N-S	G3		TRUE	TRUE		
+corvus	['korwos']		Noun	2	Nm-M-S	corvi:	['korwi:']	Gn-M-S	G2		TRUE	TRUE		
+co:turni:x	['kwaktri:x']										TRUE		I think I would cut this one. The etymology is uncertain and muddy, the ultimate outcome is probably contaminated by co:rni:x, the initial syllable varies in quantity, and there are various doublets.	
+co:s	['ko:ts']		Noun	3	Nm-N-S	co:tis	['ko:tes']	Gn-N-S	G3		TRUE	TRUE		
+coxa	['koksa:']	COXA	Noun	1	Nm-F-S	coxae	['koksa:i:']	Gn-F-S	G1			TRUE		
+coxendi:x	['koksedni:ks']	COXENDIX	Noun	3	Nm-F-S	coxendi:cis	['koksedni:kes']	Gn-F-S	G3			TRUE		
+crassus	['krattos']	CRASSUS	Adjective	2	Nm-M-S-Ps	crassi:	['kratti:']	Gn-M-S-Ps	G2				There isn't a known pre-form for this word.	
+cra:bro:	['kra:zro:']	CRABRO	Noun	3	Nm-M-S	cra:bro:nis	['kra:zro:nis']	Gn-M-S	G3					
+cra:s	['kra:s']	CRAS	Adverb		Ps									
+cra:tis	['kra:tis']	CRATIS	Noun	3	Nm-F-S	cra:tis	['kra:tes']	Gn-F-S	G3			TRUE		
+creo:	['kre:a:jo:']	CREO	Verb	1	1-S-Pr-Act-Ind	creat	['kre:a:jeti:']	3-S-Pr-Act-Ind	V3					
+cre:do:	['krezðo:']	CREDO	Verb	3	1-S-Pr-Act-Ind	cre:dit	['krezðeti']	3-S-Pr-Act-Ind	V3					
+creper	['kreperos']	CREPER	Adjective	2	Nm-M-S-Ps	creperi:	['kreperi:']	Gn-M-S-Ps	G2			TRUE		
+crepo:	['krepa:jo:']	CREPO	Verb	1	1-S-Pr-Act-Ind	crepat	['krepa:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+crepusculum	['kreposkolom']	CREPUSCULUM	Noun	2	Nm-N-S	crepusculi:	['kreposkoli:']	Gn-N-S	G2			TRUE		
+cre:sco:	['kre:sko:']	CRESCO	Verb	3	1-S-Pr-Act-Ind	cre:scit	['kre:sketi']	3-S-Pr-Act-Ind	V3					
+cri:brum	['kreiðrom']	CRIBRUM	Noun	2	Nm-N-S	cri:bri:	['kreiðri:']	Gn-N-S	G2					
+cri:men	['kreimen']	CRIMEN	Noun	3	Nm-N-S	cri:minis	['kreimenes']	Gn-N-S	G3					
+cri:nis	['kriznis']	CRINIS	Noun	3	Nm-M-S	cri:nis	['kriznes']	Gn-M-S	G3					
+crispus	['krispos']	CRISPUS	Adjective	2	Nm-M-S-Ps	crispi:	['krispi:']	Gn-M-S-Ps	G2			TRUE		
+cru:dus	['krowoðos']	CRUDUS	Adjective	2	Nm-M-S-Ps	cru:di:	['krowoði:']	Gn-M-S-Ps	G2			TRUE		
+cruor	['kruwo:s']	CRUOR	Noun	3	Nm-M-S	cruo:ris	['kruwo:ses']	Gn-M-S	G3	PARADIGM LEVELING		TRUE	[Paradigm Leveling] The nominative should be -o:s, but (as in color) was replaced by analogy with the regularly developing -r- of the oblique stem.	
+cru:s	['kru:s']	CRUS	Noun	3	Nm-N-S	cru:ris	['kru:ses']	Gn-N-S	G3			TRUE		
+crusta	['krusta:']	CRUSTA	Noun	1	Nm-F-S	crustae	['krusta:i:']	Gn-F-S	G1					
+crux	['kruks']	CRUX	Noun	3	Nm-F-S	crucis	['krukes']	Gn-F-S	V3					
+cubo:	['kuba:jo:']	CUBO	Verb	1	1-S-Pr-Act-Ind	cubat	['kuba:jeti']	3-S-Pr-Act-Ind	V3					
+cu:do:	['ku:do:']		Verb	3	1-S-Pr-Act-Ind	cu:dit	['ku:deti']	3-S-Pr-Act-Ind	V3		TRUE	TRUE		
+culex	['ku:liks']	CULEX	Noun	3	Nm-M-S	culicis	['ku:likes']	Gn-M-S	G3	PHONOLOGY, MORPHOLOGY		TRUE	[Phonology] Skt. śu:la- suggests the root was *ku:l-, which would have been shortened by Dybo's law (long pretonic vowels in front of resonants are shortened). [Morphology] The ending -ex is sometimes etymological but also spreads (as in iu:dex, which should be iu:dix).	
+cuiius	['kʷojjos']	QUI	Pronoun	Special	Gn-M/F/N-S									
+culmen	['kolamen']	CULMEN	Noun	3	Nm-N-S	culminis	['kolamenes']	Gn-N-S	G3					
+culter	['koltros']	CULTER	Noun	2	Nm-M-S	cultri:	['koltri:']	Gn-M-S	G2			TRUE		
+culpa	['kʷolpa:']	CULPA	Noun	1	Nm-F-S	culpae	['kʷolpa:i:']	Gn-F-S	G1					
+cum	['kom']	CUM	Preposition											
+cu:na	['koina:']	CUNA	Noun	1	Nm-F-S	cu:nae	['koina:i:']	Gn-F-S	G1				This word is attested only in the lexicalized plural. If a P. Ital. nom. plu. is reconstructed, it would have to be -a:s (Latin -ae is from the pronominal stems).	
+cunctor	['konkita:jo:r']	CUNCTOR	Verb	1	1-S-Pr-Dep-Ind	cuncta:tur	['konkita:jetior']	3-S-Pr-Dep-Ind	V1			TRUE		
+cunctus	['komkitos']	CUNCTUS	Adjective	2	Nm-M-S-Ps	cuncti:	['komkiti:']	Gn-M-S-Ps	G2			TRUE		
+cunnus	['kutnos']	CUNNUS	Noun	2	Nm-M-S	cunni:	['kutni:']	Gn-M-S	G1			TRUE		
+cupio	['kupjo:']	CUPIO	Verb	3	1-S-Pr-Act-Ind	cupit	['kupjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+curro:	['korzo:']	CURRO	Verb	3	1-S-Pr-Act-Ind	currit	['korzeti']	3-S-Pr-Act-Ind	V3					
+currus	['korzos']	CURRUS	Noun	4	Nm-M-S	curru:s	['korzuos']	Gn-M-S	G4					
+curtus	['kortos']	CURTUS	Adjective	2	Nm-M-S-Ps	curti:	['korti:']	Gn-M-S-Ps	G2					
+curvus	['korwos']	CURVUS	Adjective	2	Nm-M-S-Ps	curvi:	['korwi:']	Gn-M-S-Ps	G2					
+cu:do:	['ku:do:']	CUDO	Verb	3	1-S-Pr-Act-Ind	cu:dit	['ku:deti']	3-S-Pr-Act-Ind	V3					
+cu:r	['kʷo:r']	CUR	Adverb		Ps									
+cu:ra	['kʷoiza:']	CURA	Noun	1	Nm-F-S	cu:rae	['kʷoiza:i:']	Gn-F-S	G1					
+cu:ria	['kowirija:']	CURIA	Noun	1	Nm-F-S	cu:riae	['kowirija:i:']	Gn-F-S	G1					
+cu:ra:	['kʷoiza:']										TRUE		Appears as a separate lemma because of the lexicalizing of the ablative into a preposition.	
+custo:s	['kustots']	CUSTOS	Noun	3	Nm-M-S	custo:dis	['kusto:des']	Gn-M-S	G3					
+damnum	['dapnom']	DAMNUM	Noun	2	Nm-N-S	damni:	['dapni:']	Gn-N-S	G2					
+daps	['dapis']	DAPS	Noun	3	Nm-F-S	dapes	['dapes']	Gn-F-S	G3			TRUE		
+dea	['deiwa:']	DEA	Noun	1	Nm-F-S	deae	['deiwa:i:']	Gn-F-S	G1					
+decem	['dekem']	DECEM	Numeral											
+deceo:	['deke:jo:']	DECEO	Verb	2	1-S-Pr-Act-Ind	decet	['deke:jeti']	3-S-Pr-Act-Ind	V3					
+decimus	['dekemos']	DECIMUS	Adjective	2	Nm-M-S-Ps	decimi:	['dekemi:']	Gn-M-S-Ps	G2					
+decus	['dekos']	DECUS	Noun	3	Nm-N-S	decoris	['dekozes']	Gn-N-S	G3					
+deiva:	['deiwa:']										TRUE		This should be di:va, but I would cut it. See under deus.	
+deivos	['deiwos']										TRUE		See under deus.	
+deus	['deiwos']	DEUS	Noun	2	Nm-M-S	deum	['deiwom']	Ac-M-S	A2				The normal outcome of deiw- before a back vowel is de-; but before a front vowel di:v-. The two different stems are then generalized out to fully independent paradigms. We therefore do not decline the genitive here, but we include one more back vowel form (the accusative singular, added here).	
+dexter	['deksiteros']	DEXTER	Adjective	2	Nm-M-S-Ps	dexteri:	['deksiteri:']	Gn-M-S-Ps	G2					
+de:	['de:']	DE	Preposition											
+de:leo:	['de:olejo:']	DELEO	Verb	2	1-S-Pr-Act-Ind	de:let	['de:olejeti']	3-S-Pr-Act-Ind	V3			TRUE		
+de:ns	['dents']	DENS	Noun	3	Nm-M-S	de:ntis	['dentes']	Gn-M-S	G3					
+de:nsus	['densos']	DENSUS	Adjective	2	Nm-M-S-Ps	de:nsi:	['densi:']	Gn-M-S-Ps	G2				This is not a fully certain etymology.	
+de:nuo:	['de: nowo:d']	DENUO	Adverb		Ps									
+de:ri:vo:	['de:reiwa:jo:']	DERIVO	Verb	1	1-S-Pr-Act-Ind	de:ri:vat	['de:reiwa:jeti']	3-S-Pr-Act-Ind	V3					
+difficilis	['dwisfakelis']	DIFFICILIS	Adjective	3	Nm-M/F-S-Ps	difficilis	['dwisfakeles']	Gn-M/F-S-Ps	G3					
+difficulta:s	['dwisfakelita:ts']	DIFFICULTAS	Noun	3	Nm-F-S	difficulta:tis	['dwisfakelita:tes']	Gn-F-S	G3					
+digitus	['dikitos']	DIGITUS	Noun	2	Nm-M-S	digiti:	['dikiti:']	Gn-M-S	G2	PHONOLOGY		TRUE	[Phonology] If -dic- 'point' is the correct root, then the voicing to -g- is unusual (perhaps perseverative after the voiced #d-).	
+diŋnus	['deknos']	DIGNUS	Adjective	2	Nm-M-S-Ps	diŋni:	['dekni:']	Gn-M-S-Ps	G2				This word is attested only in the lexicalized plural. If a P. Ital. nominative plural is reconstructed, it would have to be -a:s (Latin -ae is from the pronominal stems).	
+discipulus	['dwiskapelos']	DISCIPULUS	Noun	2	Nm-M-S	discipuli:	['dwiskapeli:']	Gn-M-S	G2					
+disco:	['diksko:']	DISCO	Verb	3	1-S-Pr-Act-Ind	discit	['diksketi']	3-S-Pr-Act-Ind	V3				(1) We added a 'k' (the pre-form is *di-dk-sk-e/o-).  NOTE: Reconstruct the full proto-form? Otherwise, we're doing one of the cluster reductions ourselves, so to speak.	
+dissipo:	['dwissupa:jo:']	DISSIPO	Verb	1	1-S-Pr-Act-Ind	dissipat	['dwissupa:jeti']	3-S-Pr-Act-Ind	V3					
+distortus	['dwistorktos']	DISTORQUEO	Participle	2	Pf-Psv-Nm-M-S-Ps	distorti:	['dwistorkti:']	Pf-Psv-Gn-M-S-Ps	G2					
+diu:s	['djous']										TRUE		Djous is the old nom (< *djeus = Zeus) that shows up in Iu:piter, but is not the immediate pre-form of diu:s. There is an adjective di:us, but this is a later development of di:vus.	
+di:co:	['deiko:']	DICO	Verb	3	1-S-Pr-Act-Ind	di:cit	['deiketi']	3-S-Pr-Act-Ind	V3					
+di:minuo:	['dwizminwo:']	DIMINUO	Verb	3	1-S-Pr-Act-Ind	di:minuit	['dwizminweti:']	3-S-Pr-Act-Ind	V3				These forms assume that dis comes from dwis, which is reasonable semantically ('apart' ~ 'in two')—but phonetically dwis should become bis. So why di:-? Some have argued that the form dissimilated in front of verbs in #w- (e.g. dwis-vort- > dis-vort) and was then generalized as di:-. Maybe. But the question is, what did things look like at the late P. Ital. stage? At that point, the form seems to have been securely dis-, we reconstruct this. We did not made the change here or in other forms with outcomes in dis-/di-.	
+di:re:ctus	['dwizrektos']	DIRECTUS	Adjective	2	Nm-M-S-Ps	di:re:cti:	['dwizrekti:']	Gn-M-S-Ps	G2				These forms assume that dis comes from dwis, which is reasonable semantically ('apart' ~ 'in two')—but phonetically dwis should become bis. So why di:-? Some have argued that the form dissimilated in front of verbs in #w- (e.g. dwis-vort- > dis-vort) and was then generalized as di:-. Maybe. But the question is, what did things look like at the late P. Ital. stage? At that point, the form seems to have been securely dis-, we reconstruct this. We did not made the change here or in other forms with outcomes in dis-/di-.	
+di:rigo:	['dwizrego:']	DIRIGO	Verb	3	1-S-Pr-Act-Ind	di:rigit	['dwizregeti']	3-S-Pr-Act-Ind	V3				These forms assume that dis comes from dwis, which is reasonable semantically ('apart' ~ 'in two')—but phonetically dwis should become bis. So why di:-? Some have argued that the form dissimilated in front of verbs in #w- (e.g. dwis-vort- > dis-vort) and was then generalized as di:-. Maybe. But the question is, what did things look like at the late P. Ital. stage? At that point, the form seems to have been securely dis-, we reconstruct this. We did not made the change here or in other forms with outcomes in dis-/di-.	
+di:ruptio:	['dwizruptjo:']	DIRUPTIO	Noun	3	Nm-F-S	di:ruptio:nis	['dwizruptjo:nes']	Gn-F-S	Ve				These forms assume that dis comes from dwis, which is reasonable semantically ('apart' ~ 'in two')—but phonetically dwis should become bis. So why di:-? Some have argued that the form dissimilated in front of verbs in #w- (e.g. dwis-vort- > dis-vort) and was then generalized as di:-. Maybe. But the question is, what did things look like at the late P. Ital. stage? At that point, the form seems to have been securely dis-, we reconstruct this. We did not made the change here or in other forms with outcomes in dis-/di-.	
+di:rus	['dweiros']	DIRUS	Adjective	2	Nm-M-S-Ps	di:ri:	['dweiri:']	Gn-M-S-Ps	G2	BORROWING			[Borrowing] The *dw- should become *b-, but there's some reason to think the form is non-Latin.	
+di:vi:	['deiwei']	DEUS	Noun	2	Nm-M-P	di:vi:s	['deiwois']	Dt-M-P	DP2				The normal outcome of deiw- before a back vowel is de-; but before a front vowel di:v-. The two different stems are then generalized out to fully independent paradigms. We add forms with div- before front vowels here.	
+di:ves	['deiwets']	DIVES	Adjective	3	Nm-M/F/N-S-Ps	di:tis	['deiwetes']	Gn-M/F/N-S-Ps	G3			TRUE	This is the original dimorphic paradigm; the -i:wi- that developed in the oblique cases contracted to -i:-. The dimorphism led to two parallel paradigms with a new nominative di:s and a new oblique di:vit-.	
+di:xi:	['deiksai']	DICO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+doceo:	['dokejo:']	DOCEO	Verb	2	1-S-Pr-Act-Ind	docet	['dokejeti']	3-S-Pr-Act-Ind	V3					
+doleo:	['dolejo:']	DOLEO	Verb	2	1-S-Pr-Act-Ind	dolet	['dolejeti']	3-S-Pr-Act-Ind	V3					
+dolo:s	['dolo:s']	DOLOR	Noun	3	Nm-M-S	dolo:ris	['dolo:ses']	Gn-M-S	G3				The usual nominative -or is analogical.	
+dolo:	['dolajo:']	DOLOR	Verb	1	1-S-Pr-Act-Ind	dolat	['dolajeti:']	3-S-Pr-Act-Ind	V3					
+dominus	['domunos' 'domonos' 'domanos']	DOMINUS	Noun	2	Nm-M-S	domini:	['domuni:' 'domoni:' 'domani:']	Gn-M-S	G2					
+domo:	['doma:jo:']	DOMO	Verb	1	1-S-Pr-Act-Ind	domat	['domajeti']	3-S-Pr-Act-Ind	V3					
+domus	['domos']	DOMUS	Noun	4	Nm-F-S	domu:s	['domous']	Gn-F-S	G4					
+dormio:	['dormjo:']	DORMIO	Verb	4	1-S-Pr-Act-Ind	dormit	['dormjeti']	3-S-Pr-Act-Ind	V3					
+dorsum	['dorsom']	DORSUM	Noun	2	Nm-N-S	dorsi:	['dorsi:']	Gn-N-S	G2					
+do:	['dao:']	DO	Verb	1	1-S-Pr-Act-Ind	dat	['dati']	3-S-Pr-Act-Ind	V3				We cut Wiktionary's etymon *dido:.  It's true that the inherited P. Ital. present was dido:. That form is preserved in Sabellic and in Latin compounds (reddo: < redido:). The Latin do:, however, is not the direct descendant of dido; it's apparently the root aorist of that verb repurposed as a present, so we have changed the form here.	
+do:no:	['do:na:jo:']	DONO	Verb	1	1-S-Pr-Act-Ind	do:nat	['do:na:jeti']	3-S-Pr-Act-Ind	V3					
+do:num	['do:nom']	DONUM	Noun	2	Nm-N-S	do:ni:	['do:ni:']	Gn-N-S	G2					
+dorsum	['deworsom']		Noun	2	Nm-N-S	dorsi:	['deworsi:']	Gn-N-S	G2		TRUE	TRUE		
+do:s	['do:tis']	DOS	Noun	3	Nm-F-S	do:tis	['do:tis']	Gn-F-S	G3					
+dubius	['duifwos' 'dufwos']	DUBIUS	Adjective	2	Nm-M-S-Ps	dubii:	['duifwi:' 'dufwi:']	Gn-M-S-Ps	G2					
+duellum	['dwellom']	DUELLUM	Noun	2	Nm-N-S	duelli:	['dwelli:']	Gn-N-S	G2	PHONOLOGY			[Phonology] Dw- universally becomes b- except in this word in archaic contexts, so it looks like a 'holdover' from archaic texts vel sim.	
+dulcis	['dulkwis']	DULCIS	Adjective	3	Nm-M/F-S-Ps	dulcis	['dulkwes']	Gn-M/F-S-Ps	G3	PHONOLOGY			[Phonology] We do not use Wiktionary's etymon *dulkus. All indications are that already in P. Ital. the u- adjectives were turned into 3rd decl. adj. by affixing -is right to the stem. There isn't an obvious parallel for -lkw- > -lk-.	
+dum	['dom']	DUM	Conjunction											
+duo	['duo:']	DUO	Numeral	Special	Nm-M/N-P									
+duonus	['dwe-nos']										TRUE		If the target is regular, late 2nd c. Latin, then this form shouldn't be a lemma (it's only Old Latin).	
+duplex	['dupleks']	DUPLEX	Adjective	3	Nm-M/F/N-S-Ps	duplicis	['duplekes']	Gn-M/F/N-S-Ps	G3				*dwi- is manifestly the inherited form (hence words with bi-), but the productive form became du-, from the stem of du-o:. A dwiplos would have become biplus. Hence, we have cut the nominative Wiktionary etymon *dwipleks.	
+duplus	['duplos']	DUPLUS	Adjective	2	Nm-M-S-Ps	dupli:	['duplos']	Gn-M-S-Ps	G2					
+dux	['duks']	DUX	Noun	3	Nm-M/F-S	ducis	['dukes']	Gn-M/F-S	G3					
+du:co:	['douko:']	DUCO	Verb	3	1-S-Pr-Act-Ind	du:cit	['douketi']	3-S-Pr-Act-Ind	V3					
+du:mus	['dusmos']	DUMUS	Noun	2	Nm-M-S	du:mi:	['dusmi:']	Gn-M-S	G2			TRUE		
+du:rus	['du:ros']	DURUS	Adjective	2	Nm-M-S-Ps	du:ri:	['du:ri:']	Gn-M-S-Ps	G2					
+edo:	['edo:']	EDO	Verb	3	1-S-Pr-Act-Ind								We give no third person for this verb. The inherited 3rd sg is e:st, one of the few traces of athematic inflection remaining in Latin. That form survives to the classical period but is steadily replaced by edit. That probably does not come from a pre-form *edeti but was created after the endings had weakened, on the analogy of other third conjugation verbs.	
+egeo:	['ege:jo:']	EGEO	Verb	2	1-S-Pr-Act-Ind	eget	['ege:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+ege:nus	['egeznos']	EGENUS	Adjective	2	Nm-M-S-Ps	ege:ni:	['egezni:']	Gn-M-S-Ps	G2			TRUE		
+ego	['ego:']	EGO	Pronoun	Special	Nm-M/F/N-S								This is the normal form, from iambic shortening. Older Latin preserves the original ego:.	
+ego:	['ego:']	EGO	Pronoun	Special	Nm-M/F/N-S									
+emo:	['emo:']	EMO	Verb	3	1-S-Pr-Act-Ind	emit	['emit']	3-S-Pr-Act-Ind	V3					
+enim	['enim']	ENIM	Conjunction										*eno is the demonstrative of which enim is an adverbialized accusative singular. It is not the direct pre-form of enim.	
+eo:	['ejo:']	EO	Verb	Special	1-S-Pr-Act-Ind	it	['eiti:']	3-S-Pr-Act-Ind	V3					
+epulum	['eplom']	EPULUM	Noun	2	Nm-N-S	epuli:	['epli:']	Gn-N-S	G2			TRUE		
+equus	['ekwos']	EQUUS	Noun	2	Nm-M-S	equi:	['ekwi:']	Gn-M-S	G2					
+ergo:	['erego:']	ERGO	Conjunction									TRUE		
+error	['erzo:s']	ERROR	Noun	3	Nm-M-S	erro:ris	['erzo:ses']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The original nom. ending would have been -o:s, but the formation is unattested for error.	
+erro:	['erza:jo:']	ERRO	Verb	1	1-S-Pr-Act-Ind	errat	['erza:jeti']	3-S-Pr-Act-Ind	V3					
+erus	['ezos']	ERUS	Noun	2	Nm-M-S	eri:	['ezi:']	Gn-M-S	G2					
+ex	['eks']	EX	Preposition											
+exeo:	['eksejo:']	EXEO	Verb	Special	1-S-Pr-Act-Ind	exit	['ekseiti:']	3-S-Pr-Act-Ind	V3					
+expello:	['ekspelno:']	EXPELLO	Verb	3	1-S-Pr-Act-Ind	expellit	['ekspelneti:']	3-S-Pr-Act-Ind	V3					
+extre:mus	['eksterisemos']	EXTREMUS	Adjective	2	Nm-M-S-Sp	extre:mi:	['eksterisemi:']	Gn-M-S-Ps	G3					
+e:brius	['e:ɣʷrjos']	EBRIUS	Adjective	2	Nm-M-S-Ps	e:brii:	['e:ɣʷrji:']	Gn-M-S-Ps	G2					
+e:duco:	['eksduka:jo:']	EDUCO1	Verb	1	1-S-Pr-Act-Ind	e:ducat	['eksduka:jeti']	3-S-Pr-Act-Ind	V3					
+e:du:co:	['eksdouko:']	EDUCO2	Verb	3	1-S-Pr-Act-Ind	e:du:cit	['eksdouketi']	3-S-Pr-Act-Ind	V3					
+e:loco:	['ekstloka:jo:']	ELOCO	Verb	1	1-S-Pr-Act-Ind	e:locat	['ekstloka:jeti']	3-S-Pr-Act-Ind	V3					
+e:lu:do:	['eksloido:']	ELUDO	Verb	3	1-S-Pr-Act-Ind	e:lu:dit	['eksloideti']	3-S-Pr-Act-Ind	V3					
+e:nsis	['ensis']	ENSIS	Noun	3	Nm-M-S	e:nsis	['enses']	Gn-M-S	G3					
+e:r	['χe:r']	ER	Noun	3	Nm-M-S	e:ris	['χe:res']	Gn-M-S	G3					
+e:sca	['e:sska:']	ESCA	Noun	1	Nm-F-S	e:scae	['e:sska:i:']	Gn-F-S	G1					
+e:sor	['esso:r']										TRUE		Not attested until very late (a reasonable formation, but still, in my opinion we should follow the criterion of de Vaan in his etymol. dict., viz. an etymology for every word that appears in Plautus).	
+faba	['fafa:']	FABA	Noun	1	Nm-F-S	fabae	['fafa:i:']	Gn-F-S	G1	BORROWING			[Borrowing] Probable loan word. de Vaan imagines the substrate had fafa:, but Faliscan (supposedly) had faba and Old Prussian had babo. There's no known process whereby -f- (or -v-, if we assume voicing intervocalically) becomes -b-.	deVaan2008
+faber	['faβros']	FABER	Noun	2	Nm-M-S	fabri:	['faβri:']	Gn-M-S	G2					
+facie:s	['fakje:s']	FACIES	Noun	5	Nm-F-S								We leave off fifth declension genitives. They are historically -e:s, with -e:i: and -ei: later analogical replacements.	
+facilis	['fakelis']	FACILIS	Adjective	3	Nm-M/F-S-Ps	facilis	['fakeles']	Gn-M/F-S-Ps	G3					
+facinus	['fakinos']	FACINUS	Noun	3	Nm-N-S	facinoris	['fakinozes']	Gn-N-S	G3					
+facio:	['fakjo:']	FACIO	Verb	3	1-S-Pr-Act-Ind	facit	['fakjeti']	3-S-Pr-Act-Ind	V3					
+faculta:s	['fakelita:ts']	FACULTAS	Noun	3	Nm-F-S	faculta:tis	['fakelita:tes']	Gn-F-S	G3					
+faex	['faiks' 'fraiks']	FAEX	Noun	3	Nm-F-S	faecis	['faikes' 'fraikes']	Gn-F-S	G3	BORROWING			[Borrowing] The possible protoform is IE *dʰra:́ks, but there's no known process whereby #fr- > #f- and a: > ae. The regular outcome of that root is attested in frace:s 'lees, dregs of oil.' Instead, this form may come from Etruscan.	
+fallo:	['falso:']	FALLO	Verb	3	1-S-Pr-Act-Ind	fallit	['falseti']	3-S-Pr-Act-Ind	V3					
+familia	['famelja:']	FAMILIA	Noun	1	Nm-F-S	familiae	['famelja:i:']	Gn-F-S	G1					
+famulus	['famelos']	FAMULUS	Noun	2	Nm-M-S	famuli:	['fameli:']	Gn-M-S	G2					
+farcio:	['farkjo:']	FARCIO	Verb	4	1-S-Pr-Act-Ind	farcit	['farkjeti']	3-S-Pr-Act-Ind	V3				The third and fourth conjugations are identical in origin (-ye/yo-, a present marker, is added to the root), but the fourth develops after heavy syllables. One theory is that Siever's Law produced a homorganic anaptyctic vowel (that is, *fark-jeti > *fark-i-jeti, and then, by normal rules, > fark-i-eti > farci:t) (the long i: is shortened later by sound law /_t#).	
+fartum	['farktom']	FARTUM	Noun	2	Nm-N-S	farti:	['farkti:']	Gn-N-S	G2			TRUE		
+fasti:gium	['farstjagjom']	FASTIGIUM	Noun	2	Nm-N-S	fasti:gii:	['farstjagji:']	Gn-N-S	G2					
+fateor	['fate:o:r']	FATEOR	Verb	2	1-S-Pr-Dep-Ind	fate:tur	['fate:tor']	3-S-Pr-Dep-Ind	V3					
+fatuus	['fatowos']	FATUUS	Adjective	2	Nm-M-S-Ps	fatui:	['fatowi:']	Gn-M-S-Ps	G2			TRUE		
+fassus	['fattos']	FATEOR	Participle	2	Pf-Dep-Nm-M-S-Ps	fassi:	['fatti:']	Pf-Dep-Gn-M-S-Ps	G2			TRUE		
+faustus	['favestos']	FAUSTUS	Adjective	2	Nm-M-S-Ps	fausti:	['favesti:']	Gn-M-S-Ps	G2			TRUE		
+faveo:	['fawe:o:']	FAVEO	Verb	2	1-S-Pr-Act-Ind	favet	['fawe:eti']	3-S-Pr-Act-Ind	V3					
+fa:bula	['fa:ðla:']	FABULA	Noun	1	Nm-F-S	fa:bulae	['fa:ðla:i:']	Gn-F-S	G1					
+fa:bula:	['fa:ðla:']										TRUE		No need for a separate lemma for the ablative.	
+fa:gus	['fa:gos']	FAGUS	Noun	2	Nm-F-S	fa:gi:	['fa:gi:']	Gn-F-S	G2					
+fa:num	['faznom']	FANUM	Noun	2	Nm-N-S	fa:ni:	['fazni:']	Gn-N-S	G2					
+febris	['feɣʷris']	FEBRIS	Noun	3	Nm-F-S	febris	['feɣʷres']	Gn-F-S	G3					
+februum	['feɣʷrwom' 'feɣʷsrwom']	FEBRUUM	Noun	2	Nm-N-S	februi:	['feɣʷrwi:' 'feɣʷsrwi:']	Gn-N-S	G2					
+fere:	['ferame:d']	FERE	Adverb		Ps					PHONOLOGY		TRUE	[Phonology] This assumes ferme: is the source of fere:	
+ferme:	['ferame:d']	FERE	Adverb		Ps							TRUE	This assumes ferme: is the older variant of fere:	
+festi:no:	['fristi:na:jo:']	FESTINO	Verb	1	1-S-Pr-Act-Ind	festi:nat	['fristi:na:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+fermentum	['feramentom']	FERMENTUM	Noun	2	Nm-N-S	fermenti:	['feramenti:']	Gn-N-S	G2					
+fero:	['fero:']	FERO	Verb	Special	1-S-Pr-Act-Ind								fert is sometimes considered a remnant of athematic inflection but it could be non-regular syncopation in a very common verb (i.e. *fereti > *ferit > fer't). To provide a 3rd person form is to take a position on that controversy.	
+fertum	['ferktom']	FERTUM	Noun	2	Nm-N-S	ferti:	['ferkti:']	Gn-N-S	G2					
+fertus	['fertos']										TRUE		This is a very late form—it appears earlier, but s.v.l. and is usually emended to effertus.	
+ferus	['χweros']	FERUS	Adjective	2	Nm-M-S-Ps	feri:	['χweri:']	Gn-M-S-Ps	G2				Possibly this should be reconstructed with -e:- (the IE is *ghweh1, and a long vowel could have been shortened by Dybo's Law).	
+fervo:	['ferwo:']	FERVO	Verb	3	1-S-Pr-Act-Ind	fervit	['ferweti:']	3-S-Pr-Act-Ind	V3			TRUE	Ferveo: has a third conjugation by-form, probably the original, and thus reconstructed here.	
+ferveo:	['ferwejo:']	FERVEO	Verb	2	1-S-Pr-Act-Ind	fervet	['ferwejeti']	3-S-Pr-Act-Ind	V3					
+fe:cundus	['fe:kodnos']	FECUNDUS	Adjective	2	Nm-M-S-Ps	fe:cundi:	['fe:kodni:']	Gn-M-S-Ps	G2			TRUE		
+fe:li:x	['fe:lwiks']	FELIX	Adjective	3	Nm-M/F/N-S-Ps	fe:li:cis	['fe:lwikes']	Gn-M/F/N-S-Ps	G3				*-lwi- to *-li- is now assumed to be a regular change.	
+fe:mina	['fe:mana:']	FEMINA	Noun	1	Nm-F-S	fe:minae	['fe:mana:i:']	Gn-F-S	G1					
+fe:num	['fe:nom']	FENUM	Noun	2	Nm-N-S	fe:ni:	['fe:ni:']	Gn-N-S	G2			TRUE		
+fe:ra:lis	['fe:za:lis']	FERALIS	Adjective	3	Nm-M/F-S-Ps	fe:ra:lis	['fe:za:les']	Gn-M/F-S-Ps	G3					
+fe:ria	['fe:zja:']	FERIA	Noun	1	Nm-F-S	fe:riae	['fe:zja:i:']	Gn-F-S	G1				It's true that -as is the original nominative plural; -ai > -ae is an analogical form. Here, instead of using fe:riae, we reconstruct the (unattested but underlying) singular fe:ria.	
+fe:stus	['fe:stos']	FESTUS	Adjective	2	Nm-M-S-Ps	fe:sti:	['fe:sti:']	Gn-M-S-Ps						
+fiber	['fefros']	FIBER	Noun	2	Nm-M-S	fibri:	['fefri:']	Gn-F-S	G2	PHONOLOGY		TRUE	[Phonology] Other cognates point to *-e-, not *-i-. The Latin vowel was raised for some unknown reason (or maybe altered by analogy from other reduplications with -i-).	
+findo:	['findo:']	FINDO	Verb	3	1-S-Pr-Act-Ind	findit	['findeti']	3-S-Pr-Act-Ind	G2					
+fiŋgo:	['fingo:']	FINGO	Verb	3	1-S-Pr-Act-Ind	fiŋgit	['fingeti']	3-S-Pr-Act-Ind	V3					
+firmus	['fermos']	FIRMUS	Adjective	2	Nm-M-S-Ps	firmi:	['fermi:']	Gn-M-S-Ps	V3	PHONOLOGY			[Phonology] Watkins 1973: 196 argued -e- was raised after a labial.	watkinsEtymaEnniana1973
+fissus	['fidtos']	FINDO	Participle	2	Pf-Psv-Nm-M-S-Ps	fissi:	['fidti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+fi:do:	['feiðo:']	FIDO	Verb	3	1-S-Pr-Act-Ind	fi:dit	['feiðeti']	3-S-Pr-Act-Ind	G2					
+fi:dus	['feiðos']	FIDUS	Adjective	2	Nm-M-S-Ps	fi:di:	['feiði:']	Gn-M-S-Ps	V3					
+fi:go:	['feigʷo:']	FIGO	Verb	3	1-S-Pr-Act-Ind	fi:git	['feigʷeti']	3-S-Pr-Act-Ind	G2					
+fictus	['figtos']	FIGO	Participle	2	Pf-Psv-Nm-M-S-Ps	ficti:	['figti:']	Pf-Psv-Gn-M-S-Ps	V3					
+fi:lius	['feiljos']	FILIUS	Noun	2	Nm-M-S	fi:li:	['feilji:']	Gn-M-S	G2			TRUE		
+fi:lum	['fi:slom' 'fi:lom']	FILUM	Noun	2	Nm-N-S	fi:li:	['fi:sli:' 'fi:li:']	Gn-N-S	G2					
+fi:o:	['fwijo:']	FIO	Verb	3	1-S-Pr-Act-Ind	fit	['fwijeti']	3-S-Pr-Act-Ind	G2					
+flagra:ns	['fla:gra:nts']								V3		TRUE		I believe we are leaving out the -ns participles.	
+fi:nio:	['fi:nijo:']	FINIO	Verb	4	1-S-Pr-Act-Ind	fi:nit	['fi:nijeti']	3-S-Pr-Act-Ind	V3			TRUE		
+fi:nis	['fi:nis']	FINIS	Noun	3	Nm-M/F-S	fi:nis	['fi:nes']	Gn-M/F-S	G3					
+flagrum	['flagrom']	FLAGRUM	Noun	2	Nm-N-S	flagri:	['flagri:']	Gn-N-S	G2			TRUE		
+flagro:	['flagra:jo:']	FLAGRO	Verb	1	1-S-Pr-Act-Ind	flagrat	['flagra:jeti']	3-S-Pr-Act-Ind	V3					
+flamma	['flagma:']	FLAMMA	Noun	1	Nm-F-S	flammae	['flagma:i:']	Gn-F-S	G1					
+fla:men	['fla:gsmen']	FLAMEN	Noun	3	Nm-M-S	fla:minis	['fla:gsmenes']	Gn-M-S	G3					
+fla:vus	['fla:wos']	FLAVUS	Adjective	2	Nm-M-S-Ps	fla:vi:	['fla:wi:']	Gn-M-S-Ps	G2					
+flecto:	['flekto:']	FLECTO	Verb	3	1-S-Pr-Act-Ind	flectit	['flekteti']	3-S-Pr-Act-Ind	V3					
+fleo:	['fle:jo:']	FLEO	Verb	2	1-S-Pr-Act-Ind	flet	['fle:jeti']	3-S-Pr-Act-Ind	V3					
+fli:go:	['fleigo:']	FLIGO	Verb	3	1-S-Pr-Act-Ind	fli:git	['fleigeti']	3-S-Pr-Act-Ind	V3					
+flo:	['fla:jo:']	FLO	Verb	1	1-S-Pr-Act-Ind	flat	['fla:jeti']	3-S-Pr-Act-Ind	V3					
+flo:s	['flo:s']	FLOS	Noun	3	Nm-M-S	flo:ris	['flo:ses']	Gn-M-S	G3					
+fluo:	['flowo:']	FLUO	Verb	3	1-S-Pr-Act-Ind	fluit	['floweti']	3-S-Pr-Act-Ind	V3					
+foedus	['foiðos']	FOEDUS	Noun	3	Nm-N-S	foederis	['foiðeres']	Gn-N-S	G3					
+for	['fa:o:r']	FOR	Verb	1	1-S-Pr-Dep-Ind	fa:tur	['fa:tor']	3-S-Pr-Dep-Ind	V3					
+fora:s	['fwora:s']	FORAS	Adverb		Ps								fora:s is a lexicalized accusative. We reconstruct the inflected form. -Vns# in. accusative plurals seems to have become -V:s already in P. Ital.	
+forceps	['formokaps']	FORCEPS	Noun	3	Nm-M-S	forcipis	['formokapes']	Gn-M-S	G3					
+forfex	['forðofaks']	FORFEX	Noun	3	Nm-M/F-S	forficis	['forðofakes']	Gn-M/F-S	G3				We cut Wiktionary's *forðom. *forðom is only half of the compound.	
+foria	['foria:']	FORIA	Noun	1	Nm-F-S	foriae	['foria:i:']	Gn-F-S	G1					
+foris	['fworis']	FORIS	Noun	3	Nm-F-S	foris	['fwores']	Gn-F-S	G3				Some authorities assume singular foris is a back-formation from the plural.	
+formi:ca	['mormi:ka:']	FORMICA	Noun	1	Nm-F-S	formi:cae	['mormi:ka:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] An unparalleled sound change m- m- > f- m-. Some say this is a taboo deformation.	
+formus	['formos']	FORMUS	Adjective	2	Nm-M-S-Ps	formi:	['formi:']	Gn-M-S-Ps	G2					
+forum	['fworom']	FORUM	Noun	2	Nm-N-S	fori:	['fwori:']	Gn-N-S	G2			TRUE		
+fors	['fortis']	FORS	Noun	3	Nm-F-S	fortis	['fortes']	Gn-F-S	G3					
+fortis	['forktis']	FORTIS	Adjective	3	Nm-M/F-S-Ps	fortis	['forktes']	Gn-M/F-S-Ps	G3					
+foveo:	['foɣʷejo:']	FOVEO	Verb	2	1-S-Pr-Act-Ind	fovet	['foɣʷejeti']	3-S-Pr-Act-Ind	V3					
+frace:s	['frake:s']	FRACES	Noun	3	Nm-F-P	fracum	['frako:m']	Gn-F-P	G3					
+fragilis	['fragelis']	FRAGILIS	Adjective	3	Nm-M/F-S-Ps	fragilis	['frageles']	Gn-M/F-S-Ps	G3					
+fraŋgo:	['frango:']	FRANGO	Verb	3	1-S-Pr-Act-Ind	fraŋgit	['frangeti']	3-S-Pr-Act-Ind	V3					
+fraus	['frawids']	FRAUS	Noun	3	Nm-F-S	fraudis	['frawides']	Gn-F-S	G3			TRUE		
+fraxinus	['fraksinos']	FRAXINUS	Noun	2	Nm-F-S	fraxini:	['fraksini:']	Gn-F-S	G2					
+fra:gro:	['fra:gra:jo:']	FRAGRO	Verb	1	1-S-Pr-Act-Ind	fra:grat	['fra:gra:jeti']	3-S-Pr-Act-Ind	V3					
+fra:gum	['fra:gom']	FRAGUM	Noun	2	Nm-N-S	fra:gi:	['fra:gi:']	Gn-N-S	G2					
+fra:ter	['fra:te:r']	FRATER	Noun	3	Nm-M-S	fra:tris	['fra:tres']	Gn-M-S	G3					
+fremo:	['fremo:']	FREMO	Verb	3	1-S-Pr-Act-Ind	fremit	['fremeti']	3-S-Pr-Act-Ind	V3					
+frendo:	['χwrendo:']	FRENDO	Verb	3	1-S-Pr-Act-Ind	frendit	['χwrendeti']	3-S-Pr-Act-Ind	V3			TRUE		
+freque:ns	['frekʷents']	FREQUENS	Adjective	3	Nm-M/F/N-S-Ps	freque:ntis	['frekʷentes']	Gn-M/F/N-S-Ps	G3					
+fre:num	['fre:nom']	FRENUM	Noun	2	Nm-N-S	fre:ni:	['fre:ni:']	Gn-N-S	G2			TRUE		
+fre:tus	['fre:tos']	FRETUS	Adjective	2	Nm-M-S-Ps	fre:ti:	['fre:ti:']	Gn-M-S-Ps	G2					
+fri:gus	['sri:gos']	FRIGUS	Noun	3	Nm-N-S	fri:goris	['sri:gozes']	Gn-N-S	G3			TRUE		
+frio:	['fri:a:jo:']	FRIO	Verb	1	1-S-Pr-Act-Ind	friat	['fri:a:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+fro:ns	['fronts']	FRONS	Noun	3	Nm-F-S	fro:ntis	['frontes']	Gn-F-S	G3					
+fruor	['fru:gjo:r']	FRUOR	Verb	3	1-S-Pr-Dep-Ind	fruitur	['fru:gjetor']	3-S-Pr-Act-Ind	V3					
+frustum	['frustom']	FRUSTUM	Noun	2	Nm-N-S	frusti:	['frusti:']	Gn-N-S	G2					
+fru:ctus	['fru:ktos']	FRUCTUS	Noun	4	Nm-M-S	fru:ctu:s	['fru:ktuos']	Gn-M-S	G4					
+fru:men	['fru:gmen']	FRUMEN	Noun	3	Nm-N-S	fru:minis	['fru:gmenes']	Gn-N-S	G3					
+fru:mentum	['fru:gmentom']	FRUMENTUM	Noun	2	Nm-N-S	fru:menti:	['fru:gmenti:']	Gn-N-S	G2					
+fru:x	['fru:ks']	FRUX	Noun	3	Nm-F-S	fru:gis	['fru:ges']	Gn-F-S	G3					
+fugio:	['fugjo:']	FUGIO	Verb	3	1-S-Pr-Act-Ind	fugit	['fugjeti:']	3-S-Pr-Act-Ind	V3					
+fulcio:	['fulkjo:']	FULCIO	Verb	4	1-S-Pr-Act-Ind	fulcit	['fulkjeti']	3-S-Pr-Act-Ind	V3			TRUE	Siever's Law applies here.	
+fu:cus	['foukos']	FUCUS	Noun	2	Nm-M-S	fu:ci:	['fouki:']	Gn-M-S	G2			TRUE	The etymology for this word is disputed.	
+fui:	['fu:ai']	SUM	Verb	Special	1-S-Pf-Act-Ind	fuit	['fu:eit']	3-S-Pf-Act-Ind	V3				We cut ['fefuai']. As with do:, it's true that there was a reduplicated past (it shows up in Oscan), but they are not the direct precursors of the Latin form, which in this case seems to be an aorist. This is a case when the form is as it were 'pre-Latin' rather than genuinely Proto-Italic.	
+fulcrum	['fulktlom']	FULCRUM	Noun	2	Nm-N-S	fulcri:	['fulktli:']	Gn-N-S	G2			TRUE		
+fulgo:	['folgo:']	FULGO	Verb	3	1-S-Pr-Act-Ind	fulgit	['folgeti']	3-S-Pr-Act-Ind	V3			TRUE		
+fulgur	['folgos']	FULGUR	Noun	3	Nm-N-S	fulguris	['folgozes']	Gn-N-S	G3					
+fulmen	['folgamen']	FULMEN	Noun	3	Nm-N-S	fulminis	['folgamenes']	Gn-N-S	G3					
+fulmentum	['fulkmentom']	FULMENTUM	Noun	2	Nm-N-S	fulmenti:	['fulkmenti:']	Gn-N-S	G2			TRUE		
+fundo:	['χundo:']	FUNDO	Verb	3	1-S-Pr-Act-Ind	fundit	['χundeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] This is the only word where #gh- > #f- (maybe because of the following -u-).	
+fundus	['fundos']	FUNDUS	Noun	2	Nm-M-S	fundi:	['fundi:']	Gn-M-S	G2				We cut Wiktionary's etyma *funðos and *funði:. Moreover, the -d- is from *-dh- but there is a question here of relative chronology. It may be that the development was *bhudh-no- > *bhud-no- > *bhundo-. Thus, we reconstruct with -nd-, not -nð-.	
+furnus	['fornos']	FURNUS	Noun	2	Nm-M-S	furni:	['forni:']	Gn-M-S	G2					
+fu:mus	['fu:mos']	FUMUS	Noun	2	Nm-M-S	fu:mi:	['fu:mi:']	Gn-M-S	G2					
+fu:nebris	['fu:nesris']	FUNEBRIS	Adjective	3	Nm-M/F-S-Ps	fu:nebris	['fu:nesres']	Gn-M/F-S-Ps	G3			TRUE		
+fu:nus	['fu:nos']	FUNUS	Noun	3	Nm-N-S	fu:neris	['fu:nezes']	Gn-N-S	G3					
+fu:r	['fo:r']	FUR	Noun	3	Nm-M/F-S	fu:ris	['fo:res']	Gn-M/F-S	G3					
+gallus	['galsos']	GALLUS	Noun	2	Nm-M-S	galli:	['galli:']	Gn-M-S	G2			TRUE	The etymology of this word is disputed.	
+garrio:	['ga:rjo:']	GARRIO	Verb	4	1-S-Pr-Act-Ind	garrit	['garrjeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY		TRUE	[Phonology] If *ga:r- is the correct reconstruction, then the verb has quantitative metathesis (that is, [V:]C become V[:C], the so-called 'littera rule').	
+gaudeo:	['ga:wide:jo:']	GAUDEO	Verb	2	1-S-Pr-Act-Ind	gaudet	['ga:wide:jeti']	3-S-Pr-Act-Ind	V3					
+gelus	['gelus']	GELUS	Noun	4	Nm-M-S	gelu:s	['geluos']	Gn-M-S	G4					
+geminus	['jemanos']	GEMINUS	Adjective	2	Nm-M-S-Ps	gemini:	['jemani:']	Gn-M-S-Ps	G2	ASSOCIATION			[Association] #g- is apparently analogical from the *gen- family. This is not a phonological change, and so this item could be cut (or else reconstructed with initial *g- — but that is, in effect, to assume that the analogy was already in Italic).	
+gemma	['gebma:']	GEMMA	Noun	1	Nm-F-S	gemmae	['gemma:i:']	Gn-F-S	G1			TRUE		
+gemo:	['geno:']	GEMO	Verb	3	1-S-Pr-Act-Ind	gemit	['gemeti']	3-S-Pr-Act-Ind	V3	ASSOCIATION		TRUE	[Association] *geno should have stayed but may have changed by analogy to other words (fremo, tremo).	
+gener	['genros']	GENER	Noun	3	Nm-M-S	generi:	['genri:']	Gn-M-S	G2	PHONOLOGY			[Phonology] The P. Ital. (probably) inherited an -m- (that is, the protoform was *gmro-, cf. Skt. ja:ma:tar-, also 'son-in-law.') -m- became -n- before –r-, followed by anaptyxis in the cluster.	
+genimen	['genamen']										TRUE		This word is probably a late formation.	
+geno:	['geno:']	GENO	Verb	3	1-S-Pr-Act-Ind	genit	['geneti']	3-S-Pr-Act-Ind	V3					
+genus	['genos']	GENUS	Noun	3	Nm-N-S	generis	['genezes']	Gn-N-S	G3					
+genu:	['genu:']	GENU	Noun	4	Nm-N-S	genu:s	['genuos']	Gn-N-S	G4				We cut Wiktionary's *genu. If you have Latin genu:, then the P. Ital. should also be genu: (an old dual); the long. nominative is securely attested in poetry, though the short form is regular. That might be because of iambic shortening.	
+germen	['genmen']	GERMEN	Noun	3	Nm-N-S	germinis	['genmenes']	Gn-N-S	G3					
+gero:	['gezo:']	GERO	Verb	3	1-S-Pr-Act-Ind	gerit	['gezeti']	3-S-Pr-Act-Ind	V3					
+ge:ns	['gentis']	GENS	Noun	3	Nm-F-S	gentis	['gentes']	Gn-F-S	G3					
+gibber	['gi:fris']	GIBBER	Noun	3	Nm-M-S	gibberis	['gi:fres']	Gn-M-S	G3	PHONOLOGY		TRUE	[Phonology] Littera rule.	
+giŋno:	['gigno:']	GIGNO	Verb	3	1-S-Pr-Act-Ind	giŋnit	['gigneti']	3-S-Pr-Act-Ind	V3					
+glaber	['ɣlaðros']	GLABER	Adjective	2	Nm-M-S-Ps	glabri:	['ɣlaðri:']	Gn-M-S-Ps	G2					
+gla:ns	['gla:nts']	GLANS	Noun	3	Nm-F-S	gla:ndis	['gla:ndes']	Gn-F-S	G3				In the nominative singular, voicing assimilation has been applied.	
+glomus	['glemos']	GLOMUS	Noun	3	Nm-N-S	glomeris	['glemozes']	Gn-N-S	V3					
+glo:ria	['gno:ria']	GLORIA	Noun	1	Nm-F-S	glo:riae	['glo:ria:i']	Gn-F-S	G1	PHONOLOGY		TRUE	[Phonology] If the etymology is right, #gn-r- > #gl-r- is unparalleled. Gna:rus survives, but a **gla:rus might have been undone by analogy to igna:rus (where the cluster is not in initial position and in VOL the accent was different).	
+glo:s	['glo:s']	GLOS	Noun	3	Nm-F-S	glo:ris	['glo:ses']	Gn-F-S	G3					
+glu:bo:	['glu:βo']	GLUBO	Verb	3	1-S-Pr-Act-Ind	glu:bit	['glu:βeti']	3-S-Pr-Act-Ind	V3					
+glu:ten	['gloiten']	GLUTEN	Noun	3	Nm-N-S	glu:tinis	['gloitenes']	Gn-N-S	G3					
+ŋna:rus	['gna:ros']	GNARUS	Adjective	2	Nm-M-S-Ps	ŋna:ri:	['gna:ri:']	Gn-M-S-Ps	G2					
+ŋna:tus	['gna:tos']	NASCOR	Noun	2	Nm-M-S	ŋna:ti:	['gna:ti']	Gn-M-S	G2				gna:tus becomes na:tus in the historical period.	
+gradior	['gradjo:r']	GRADIOR	Verb	3	1-S-Pr-Dep-Ind	graditur	['gradjeti']	3-S-Pr-Dep-Ind	V3					
+gradus	['graðus']	GRADUS	Noun	4	Nm-M-S	gradu:s	['graðuos']	Gn-M-S	G3					
+grando:	['gra:dno:']	GRANDO	Noun	3	Nm-F-S	grandinis	['gra:dnenes']	Gn-F-S	G3	PHONOLOGY		TRUE	[Phonology] The P. Ital. is difficult to reconstruct and these forms are uncertain. This word features the unda-rule (-dn- > -nd-)	
+gravis	['grawus']	GRAVIS	Adjective	3	Nm-M/F-S-Ps	gravis	['grawos']	Gn-M/F-S-Ps	G3	MORPHOLOGY		TRUE	[Morphology] This adjective was originally a u-stem, preserved in Oscan, but was remodeled to an i-stem within Latino-Faliscan.	
+grex	['gwreks']	GREX	Noun	3	Nm-M-S	gregis	['gwreges']	Gn-M-S	G3					
+gra:men	['grasmen']	GRAMEN	Noun	3	Nm-N-S	gra:minis	['grasmenes']	Gn-N-S	G3					
+gra:num	['gra:nom']	GRANUM	Noun	2	Nm-N-S	gra:ni:	['gra:ni:']	Gn-N-S	G2					
+gra:te:s	['gra:tejes']	GRATES	Noun	3	Nm-F-P	gra:tium	['gra:tjo:m']	Gn-F-P	G3				Grates is pluralia tantum, so the plural is reconstructed.	
+gra:tus	['gʷra:tos']	GRATUS	Adjective	2	Nm-M-S-Ps	gra:ti:	['gʷra:ti:']	Gn-M-S-Ps	G2					
+grunda	['ɣronda:']	GRUNDA	Noun	1	Nm-F-S	grundae	['ɣronda:i:']	Gn-F-S	G1					
+gruo:	['ɣruwo:']	GRUO	Verb	3	1-S-Pr-Act-Ind	gruit	['ɣruweti']	3-S-Pr-Act-Ind	V3			TRUE	This base attested only in compounds.	
+gru:s	['gru:s']	GRUS	Noun	3	Nm-M/F-S	gruis	['gru:es']	Gn-M/F-S	G3					
+gumia	['gomija']	GUMIA	Noun	1	Nm-M-S	gumiae	['gomija:i:']	Gn-M-S	G1	BORROWING		TRUE	[Borrowing] Possible borrowing from Umbrian.	
+gurdus	['gʷordos']	GURDUS	Noun	2	Nm-M-S	gurdi:	['gʷordi:']	Gn-M-S	G1					
+gustus	['gustus']	GUSTUS	Noun	4	Nm-M-S	gustu:s	['gustuos']	Gn-M-S	G4					
+habeo:	['χabe:jo:' 'χaβe:jo:']	HABEO	Verb	2	1-S-Pr-Act-Ind	habet	['χabe:jeti' 'χaβe:jeti']	3-S-Pr-Act-Ind	V3					
+haedus	['χaidos']	HAEDUS	Noun	2	Nm-M-S	haedi:	['χaidi:']	Gn-M-S	G2					
+haereo:	['χaize:jo:']	HAEREO	Verb	2	1-S-Pr-Act-Ind	haeret	['χaize:jeti']	3-S-Pr-Act-Ind	V3					
+harundo	['χarundo:']	HARUNDO	Noun	3	Nm-F-S	harundinis	['χarundenes']	Gn-F-S	G3			TRUE		
+haruspex	['χaruspeks']	HARUSPEX	Noun	3	Nm-M-S	haruspicis	['χaruspekes']	Gn-M-S	G3					
+hasta	['χasta:']	HASTA	Noun	1	Nm-F-S	hastae	['χasta:i:']	Gn-F-S	G1			TRUE		
+haurio:	['auzjo:']	HAURIO	Verb	4	1-S-Pr-Act-Ind	haurit	['auzjeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] *h- is probably a hypercorrection. Derivatives in the other languages suggest there was no consonant at word head.	
+ha:lo:	['anasla:jo:']	HALO	Verb	1	1-S-Pr-Act-Ind	ha:lat	['anasla:jeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY		TRUE	[Phonology] *h- is probably a hypercorrection. Derivatives in the other languages suggest there was no consonant at word head.	
+hedera	['χedra:']	HEDERA	Noun	1	Nm-F-S	hederae	['χedera:i:']	Gn-F-S				TRUE		
+helvus	['χeliwos']	HELVUS	Adjective	2	Nm-M-S-Ps	helvi:	['χeliwi:']	Gn-M-S-Ps	G2					
+hemo:	['hemo:']					hominis	['hemones']		G3	PHONOLOGY	TRUE		[Phonology] hemo: is the probable archaic Latin form, but the e gets rounded to homo:, apparently by sound law. Generally, the list does not reconstruct multiple Latin stages. (That is, the list also has the later form homo: as a separate lemma).	
+here	['hezi:']	HERI	Adverb		Ps									
+heri:	['hezi']	HERI	Adverb		Ps								The -i: is probably analogical from locatives like domi:. But if that was an Italic-level development, then heri would be the product of iambic shortening.	
+heri	['hezi']	HERI	Adverb		Ps									
+he:re:s	['χe:re:ts']	HERES	Noun	3	Nm-M/F-S	he:re:dis	['χe:re:des']	Gn-M/F-S	G3			TRUE		
+hic	['χeke' 'χek']	HIC	Pronoun	Special	Nm-M-S									
+hio:	['χia:jo:']	HIO	Verb	1	1-S-Pr-Act-Ind	hiat	['χia:jeti']	3-S-Pr-Act-Ind	V3					
+hir	['χezros']	HIR	Noun	Special	Nm-M-S								(1) No genitive is possible; this word is attested only in the nominative and accusative. (2) NB: Sometimes the P. Ital. is reconstructed as *hezor, which makes good sense from the point of view of Indo-European.	
+hirtus	['χerktos']	HIRTUS	Adjective	2	Nm-M-S-Ps	hirti:	['χerkti:']	Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] The raising of e > i / _r is said to be dialectal.	
+hi:bernus	['χeimrinos']	HIBERNUS	Adjective	2	Nm-M-S-Ps	hi:berni:	['χeimrini:']	Gn-M-S-Ps	G2					
+holus	['χelos']	HOLUS	Noun	3	Nm-N-S	holeris	['χelos']	Gn-N-S	G3					
+homo:	['χemo:']	HOMO	Noun	3	Nm-M-S	hominis	['χemones']	Gn-M-S	G3	PHONOLOGY			[Phonology] χem- > χom- is irregular, perhaps because of forms like attested hemo:nem, in which a labial precedes a back vowel (hence there is a possibility here of paradigm leveling).	
+hordeum	['χorzdeom']	HORDEUM	Noun	2	Nm-N-S	hordei:	['χordei:']	Gn-N-S	G2					
+horior	['χorjo:r']	HORIOR	Verb	3	1-S-Pr-Dep-Ind	horitur	['χorjeti']	3-S-Pr-Dep-Ind	V3				We cut Wiktionary's etymon *χeri. Wiktionary has the wrong pre-form; χeri is only a root, not the full inflected form. The Latin -or- represents the outcome of a vocalic r.	
+ho:rnus	['χojo:rnos']	HORNUS	Adjective	2	Nm-M-S-Ps	ho:rni:	['χojo:rni:']	Gn-M-S-Ps	G2					
+horreo:	['χorze:o:']	HORREO	Verb	2	1-S-Pr-Act-Ind	horret	['χorze:ti']	3-S-Pr-Act-Ind						
+horror	['χorzo:s']	HORROR	Noun	3	Nm-M-S	horro:ris	['χorzo:ses']	Gn-M-S	G3					
+hortus	['χortos']	HORTUS	Noun	2	Nm-M-S	horti:	['χorti:']	Gn-M-S	G2					
+hospes	['χostipotis']	HOSPES	Noun	3	Nm-M/F-S								No genitive was reconstructed for this one because the declension was changed to a -t- stem within Latin.	
+hospita:lis	['hostipotja:lis']										TRUE		This is probably a later formation and not P. Ital.	
+hospita:lita:s	['hostipotja:lita:ts']										TRUE		This is probably a later formation and not P. Ital.	
+hospita:tor	['hostipotja:to:r']										TRUE		This is probably a later formation and not P. Ital.	
+hospitium	['χostipotjom']	HOSPITIUM	Noun	2	Nm-N-S	hospiti:	['χostipotji:']	Gn-N-S	G2					
+hostis	['χostis']	HOSTIS	Noun	3	Nm-M/F-S	hostis	['χostes']	Gn-M/F-S	G3					
+hosti:lis	['χostjelis']	HOSTILIS	Adjective	3	Nm-M/F-S-Ps	hosti:lis	['χostjeles']	Gn-M/F-S-Ps	G3					
+hosti:lita:s	['hostjelita:ts']										TRUE		This is probably a later formation and not P. Ital.	
+hostus	['χostos']	HOSTUS	Noun	2	Nm-M-S	hosti:	['χosti:']	Gn-M-S	G2					
+humi:	['χomei']	HUMUS	Adverb		Ps									
+humus	['χomos']	HUMUS	Noun	2	Nm-F-S	humi:	['χomi:']	Gn-F-S	G2					
+iaceo:	['jake:o:']	IACEO	Verb	2	1-S-Pr-Act-Ind	iacet	['jake:eti']	3-S-Pr-Act-Ind	V3					
+iacio:	['jakjo:']	IACIO	Verb	3	1-S-Pr-Act-Ind	iacit	['jakjeti:']	3-S-Pr-Act-Ind	V3					
+iam	['ja:m']	IAM	Adverb		Ps									
+ia:nus	['ja:nus']	IANUS	Noun	4	Nm-M-S	ia:nu:s	['ja:nwos']	Gn-M-S	G4					
+ibi	['iðei' 'ifei']	IBI	Adverb		Ps								This version is due to iambic shortening.	
+ibi:	['iðei' 'ifei']	IBI	Adverb		Ps									
+iecur	['jekʷor']	IECUR	Noun	3	Nm-N-S								We skip a genitive here; possible genitive forms are many, being the wreckage of an old r/n stem with remodeling. It is ard to tell what P. Ital. had.	
+ieiento:	['jagjenta:jo:']	IEIENTO	Verb	1	1-S-Pr-Act-Ind	ieientat	['jagjenta:jeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] The word also occurs in the form ia-; ie- looks like quasi-vowel harmony to the following -ient-, which spread to ieiu:nus.	
+ieiu:nus	['jagju:nos']	IEIUNUS	Adjective	2	Nm-M-S-Ps	ieiu:ni:	['jagju:ni:']	Gn-M-S-Ps	G2					
+ie:ns	['jents']	EO	Participle	3	Pr-Act-Nm-M/F/N-S-Ps	euntis	['ejontes']	Pr-Act-Gn-M/F/N-S-Ps	G3					
+iŋna:rus	['engna:ros']	IGNARUS	Adjective	2	Nm-M-S-Ps	iŋna:ri:	['engna:ri:']	Gn-M-S-Ps	G2					
+iŋno:ro:	['engno:sa:jo']	IGNORO	Verb	1	1-S-Pr-Act-Ind	iŋno:rat	['engno:sa:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+iŋnis	['engʷnis']	IGNIS	Noun	3	Nm-M-S	iŋnis	['engʷnes']	Gn-M-S	G3					
+illo:c	['olloike' 'elloike']	ILLUC	Adverb		Ps					PHONOLOGY			[Phonology] The i- instead of o- is usually ascribed to analogy with iste, where the i belongs, but it could also be from a clitic (and thus un- or weakly stressed) form.	
+illu:c	['olloike' 'elloike']	ILLUC	Adverb		Ps					PHONOLOGY			[Phonology] The i- instead of o- is usually ascribed to analogy with iste, where the i belongs, but it could also be from a clitic (and thus un- or weakly stressed) form.	
+illu:stris	['inlowkstris']	ILLUSTRIS	Adjective	3	Nm-M/F-S-Ps	illu:stris	['inlowkstres']	Gn-M/F-S-Ps	G3			TRUE		
+imago:	['ima:go:']	IMAGO	Noun	3	Nm-F-S	ima:ginis	['ima:genes']	Gn-F-S	G3			TRUE		
+imber	['emβris']	IMBER	Noun	3	Nm-M-S	imbris	['emβres']	Gn-M-S	G3					
+imbuo:	['emðuo:']	IMBUO	Verb	3	1-S-Pr-Act-Ind	imbuit	['emðueti']	3-S-Pr-Act-Ind	V3				We assume the fricative was voiced. 	
+immitto:	['enmeito:']	IMMITTO	Verb	3	1-S-Pr-Act-Ind	immittit	['enmeiteti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] Quantitative metathesis (meit > mi:t > mit:). (A rare but occasional effect, the 'littera' rule).	
+imperfectus	['emperifaktos']	IMPERFECTUS	Adjective	2	Nm-M-S-Ps	imperfecti:	['emperifakti:']	Gn-M-S-Ps	G2					
+in	['en']	IN	Preposition											
+incide:ns	['enkadents']										TRUE		We're not doing derived pres. participles. I did add the regular verbs though.	
+inci:de:ns	['enkaidents']										TRUE		We're not doing derived pres. participles. I did add the regular verbs though.	
+incido:	['enkado:']	INCIDO1	Verb	3	1-S-Pr-Act-Ind	incidit	['enkadeti']	3-S-Pr-Act-Ind	V3			TRUE		
+inci:do:	['enkaido:']	INCIDO2	Verb	3	1-S-Pr-Act-Ind	inci:dit	['enkaideti']	3-S-Pr-Act-Ind	V3			TRUE		
+inci:le	['enkaidslis']	INCILE	Noun	3	Nm-N-S	inci:lis	['enkaidslis']	Gn-N-S	G3				We cut Wiktionary's *en-kaid-slis and en-kaid-slis. We also removed their morpheme boundary hyphens.	
+incolo:	['enkʷelo:']	INCOLO	Verb	3	1-S-Pr-Act-Ind	incolit	['enkʷeleti']	3-S-Pr-Act-Ind	V3					
+indigenus	['endogenos']	INDIGENUS	Adjective	2	Nm-M-S-Ps	indigeni:	['endogeni:']	Gn-M-S-Ps	G2					
+indiges	['endagets']	INDIGES	Noun	3	Nm-N-S	indigitis	['endagetes']	Gn-N-S	G3			TRUE		
+indulgeo	['endolɣejeo:']	INDULGEO	Verb	2	1-S-Pr-Act-Ind	indulget	['endolɣejeti']	3-S-Pr-Act-Ind	V3			TRUE		
+ineptus	['enaptos']	INEPTUS	Adjective	2	Nm-M-S-Ps	inepti:	['enapti:']	Gn-M-S-Ps	G2					
+inermis	['enarmis']	INERMIS	Adjective	3	Nm-M/F-S-Ps	inermis	['enarmes']	Gn-M/F-S-Ps	G3					
+iners	['enartis']	INERS	Adjective	3	Nm-M/F/N-S-Ps	inertis	['enartes']	Gn-M/F/N-S-Ps	G3					
+inertia	['enartja:']	INERTIA	Noun	1	Nm-F-S	inertiae	['enartja:i:']	Gn-F-S	G1					
+i:nfestus	['enfristos']	INFESTUS	Adjective	2	Nm-M-S-Ps	i:nfesti:	['i:nfristi:']	Gn-M-S-Ps	G2			TRUE		
+iŋge:ns	['emgants']	INGENS	Adjective	3	Nm-M/F/N-S-Ps	iŋgentis	['emgantes']	Gn-M/F/N-S-Ps	G3			TRUE		
+iŋgenuus	['engegenwos']	INGENUUS	Adjective	2	Nm-M-S-Ps	iŋgenui:	['engegenwi:']	Gn-M-S-Ps	G2					
+iŋguen	['engwen']	INGUEN	Noun	3	Nm-N-S	iŋguinis	['engwenes']	Gn-N-S	G3			TRUE		
+inimi:cus	['enami:kos']	INIMICUS	Noun	2	Nm-M-S	inimici:	['enami:ki:']	Gn-M-S	G2					
+insti:go:	['ensteiga:jo:']	INSTIGO	Verb	1	1-S-Pr-Act-Ind	insti:gat	['ensteiga:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+integer	['entagros']	INTEGER	Adjective	2	Nm-M-S-Ps	integri:	['entagri:']	Gn-M-S-Ps	G2					
+interpres	['enterporets']	INTERPRES	Noun	3	Nm-M/F-S	interpretis	['enterporetes']	Gn-M/F-S	G3			TRUE		
+inter	['enter']	INTER	Preposition											
+intesti:nus	['entersti:nos']	INTESTINUS	Adjective	2	Nm-M-S-Ps	intesti:ni:	['entersti:ni:']	Gn-M-S-Ps	G2			TRUE		
+invi:to:	['enwi:ta:jo:']	INVITO	Verb	1	1-S-Pr-Act-Ind	invi:tat	['enwi:ta:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+invi:tus	['enwi:tos']	INVITUS	Adjective	2	Nm-M-S-Ps	invi:ti:	['enwi:ti:']	Gn-M-S-Ps	G2			TRUE		
+iocus	['jokos']	IOCUS	Noun	2	Nm-M-S	ioci:	['joki:']	Gn-M-S	G2			TRUE		
+irritus	['enratos']	IRRITUS	Adjective	2	Nm-M-S-Ps	irriti:	['enrati:']	Gn-M-S-Ps	G2					
+irri:to:	['enri:ta:jo:']	IRRITO	Verb	1	1-S-Pr-Act-Ind	irri:tat	['enri:ta:jeti']	3-S-Pr-Act-Ind	V3					
+is	['is']	IS	Pronoun	Special	Nm-M-S									
+iter	['eitor']	ITER	Noun	3	Nm-N-S	itineris	['itenos']	Gn-N-S	G3	PARADIGM LEVELING		TRUE	[Paradigm Leveling] This word was wholly remodeled, with an oblique stem perhaps from faci-neris.	
+itus	['itus']	ITUS	Noun	4	Nm-M-S	itu:s	['ituos']	Gn-M-S	G4					
+iubar	['djufaos']	IUBAR	Noun	3	Nm-N-S	iubaris	['djufa:ses']	Gn-N-S	G3	PARADIGM LEVELING		TRUE	[Paradigm Leveling] The short -a- in the oblique cases is adopted from the nominative.	
+iubeo:	['jouðejo:']	IUBEO	Verb	2	1-S-Pr-Act-Ind	iubet	['jouðejeti:']	3-S-Pr-Act-Ind	V3					
+iuba	['juða:']	IUBA	Noun	1	Nm-F-S	iubae	['juða:i:']	Gn-F-S	G1					
+iugum	['jugom']	IUGUM	Noun	2	Nm-N-S	iugi:	['jugi:']	Gn-N-S	G2					
+iugus	['jugos']	IUGUS	Adjective	2	Nm-M-S-Ps	iugi:	['jugi:']	Gn-M-S-Ps	G2					
+iu:ncus	['joinikos']	IUNCUS	Noun	2	Nm-M-S	iu:nci:	['joiniki:']	Gn-M-S	G2				If the -u- really is from *-oi-, then -u:- (long) should be reconstructed, even though the quantity is 'hidden'.	
+iuŋgo:	['jungo:']	IUNGO	Verb	3	1-S-Pr-Act-Ind	iuŋgit	['jungeti']	3-S-Pr-Act-Ind	V3					
+iustus	['jowestos']	IUSTUS	Adjective	2	Nm-M-S-Ps	iusti:	['jowesti:']	Gn-M-S-Ps	G2			TRUE		
+iuvencus	['juwenkos']	IUVENCUS	Adjective	2	Nm-M-S-Ps	iuvenci:	['juwenki:']	Gn-M-S-Ps	G2			TRUE		
+iuvenis	['juwenis']	IUVENIS	Adjective	3	Nm-M/F/N-S-Ps	iuvenis	['juwenes']	Gn-M/F/N-S-Ps	G3					
+iuventa	['juwenta:']	IUVENTA	Noun	1	Nm-F-S	iuventae	['juwenta:i:']	Gn-F-S	G1					
+iuvo:	['ijowa:jo:']	IUVO	Verb	1	1-S-Pr-Act-Ind	iuvat	['ijowa:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+iu:dex	['jowozdiks']	IUDEX	Noun	3	Nm-M-S	iu:dicis	['jowozdikes']	Gn-M-S	G3	MORPHOLOGY		TRUE	[Morphlogy] -dex is considered an analogical replacement. The ø-grade of *deik is *dik. That is, -iks doesn't phonetically come out as -eks.	
+iu:gus	['jougos']	IUGUS	Noun	Special	Nm-N-S	iu:gera	['jougeza']	Nm-N-P	N2P				The forms of this noun underwent a paradigm split. The original singular *yougos formed a 3rd decl. plural *yougesa > iu:gera; and then a second declension singular iu:gerum was back-formed. No purely phonetic process will yield a singular iu:gerum from the inherited *yougos. Hence, we have *yougos here even though iu:gus isn't a later Latin word.	
+iu:gis	['ju:gwi:s']	IUGIS	Adjective	3	Nm-M/F-S-Ps	iu:gis	['ju:gwi:s']	Gn-M/F-S-Ps	G3	MORPHOLOGY, PHONOLOGY			[Morphology] If this etymology is right ('having eternal life'), then a long i stem was remodeled into a short i stem (Latin does not have any of the former). [Phonology] If this etymology is right ('having eternal life'), *gw delabialized after *u.	
+iu:gla:ns	['djougla:nts']	IUGLANS	Noun	3	Nm-F-S	iu:gla:ndis	['djougla:ndes']	Gn-F-S	G3				In the nominative singular, voicing assimilation has been applied.	
+iu:mentum	['jouksmentom']	IUMENTUM	Noun	2	Nm-N-S	iu:menti:	['jouksmenti:']	Gn-N-S	G2					
+iu:nior	['juwenjo:s']	IUVENIS	Adjective	3	Nm-M/F-S-Cm	iu:nio:ris	['juwenjo:ses']	Gn-M/F-S-Cm	G3					
+iu:rgo:	['joweza:go']	IURGO	Verb	1	1-S-Pr-Act-Ind	iurgat	['jowesa:geti']	3-S-Pr-Act-Ind	V3			TRUE		
+iu:ro:	['joweza:jo:']	IURO	Verb	1	1-S-Pr-Act-Ind	iu:rat	['joweza:jeti']	3-S-Pr-Act-Ind	V1					
+iu:s_1	['ju:s']	IUS1	Noun	3	Nm-N-S	iu:ris	['ju:zos']	Gn-N-S	G3			TRUE	There are two words of which the nominative is iu:s, I have added the second one here. The stem is sometimes reconstructed as jowas but I think just ju:- is fine.	
+iu:s_2	['jowos']	IUS2	Noun	3	Nm-N-S	iu:ris	['jowezos']	Gn-N-S	G3					
+iu:stus	['jowestos']	IUSTUS	Adjective	2	Nm-M-S-Ps	iu:sti:	['jowesti:']	Gn-M-S-Ps	G2					
+iu:xta:	['jougista:d']	IUXTA	Preposition									TRUE		
+i:co:	['i:ko:']	ICO	Verb	3	1-S-Pr-Act-Ind	i:cit	['i:keti']	3-S-Pr-Act-Ind	V3			TRUE		
+i:dem	['izdim']	IDEM	Pronoun	Special	Nm-M-S									
+i:nfectus_1	['enfaktos']	INFECTUS1	Adjective	2	Nm-M-S-Ps	infecti:	['enfakti:']	Gn-M-S-Ps	G2				The form infectus does have two origins ('not-done' and 'in-done' = 'dyed' etc.) but once the privative becomes *en the forms are identical. That is, Wiktionary has an infectus_1 and an infectus_2 for semantic, not phonological or structural, reasons, so I wonder whether for the purposes of this data set there really should be two lemmata.	
+i:nfectus_2	['enfaktos']	INFECTUS2	Adjective	2	Nm-M-S-Ps	infecti:	['enfakti:']	Gn-M-S-Ps	G2				The form infectus does have two origins ('not-done' and 'in-done' = 'dyed' etc.) but once the privative becomes *en the forms are identical. That is, Wiktionary has an infectus_1 and an infectus_2 for semantic, not phonological or structural, reasons, so I wonder whether for the purposes of this data set there really should be two lemmata.	
+i:nferus	['enðeros']	INFERUS	Adjective	2	Nm-M-S-Ps	i:nferi:	['enðeri:']	Gn-M-S-Ps	G2					
+i:nficio:	['enfakjo:']	INFICIO	Verb	3	1-S-Pr-Act-Ind	i:nficit	['enfakjeti']	3-S-Pr-Act-Ind	V3					
+i:nstruo:	['enstrowo:']	INSTRUO	Verb	3	1-S-Pr-Act-Ind	i:nstruit	['enstroweti']	3-S-Pr-Act-Ind	V3					
+i:nstru:ctus	['enstrougtos']	INSTRUO	Participle	2	Pf-Psv-Nm-M-S-Ps	i:nstru:cti:	['enstrougti:']	Pf-Psv-Gn-M-S-Ps	G2				We cut Wiktionary's *enstroutos. We also add -g- in the etyma. The participle in -ctus (and the perfect in -xi) are probably analogical to fluo, which makes fluxi, fluctum. That is, instruo has rhyme forms. *Enstroutos is possible as an original *-to- participle (with the wrong grade, though), but it doesn't become instructus by any phonological process.	
+i:nsece	['ensekwe']	INSEQUOR	Verb	3	2-S-Pr-Act-Imp							TRUE		
+i:nstauro:	['enstaura:jo:']	INSTAURO	Verb	1	1-S-Pr-Act-Ind	i:nstaurat	['enstaura:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+i:nsula	['ensela:']	INSULA	Noun	1	Nm-F-S	i:nsulae	['ensela:i:']	Gn-F-S	G1					
+i:ra	['eiza:']	IRA	Noun	1	Nm-F-S	i:rae	['eiza:i:']	Gn-F-S	G1					
+labium	['labjom']	LABIUM	Noun	2	Nm-N-S	labi:	['labji:']	Gn-N-S	G2			TRUE		
+labo:	['laba:jo:']	LABO	Verb	1	1-S-Pr-Act-Ind	labat	['laba:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+labo:s	['labo:s']	LABOR	Noun	3	Nm-M-S	labo:ris	['labo:zes']	Gn-M-S	G3			TRUE		
+lac	['dlakts']	LAC	Noun	3	Nm-N-S	lactis	['dlaktes']	Gn-N-S	G3					
+lacer	['lakiros']	LACER	Adjective	2	Nm-M-S-Ps	laceri:	['lakiri:']	Gn-M-S-Ps	G2			TRUE		
+lacruma	['dakruna:']	LACRIMA	Noun	1	Nm-F-S	lacrumae	['dakruna:i:']	Gn-F-S	G1	PHONOLOGY		TRUE	[Phonology] This reconstruction (there are others) requires distant dissimilation of d-n to d-m. This reconstruction (there are others) also requires the (areal?) change of #d- > #l.	
+lacus	['lakus']	LACUS	Noun	4	Nm-M-S	lacu:s	['lakuos']	Gn-M-S	G4					
+lacio:	['lakjo:']	LACIO	Verb	3	1-S-Pr-Act-Ind	lacit	['lakjeti']	3-S-Pr-Act-Ind	V3					
+laesus	['laidtos']	LAESUS	Adjective	2	Nm-M-S-Ps	laesi:	['laidti:']	Gn-M-S-Ps	G2			TRUE		
+laevus	['laiwos']	LAEVUS	Adjective	2	Nm-M-S-Ps	laevi:	['laevi:']	Gn-M-S-Ps	G2			TRUE		
+lambo:	['lambo:']	LAMBO	Verb	3	1-S-Pr-Act-Ind	lambit	['lambeti']	3-S-Pr-Act-Ind	V3			TRUE		
+laŋgueo	['langue:o:']	LANGUEO	Verb	2	1-S-Pr-Act-Ind	laŋguet	['langue:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+lapis	['lapats']	LAPIS	Noun	3	Nm-M-S	lapidis	['lapedes']	Gn-M-S	G3			TRUE		
+lanius	['lamjos']	LANIUS	Noun	2	Nm-M-S	lani:	['lamji:']	Gn-M-S	G2			TRUE	de Vaan reconstructs *lamjo-, but for venio he has gwnje- (both roots originally ended in -m).	deVaan2008
+lassus	['lassos']	LASSUS	Adjective	2	Nm-M-S-Ps	lassi:	['lassi:']	Gn-M-S-Ps	G2					
+lateo:	['late:o:']	LATEO	Verb	2	1-S-Pr-Act-Ind	latet	['late:eti']	3-S-Pr-Act-Ind	V3					
+laus	['lawets']	LAUS	Noun	3	Nm-F-S	laudis	['lawedes']	Gn-F-S	G3			TRUE		
+la:brum	['lawa:ðrom']	LABRUM	Noun	2	Nm-N-S	la:bri:	['lawa:ðri:']	Gn-N-S	G2			TRUE	There is a lavabrum, but this looks like a later recomposition.	
+lavo:	['lawa:jo:']	LAVO	Verb	1	1-S-Pr-Act-Ind	lavat	['lawa:jeti']	3-S-Pr-Act-Ind	V3					
+lax	['laks']	LAX	Noun	3	Nm-F-S								No genitive attested.	
+laxus	['slaksos']	LAXUS	Adjective	2	Nm-M-S-Ps	laxi:	['slaksi:']	Gn-M-S-Ps	G2			TRUE		
+la:mentum	['la:mentom']	LAMENTUM	Noun	2	Nm-N-S	la:menti:	['la:menti:']	Gn-N-S	G2					
+la:na:	['wla:na:']	LANA	Noun	1	Nm-F-S	la:nae	['wla:na:i:']	Gn-F-S	G1					
+la:tus_1	['tla:tos']	FERO	Participle	2	Pf-Psv-Nm-M-S-Ps	la:ti:	['tla:ti:']	Pf-Psv-Gn-M-S-Ps	G2					
+la:tus_2	['stla:tos']	LATUS	Adjective	2	Nm-M-S-Ps	la:ti:	['stla:ti:']	Gn-M-S-Ps	G2					
+lectus	['lektos']	LEGO	Adjective	2	Nm-M-S-Ps	lecti:	['lekti:']	Gn-M-S-Ps	G2			TRUE		
+lego:	['lego:']	LEGO	Verb	3	1-S-Pr-Act-Ind	legit	['legit']	3-S-Pr-Act-Ind	V3					
+levis	['leɣʷis']	LEVIS1	Adjective	3	Nm-M/F-S-Ps									
+le:nis	['le:nis']	LENIS	Adjective	3	Nm-M/F-S-Ps	le:nis	['lenes']	Gn-M/F-S-Ps	G3					
+le:vir	['daiwe:r']	LEVIR	Noun	2	Nm-M-S					PHONOLOGY			[Phonology] Initial d- seems securely reconstructable; but interchange of -d- with -l- is sporadic (areal phenomenon?).	
+le:vis	['le:iwis']	LEVIS2	Adjective	3	Nm-M/F-S-Ps	le:vis	['le:iwes']	Gn-M/F-S-Ps	G3					
+liber	['luβros']	LIBER1	Noun	2	Nm-M-S	libri:	['luβri:']	Gn-M-S	G2					
+libet	['luβe:t']	LIBEO	Verb	2	3-S-Pr-Act-Ind									
+liŋnum	['legnom']	LIGNUM	Noun	2	Nm-N-S	liŋni:	['legni:']	Gn-N-S	G2					
+liŋgua	['denɣwa:']	LINGUA	Noun	1	Nm-F-S	liŋgua	['denɣwa:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Initial d- seems securely reconstructable; but interchange of -d- with -l- is sporadic (areal phenomenon?).	
+lino:	['lino:']	LINO	Verb	3	1-S-Pr-Act-Ind	linit	['lineti']	3-S-Pr-Act-Ind	V3					
+linquo:	['linkʷo:']	LINQUO	Verb	3	1-S-Pr-Act-Ind	linquit	['linkʷeti']	3-S-Pr-Act-Ind	V3					
+liqueo:	['wlikʷe:o:']	LIQUEO	Verb	2	1-S-Pr-Act-Ind	liquet	['wlikʷe:eti']	3-S-Pr-Act-Ind	V3					
+li:ber	['louðeros']	LIBER2	Adjective	2	Nm-M-S-Ps	li:beri:	['louðeri:']	Gn-M-S-Ps	G2					
+li:bertus	['louðertos']	LIBERTUS	Noun	2	Nm-M-S	li:berti:	['louðerti:']	Gn-M-S	G2					
+li:bra	['leiθra:']	LIBRA	Noun	1	Nm-F-S	li:brae	['leiθra:i:']	Gn-F-S	G1					
+li:bum	['leiβom' 'loiβom']	LIBUM	Noun	2	Nm-N-S	li:bi:	['leiβi:' 'loiβi:']	Gn-N-S	G2					
+li:mus	['sloimos']	LIMUS1	Noun	2	Nm-M-S	li:mi:	['sloimi:']	Gn-M-S	G2			TRUE		
+li:mus	['li:mos']	LIMUS2	Adjective	2	Nm-M-S-Ps	li:mi:	['li:mi:']	Gn-M-S-Ps	G2					
+li:num	['li:nom']	LINUM	Noun	2	Nm-N-S	li:ni:	['li:ni:']	Gn-N-S	G2					
+li:ra	['loiza:']	LIRA	Noun	1	Nm-F-S	li:rae	['loiza:i:']	Gn-F-S	G1					
+li:s	['sli:tis']	LIS	Noun	3	Nm-F-S	li:tis	['sli:tes']	Gn-F-S	G3					
+littera	['li:tera:']	LITTERA	Noun	1	Nm-F-S	litterae	['li:tera:i:']	Gn-F-S	G1					
+li:tus	['leitos']	LITUS	Noun	3	Nm-N-S	li:toris	['leitores']	Gn-N-S	G3			TRUE		
+li:veo:	['sleiwe:o:' 'leiwe:o:' 'sli:we:o:' 'li:we:o:' 'sloiwe:o:' 'loiwe:o:']	LIVEO	Verb	2	1-S-Pr-Act-Ind	li:vet	['sleiwe:eti' 'leiwe:eti' 'sli:we:eti' 'li:we:eti' 'sloiwe:eti' 'loiwe:eti']	3-S-Pr-Act-Ind	V3					
+loco:	['stloka:jo:']	LOCO	Verb	1	1-S-Pr-Act-Ind	locat	['stloka:jeti']	3-S-Pr-Act-Ind	V3					
+locus	['stlokos']	LOCUS	Noun	2	Nm-M-S	loci:	['stloki:']	Gn-M-S	G2					
+loŋgus	['dlongos']	LONGUS	Adjective	2	Nm-M-S-Ps	loŋgi:	['dlongi:']	Gn-M-S-Ps	G2					
+loqua:x	['tlokʷa:ks']	LOQUAX	Adjective	3	Nm-M/F/N-S-Ps	loqua:cis	['tlokʷa:kes']	Gn-M/F/N-S-Ps	G3					
+loquor	['tlokʷo:r']	LOQUOR	Verb	3	1-S-Pr-Dep-Ind	loquitur	['tlokʷetor']	3-S-Pr-Dep-Ind	V3					
+lucrum	['luklom']	LUCRUM	Noun	2	Nm-N-S	lucri:	['lukli:']	Gn-N-S	G2			TRUE		
+lumbus	['lonðwos']	LUMBUS	Noun	2	Nm-M-S	lumbi:	['lonðwi:']	Gn-M-S	G2	PHONOLOGY			[Phonology] The -b- is apparently from -nðw- > -ndw- > -nb- > -mb-.	
+lumbus	['lonðwos']		Noun	2	Nm-M-S	lumbi:	['lonðwi:']	Gn-M-S	G2	BORROWING	TRUE		[Borrowing] The b or the form may be a borrowing from Sabellic.	
+lupus	['lukʷos']	LUPUS	Noun	2	Nm-M-S	lupi:	['lukʷi:']	Gn-M-S	G2					
+luscus	['lukskos']	LUSCUS	Adjective	2	Nm-M-S-Ps	lusci:	['lukski:']	Gn-M-S-Ps	G2					
+lutra	['utra:']	LUTRA	Noun	1	Nm-F-S	lutrae	['utra:i:']	Gn-F-S	G1	ASSOCIATION			[Association] The l- was added for some reason, perhaps by association with ludere (before the -d- devoiced).	
+lutum	['lutom']	LUTUM	Noun	2	Nm-N-S	luti:	['luti:']	Gn-N-S	G2					
+luxus	['luksos']	LUXUS	Adjective	2	Nm-M-S-Ps	luxi:	['luksi:']	Gn-M-S-Ps	G2					
+lu:bricus	['slouβrikos']	LUBRICUS	Adjective	2	Nm-M-S-Ps	lu:brici:	['slouβriki:']	Gn-M-S-Ps	G2					
+lu:ceo:	['louke:o:']	LUCEO	Verb	2	1-S-Pr-Act-Ind	lu:cet	['louke:eti']	3-S-Pr-Act-Ind	V3					
+lu:cus	['loukos']	LUCUS	Noun	2	Nm-M-S	lu:ci:	['louki:']	Gn-M-S	G2			TRUE		
+lu:ctor	['lukta:o:r']	LUCTOR	Verb	1	1-S-Pr-Dep-Ind	lu:cta:tur	['lukta:jetor']	3-S-Pr-Dep-Ind	V3					
+lu:do:	['loido:']	LUDO	Verb	2	1-S-Pr-Act-Ind	lu:det	['loideti']	3-S-Pr-Act-Ind	V3					
+lu:dus	['loidos']	LUDUS	Noun	2	Nm-M-S	lu:di:	['loidi:']	Gn-M-S	G2					
+lu:geo:	['lougejeo:']	LUGEO	Verb	2	1-S-Pr-Act-Ind	lu:get	['lougejeti']	3-S-Pr-Act-Ind	V3					
+lu:na	['loukzna:']	LUNA	Noun	1	Nm-F-S	lu:na	['loukzna:i:']	Gn-F-S	G1					
+luo:	['luwo:']	LUO	Verb	2	1-S-Pr-Act-Ind	luet	['luweti']	3-S-Pr-Act-Ind	V3					
+lu:strum	['lu:strom']	LUSTRUM	Noun	2	Nm-N-S	lu:stri:	['lu:stri:']	Gn-N-S	G2					
+lu:x	['louks']	LUXUS	Noun	3	Nm-F-S	lu:cis	['loukes']	Gn-F-S	G3					
+macer	['makros']	MACER	Adjective	2	Nm-M-S-Ps	macri:	['makri:']	Gn-M-S-Ps	G2					
+macula	['smatla:']	MACULA	Noun	1	Nm-F-S	maculae	['smatla:i:']	Gn-F-S	G1			TRUE		
+mactus	['maktos']	MACTUS	Adjective	2	Nm-M-S-Ps	macti:	['makti:']	Gn-M-S-Ps	G2					
+madeo:	['made:o:']	MADEO	Verb	2	1-S-Pr-Act-Ind	madet	['made:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+maereo:	['maise:o:']	MAEREO	Verb	2	1-S-Pr-Act-Ind	maeret	['maise:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+magis	['magis']	MAGIS	Adverb		Cm									
+magister	['magisteros']	MAGISTER	Noun	2	Nm-M-S	magistri:	['magisteri:']	Gn-M-S	G2					
+maŋnus	['magnos']	MAGNUS	Adjective	2	Nm-M-S-Ps	maŋni:	['magni:']	Gn-M-S-Ps	G2					
+malleus	['molaleos']	MALLEUS	Noun	2	Nm-M-S	mallei:	['molalei:']	Gn-M-S	G2	PHONOLOGY		TRUE	[Phonology] Unrounding of o after m.	
+maliŋnus	['malignos']	MALIGNUS	Adjective	2	Nm-M-S-Ps	maliŋni:	['maligni:']	Gn-M-S-Ps	G2					
+maiior	['magjo:s']	MAGNUS	Adjective	3	Nm-M/F-S-Cm	maiio:ris	['magjo:ses']	Gn-M/F-S-Cm	G2				The -i- represents a geminant (sometimes so spelled).	
+malus	['malos']	MALUS1	Adjective	2	Nm-M-S-Ps	mali:	['mali:']	Gn-M-S-Ps	G2					
+manceps	['manukaps']	MANCEPS	Noun	3	Nm-M-S	mancipis	['manukapes']	Gn-M-S	G3					
+mando:	['mandno:']	MANDO	Verb	3	1-S-Pr-Act-Ind	mandit	['mandneti']	3-S-Pr-Act-Ind	V3					
+maneo	['mone:o:']	MANEO	Verb	2	1-S-Pr-Act-Ind	manet	['mone:eti']	3-S-Pr-Act-Ind	V3	PHONOLOGY		TRUE	[Phonology] Unrounding after m; grade of root disputed.	
+mante:lum	['mantergslom']	MANTELUM	Noun	2	Nm-N-S	mante:li:	['mantergsli:']	Gn-N-S	G2					
+manus	['manus']	MANUS	Noun	4	Nm-F-S	manu:s	['manuos']	Gn-F-S	G4					
+matea	['mateja:']	MATEA	Noun	1	Nm-F-S	mateae	['mateja:i:']	Gn-F-S	G1			TRUE	This term was attested only in the diminutive mateola; original simplex is reconstructed here.	
+marceo:	['marke:o:']	MARCEO	Verb	2	1-S-Pr-Act-Ind	marcet	['marke:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+marculus	['molklos']	MARCULUS	Noun	2	Nm-M-S	marculi:	['molkli:']	Gn-M-S	G2	PHONOLOGY			[Phonology] Dissimilation of liquids; early unrounding.	
+margo:	['margo:']	MARGO	Noun	3	Nm-M/F-S	marginis	['margenes']	Gn-M/F-S	G3			TRUE		
+mare	['mari']	MARE	Noun	3	Nm-N-S	maris	['mares']	Gn-N-S	G3					
+mari:tus	['mareitos']	MARITUS	Adjective	2	Nm-M-S-Ps	mari:ti:	['mareiti:']	Gn-M-S-Ps	G2			TRUE		
+maximus	['magisamos']	MAGNUS	Adjective	2	Nm-M-S-Sp	maximi:	['magisami:']	Gn-M-S-Ps	G2				Vowel before m unclear.	
+ma:cero:	['ma:kera:jo:']	MACERO	Verb	1	1-S-Pr-Act-Ind	ma:cerat	['makera:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+ma:la	['smaksla:']	MALA	Noun	1	Nm-F-S	ma:lae	['smaksla:i:']	Gn-F-S	G1					
+ma:lus	['masdos']	MALUS2	Noun	2	Nm-F-S	ma:li:	['masdi:']	Gn-F-S	G2	PHONOLOGY		TRUE	[Phonology] d > l, sometimes said to be an areal phenomenon.	
+ma:no:	['ma:na:jo:']	MANO	Verb	1	1-S-Pr-Act-Ind	ma:nat	['ma:na:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+ma:nsus	['mandtos']	MANEO	Participle	2	Pf-Psv-Nm-M-S-Ps	ma:nsi:	['mandti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+ma:s	['ma:s']	MAS	Adjective	3	Nm-M/F/N-S-Ps	maris	['mases']	Gn-M/F/N-S-Ps	G3			TRUE		
+ma:ter	['ma:te:r']	MATER	Noun	3	Nm-F-S	ma:tris	['ma:tres']	Gn-F-S	G3					
+ma:tri:x	['ma:tri:ks']	MATRIX	Noun	3	Nm-F-S									
+ma:tu:rus	['ma:tu:ros']	MATURUS	Adjective	2	Nm-M-S-Ps	ma:tu:ri:	['ma:tu:ri:']	Gn-M-S-Ps	G2			TRUE		
+medeor	['mede:o:r']	MEDEOR	Verb	2	1-S-Pr-Dep-Ind	mede:tur	['mede:etor']	3-S-Pr-Dep-Ind	V3					
+medius	['meðjos']	MEDIUS	Adjective	2	Nm-M-S-Ps	medii:	['meðji:']	Gn-M-S-Ps	G2					
+medulla	['smerula:']	MEDULLA	Noun	1	Nm-F-S	medullae	['smerula:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] There is a PIE *smeru- 'marrow', but if that's the etymon, then d > r.	
+mel	['meli']	MEL	Noun	3	Nm-N-S	mellis	['melites']	Gn-N-S	G3	PHONOLOGY			[Phonology] -lit- > -ld- > -ll-? (So some.)	
+melior	['meljo:s']	BONUS	Adjective	3	Nm-M/F-S-Cm	melio:ris	['meljozes']	Gn-M/F-S-Cm	G3	PARADIGM LEVELING			[Paradigm Leveling] The o: was proper only to the nom but spread.	
+membrum	['memzrom']	MEMBRUM	Noun	2	Nm-N-S	membri:	['memzri:']	Gn-N-S	G2					
+memini:	['memonai']	MEMINI	Verb	Special	1-S-Pr-Act-Ind									
+memor	['memnos']	MEMOR	Adjective	3	Nm-M/F/N-S-Ps	memoris	['memnozes']	Gn-M/F/N-S-Ps	G3	PHONOLOGY			[Phonology] -mn- to -m- is unparalleled.	
+mentior	['mentjo:r']	MENTIOR	Verb	4	1-S-Pr-Dep-Ind	menti:tur	['mentjetor']	3-S-Pr-Dep-Ind	V3					
+mentum	['mentom']	MENTUM	Noun	2	Nm-N-S	menti:	['menti:']	Gn-N-S	G2					
+merda	['smerda:' 'merda:']	MERDA	Noun	1	Nm-F-S	merdae	['smerda:i:' 'merda:i:']	Gn-F-S	G1					
+mereo:	['mere:o:']	MEREO	Verb	2	1-S-Pr-Act-Ind	meret	['mere:ti']	3-S-Pr-Act-Ind	V3					
+mergo:	['mezgo:']	MERGO	Verb	3	1-S-Pr-Act-Ind	mergit	['mezgeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY		TRUE	[Phonology] Normally z drops before a voiced consonant, lengthening the preceding vowel, but very unusually it seems to rhotacize before g.	
+merula	['mezela:']	MERULA	Noun	1	Nm-F-S	merulae	['mezela:i:']	Gn-F-S	G1					
+merx	['merks']	MERX	Noun	3	Nm-F-S								We did not give a genitive because the etymology is disputed.	
+meto:	['meto:']	METO	Verb	3	1-S-Pr-Act-Ind	metit	['meteti']	3-S-Pr-Act-Ind	V3					
+meus	['meos']	MEUS	Determiner	2	Nm-M-S-Ps	mei:	['mei:']	Gn-M-S-Ps	G2					
+me:io:	['meiɣjo:']	MEIO	Verb	3	1-S-Pr-Act-Ind	me:it	['meiɣjeti']	3-S-Pr-Act-Ind	V3					
+me:ns	['mentis']	MENS	Noun	3	Nm-F-S	mentis	['mentes']	Gn-F-S	G3					
+me:nsa	['menssa:']	MENSA	Noun	1	Nm-F-S	me:nsae	['menssa:i:']	Gn-F-S	G1			TRUE		
+me:nsis	['mensen']	MENSIS	Noun	3	Nm-M-S	me:nsis	['mensenes']	Gn-M-S	G3	MORPHOLOGY			[Morphology] The Latin nominative is remodeled into a -i stem; the -(e)n- suffix is preserved elsewhere in Sabellic.	
+me:ta	['me:ta:']	META	Noun	1	Nm-F-S	me:tae	['me:ta:i:']	Gn-F-S	G1					
+migro:	['migra:jo:']	MIGRO	Verb	1	1-S-Pr-Act-Ind	migrat	['migra:jeti']	3-S-Pr-Act-Ind	V3					
+mihi	['meɣei']	MIHI	Pronoun	Special	Dt-M-S					PHONOLOGY, PHONOLOGY			[Phonology] The short -i- in the first syllable is probably because the form was usually enclitic. [Phonology] The final syllable eventually undergoes iambic shortening.	
+milium	['meljom']	MILIUM	Noun	2	Nm-N-S	mili:	['melji:']	Gn-N-S	G2					
+minae	['mena:s']	MINAE	Noun	1	Nm-F-P	mina:rum	['mena:zom']	Gn-F-P	G1P	ANALOGY, PARADIGM LEVELING			[Morphology] Latin substituted -i for the -s of Sabellic plurals. [Paradigm Leveling] Unstressed -min- from verbal forms was apparently inserted into initial syllables.	
+miŋgo	['minɣo:']	MINGO	Verb	3	1-S-Pr-Act-Ind	miŋgit	['minɣeti']	3-S-Pr-Act-Ind	V3			TRUE		
+minister	['minosteros']	MINISTER	Noun	2	Nm-M-S	ministri:	['minosteri:']	Gn-M-S	G2					
+minor	['mino:s']	PARVUS	Adjective	3	Nm-M/F-S-Cm	mino:ris	['mino:res']	Gn-M/F-S-Cm	G3	PARADIGM LEVELING			[Paradigm Leveling] The nom. sg. has an -r- from the oblique stem.	
+minuo:	['minwo:']	MINUO	Verb	3	1-S-Pr-Act-Ind	minuit	['minweti']	3-S-Pr-Act-Ind	V1					
+minus	['minos']	PARVUS	Adverb		Cm									
+misceo:	['miksko:']	MISCEO	Verb	2	1-S-Pr-Act-Ind	miscet	['miksketi']	3-S-Pr-Act-Ind	V3	MORPHOLOGY			[Morphology] The verb became 2nd conjugation for some reason; not a phonetic change.	
+miser	['misros']	MISER	Adjective	2	Nm-M-S-Ps	miseri:	['misri:']	Gn-M-S-Ps	G1					
+mitto:	['meito:']	MITTO	Verb	3	1-S-Pr-Act-Ind	mittit	['meiteti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] Quantitative metathesis (meit > mi:t > mit:). (A rare but occasional effect).	
+mixtus	['mikstos']	MISCEO	Participle	2	Pf-Psv-Nm-M-S-Ps	mixti:	['miksti:']	Pf-Psv-Gn-M-S-Ps	G2					
+mi:ca	['smi:ka:' 'meika:']	MICA	Noun	1	Nm-F-S	mi:cae	['smi:ka:i:' 'meika:i:']	Gn-F-S	G1					
+mi:lle	['smi:ɣesli:']	MILLE	Numeral	Special	Any-M/F/N-S									
+mi:rus	['smeiros']	MIRUS	Adjective	2	Nm-M-S-Ps	mi:ri:	['smeiri:']	Gn-M-S-Ps	G2					
+mi:tis	['mi:tis']	MITIS	Adjective	3	Nm-M/F-S-Ps	mi:tis	['mi:tes']	Gn-M/F-S-Ps	G3					
+modus	['medo:s']	MODUS	Noun	2	Nm-M-S	modi:	['medi:']	Gn-M-S	G2	PHONOLOGY			[Phonology] Some maneuvering is required to get the -o-.	
+moenia	['moinia']	MOENIA	Noun	2	Nm-N-P	moenium	['moinio:m']	Gn-N-P	G3P	PHONOLOGY		TRUE	[Phonology] The -oe- fails to become -u:-.	
+mola	['mola:']	MOLA	Noun	1	Nm-F-S	molae	['mola:i:']	Gn-F-S	G2					
+mollis	['molduis']	MOLLIS	Adjective	3	Nm-M/F-S-Ps	mollis	['moldues']	Gn-M/F-S-Ps	G3					
+molluscus	['molduskos']	MOLLUSCUS	Adjective	2	Nm-M-S-Ps	mollusci:	['molduski:']	Gn-M-S-Ps	G2					
+molo:	['melo:']	MOLO	Verb	3	1-S-Pr-Act-Ind	molit	['meleti']	3-S-Pr-Act-Ind	G3					
+moneo:	['monejeo:']	MONEO	Verb	2	1-S-Pr-Act-Ind	monet	['monejeti']	3-S-Pr-Act-Ind	V3					
+mora	['mora:']	MORA	Noun	1	Nm-F-S	morae	['mora:i:']	Gn-F-S	G2			TRUE		
+morbus	['morβos']	MORBUS	Noun	2	Nm-M-S	morbi:	['morβi:']	Gn-M-S	G2			TRUE		
+mordeo:	['mordejeo:']	MORDEO	Verb	2	1-S-Pr-Act-Ind	mordet	['mordejeti']	3-S-Pr-Act-Ind	V3					
+morior	['morjo:r']	MORIOR	Verb	3	1-S-Pr-Dep-Ind	moritur	['morjetor']	3-S-Pr-Dep-Ind	V3					
+mors	['mortis']	MORS	Noun	3	Nm-F-S	mortis	['mortes']	Gn-F-S	G3					
+moveo:	['mawejo:']	MOVEO	Verb	2	1-S-Pr-Act-Ind	movet	['mawejeti']	3-S-Pr-Act-Ind	V3					
+mo:bilis	['moweðlis']	MOBILIS	Adjective	3	Nm-M/F-S-Ps	mo:bilis	['moweðles']	Gn-M/F-S-Ps	G3					
+mo:mentum	['mowementom']	MOMENTUM	Noun	2	Nm-N-S	mo:menti:	['mowementi:']	Gn-N-S	G2					
+mo:ns	['montis']	MONS	Noun	3	Nm-M-S	montis	['montes']	Gn-M-S	G3					
+mo:nstrum	['monestrom']	MONSTRUM	Noun	2	Nm-N-S	mo:nstri:	['monestri:']	Gn-N-S	G2					
+mo:s	['mo:s']	MOS	Noun	3	Nm-M-S	mo:ris	['mo:ses']	Gn-M-S	G3					
+mo:tus	['mowetos']	MOVEO	Participle	2	Pf-Psv-Nm-M-S-Ps	mo:ti:	['moweti:']	Pf-Psv-Gn-M-S-Ps	G2					
+mo:vi:	['mowawai']	MOVEO	Verb	2	1-S-Pf-Act-Ind									
+mulgeo:	['molgejeo:']	MULGEO	Verb	2	1-S-Pr-Act-Ind	mulget	['molgejeti']	3-S-Pr-Act-Ind						
+muliebris	['muliesris']	MULIEBRIS	Adjective	3	Nm-M/F-S-Ps	muliebris	['muliesres']	Gn-M/F-S-Ps	G3			TRUE		
+mulier	['muljes']	MULIER	Noun	3	Nm-F-S	mulieris	['muljeres']	Gn-F-S	G3					
+mulleus	['molwejos']	MULLEUS	Adjective	2	Nm-M-S-Ps	mullei:	['molweji:']	Gn-M-S-Ps	G2					
+multus	['moltos']	MULTUS	Adjective	2	Nm-M-S-Ps	multi:	['molti:']	Gn-M-S-Ps	G2					
+mundus	['mudnos']	MUNDUS	Adjective	2	Nm-M-S-Ps	mundi:	['mudni:']	Gn-M-S-Ps	G2			TRUE		
+murmuro:	['mormora:jo:']	MURMURO	Verb	1	1-S-Pr-Act-Ind	murmurat	['mormora:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+musca	['muska:']	MUSCA	Noun	1	Nm-F-S	muscae	['muska:i:']	Gn-F-S	G1			TRUE		
+mu:cus	['moukos']	MUCUS	Noun	2	Nm-M-S	mu:ci:	['mouki:']	Gn-M-S	G2					
+mu:lus	['mukslos']	MULUS	Noun	2	Nm-M-S	mu:li:	['muksli:']	Gn-M-S	G2					
+mu:nus	['moinos']	MUNUS	Noun	3	Nm-N-S	mu:neris	['moinezos']	Gn-N-S	G3					
+mu:rus	['moiros']	MURUS	Noun	2	Nm-M-S	mu:ri:	['moiri:']	Gn-M-S	G2					
+mu:s	['mu:s']	MUSCA	Noun	3	Nm-M/F-S	mu:ris	['mu:ses']	Gn-M/F-S	G3					
+mu:scus	['mu:skos']	MUSCUS	Noun	2	Nm-M-S	mu:sci:	['mu:ski:']	Gn-M-S	G2			TRUE		
+mu:tus	['mu:tos']	MUTUS	Adjective	2	Nm-M-S-Ps	mu:ti:	['mu:ti:']	Gn-M-S-Ps	G2			TRUE		
+mu:tuus	['moitowos']	MUTUUS	Adjective	2	Nm-M-S-Ps	mu:tui:	['moitowi:']	Gn-M-S-Ps	G2			TRUE		
+nanci:scor	['nankisko:r']	NANCISCOR	Verb	3	1-S-Pr-Dep-Ind	nanci:scitur	['nankisketor']	3-S-Pr-Dep-Ind	V3	MORPHOLOGY			[Morphology] The inherited -sk- verbs have a preceding short vowel.	
+narro:	['gna:ra:jo:']	NARRO	Verb	1	1-S-Pr-Act-Ind	narrat	['gna:ra:jeti:']	3-S-Pr-Act-Ind	V3					
+nauta	['navita']	NAUTA	Noun	1	Nm-M-S	nautae	['navita:i:']	Gn-M-S	G1			TRUE		
+na:s	['na:s']	NAS	Noun	3	Nm-F-S	na:ris	['na:ses']	Gn-F-S	G3			TRUE		
+na:scor	['gna:sko:r']	NASCOR	Verb	3	1-S-Pr-Dep-Ind	na:scitur	['gna:sketor']	3-S-Pr-Dep-Ind	V3					
+na:ti:vus	['gna:ti:wos']	NATIVUS	Adjective	2	Nm-M-S-Ps	na:ti:vi:	['gna:ti:wi:']	Gn-M-S-Ps	G2					
+na:tus	['gna:tos']	NASCOR	Participle	2	Pf-Dep-Nm-M-S-Ps	na:ti:	['na:ti:']	Pf-Dep-Gn-M-S-Ps	G2					
+na:vis	['na:us']	NAVIS	Noun	3	Nm-F-S	na:vis	['na:wes']	Gn-F-S	G3	PARADIGM LEVELING		TRUE	[Paradigm Leveling] The nominative is remodeled into an ordinary-looking i-stem from the oblique forms.	
+nebula	['neβela:']	NEBULA	Noun	1	Nm-F-S	nebulae	['neβela:i:']	Gn-F-S	G1					
+nemus	['nemos']	NEMUS	Noun	3	Nm-N-S	nemoris	['nemozes']	Gn-N-S	G3			TRUE		
+neo:	['ne:jeo:']	NEO	Verb	2	1-S-Pr-Act-Ind	net	['ne:jeti']	3-S-Pr-Act-Ind	V3					
+nepo:s	['nepo:ts']	NEPOS	Noun	3	Nm-M/F-S	nepo:tis	['nepo:tes']	Gn-M/F-S	G3					
+nex	['neks']	NEX	Noun	3	Nm-F-S	necis	['nekes']	Gn-F-S	G3					
+niŋgit	['sninɣʷeti']	NINGO	Verb	3	3-S-Pr-Act-Ind									
+nix	['sniks']	NIX	Noun	3	Nm-F-S	nivis	['sniɣʷos']	Gn-F-S	G3					
+ni:dor	['kni:do:s']	NIDOR	Noun	3	Nm-M-S	ni:do:ris	['kni:do:ses']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The nominative gets r from the oblique cases, and the oblique cases get o: from the nominative.	
+ni:dus	['nizdos']	NIDUS	Noun	2	Nm-M-S	ni:di:	['nizdi:']	Gn-M-S	G2					
+ni:sus	['kneiɣʷsos']	NITOR	Participle	2	Pf-Psv-Nm-M-S-Ps	ni:si:	['kneiɣʷsi:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+ni:tor	['kniɣʷeto:r']	NITOR	Verb	3	1-S-Pr-Dep-Ind	ni:titur	['kniɣʷetetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+noceo:	['nokejeo:']	NOCEO	Verb	2	1-S-Pr-Act-Ind	nocet	['nokejeti']	3-S-Pr-Act-Ind	V3					
+noster	['nosteros']	NOSTER	Determiner	2	Nm-M-S-Ps	nostri:	['nosteri:']	Gn-M-S-Ps	G2					
+nova:cula	['ksnowa:tla:']	NOVACULA	Noun	1	Nm-F-S	nova:culae	['ksnowa:tla:i:']	Gn-F-S	G1					
+novo:	['nowa:jo:']	NOVO	Verb	1	1-S-Pr-Act-Ind	novat	['nowa:jeti']	3-S-Pr-Act-Ind	V3					
+novus	['nowos']	NOVUS	Adjective	2	Nm-M-S-Ps	novi:	['nowi:']	Gn-M-S-Ps	G2					
+nox	['nokts']	NOX	Noun	3	Nm-F-S	noctis	['noktos']	Gn-F-S	G3					
+no:	['sna:jo:']	NO	Verb	1	1-S-Pr-Act-Ind	nat	['sna:jeti:']	3-S-Pr-Act-Ind	V3					
+no:men	['nomen']	NOMEN	Noun	3	Nm-N-S	no:minis	['nomenes']	Gn-N-S	G3					
+no:s	['no:s']	NOS	Pronoun	Special	Nm-M/F/N-P									
+no:sco:	['gno:sko:']	NOSCO	Verb	3	1-S-Pr-Act-Ind	no:scit	['gno:sketi']	3-S-Pr-Act-Ind	V3					
+numerus	['nomezos']	NUMERUS	Noun	2	Nm-M-S	numeri:	['nomezi:']	Gn-M-S	G2					
+nurus	['snuzus']	NURUS	Noun	4	Nm-F-S	nuru:s	['snuzuos']	Gn-F-S	G4					
+nux	['knuks']	NUX	Noun	3	Nm-F-S	nucis	['knukes']	Gn-F-S	G3					
+nu:be:s	['nouðs']	NUBES	Noun	3	Nm-F-S	nu:bis	['nouðis']	Gn-F-S	G3	PARADIGM LEVELING			[Paradigm leveling] The nominative nubs is attested, but the stem was evidently reimported to the nominative with the -e:s of obscure origin found in a few other nouns (sede:s, caede:s, vate:s).	
+nu:dus	['nogʷodos']	NUDUS	Adjective	2	Nm-M-S-Ps	nu:di:	['nogʷodi:']	Gn-M-S-Ps	G2					
+nu:llus	['noinolos']	NULLUS	Adjective	2	Nm-M-S-Ps								No genitive is given because this word has the pronominal gen. in -i:us of debated origin, making the P. Ital. form uncertain.	
+nu:trio:	['snoutrjo:']	NUTRIO	Verb	4	1-S-Pr-Act-Ind	nu:trit	['snoutrjeti']	3-S-Pr-Act-Ind	V3					
+nu:tri:x	['snoutri:tri:ks']	NUTRIX	Noun	3	Nm-F-S	nu:tri:cis	['snoutri:tri:kes']	Gn-F-S	G3				P. Ital. probably did not have -ks but just -i:.	
+nu:ntius	['nountios']	NUNTIUS	Noun	2	Nm-M-S	nu:nti:	['nountii:']	Gn-M-S	G2			TRUE		
+ob	['op']	OB	Preposition											
+obscu:rus	['obskoiros']	OBSCURUS	Adjective	2	Nm-M-S-Ps	obscu:ri:	['obskoiri:']	Gn-M-S-Ps	G2			TRUE		
+obsidium	['obsedjom']	OBSIDIUM	Noun	2	Nm-N-S	obsidi:	['obsedji:']	Gn-N-S	G2			TRUE		
+occa	['oketa:']	OCCA	Noun	1	Nm-F-S	occae	['oketa:i:']	Gn-F-S	G1	PHONOLOGY		TRUE	[Phonology] If oketa:, suggested by other IE languages, is correctly reconstructed, then oketa: > okita: > otika: > ot'ka: > okka; the metathesis is unparalleled. Possibly a borrowing from another dialect?	
+occulo:	['obkelo:']	OCCULO	Verb	3	1-S-Pr-Act-Ind	occulit	['obkeleti']	3-S-Pr-Act-Ind	V3			TRUE		
+octa:vus	['okta:wos']	OCTAVUS	Adjective	2	Nm-M-S-Ps	octa:vi:	['okta:wi:']	Gn-M-S-Ps	G2					
+octo:	['okto:']	OCTO	Numeral									TRUE		
+ocris	['okris']	OCRIS	Noun	3	Nm-M-S	ocris	['okres']	Gn-M-S	G3			TRUE		
+oculus	['okʷelos']	OCULUS	Noun	2	Nm-M-S	oculi:	['okʷeli:']	Gn-M-S	G2					
+odor	['odo:s']	ODOR	Noun	3	Nm-M-S	odo:ris	['odo:res']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm leveling] The nominative singular has an -r- from the oblique stem; the oblique stem has a long o from the nom.	
+officio:	['opifakjo:']	OFFICIO	Verb	3	1-S-Pr-Act-Ind	officit	['opifakjeti:']	3-S-Pr-Act-Ind	V3					
+officium	['opifakjom']	OFFICIUM	Noun	2	Nm-N-S	offici:	['opifakji:']	Gn-N-S	G2					
+oleo:	['ode:o:']	OLEO	Verb	2	1-S-Pr-Act-Ind	olet	['ode:eti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] -l- > -d-/V_V, a sporadic change.	
+olo:	['odo:']	OLO	Verb	3	1-S-Pr-Act-Ind	olit	['odeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] -l- > -d-/V_V, a sporadic change.	
+olor	['elo:r']	OLOR	Noun	3	Nm-M-S	olo:ris	['elores']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The nominative singular has an -r- from the oblique stem; the oblique stem has a long o from the nom.	
+omnis	['opnis']	OMNIS	Adjective	3	Nm-M/F-S-Ps	omnis	['opnes']	Gn-M/F-S-Ps	G3					
+onus	['onos']	ONUS	Noun	3	Nm-N-S	oneris	['onezes']	Gn-N-S	G3					
+oppidum	['oppedom']	OPPIDUM	Noun	2	Nm-N-S	oppidi:	['oppedi:']	Gn-N-S	G2					
+opa:cus	['opwa:kos']	OPACUS	Adjective	2	Nm-M-S-Ps	opa:ci:	['opwa:ki:']	Gn-M-S-Ps	G2			TRUE		
+operio:	['opwerjo:']	OPERIO	Verb	4	1-S-Pr-Act-Ind	operit	['opwerjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+oportet	['opworte:eti']	OPORTO	Verb	2	3-S-Pr-Act-Ind							TRUE		
+ops	['ops']	OPS	Noun	3	Nm-F-S	opis	['opes']	Gn-F-S	G3			TRUE		
+opto:	['opita:jo:']	OPTO	Verb	1	1-S-Pr-Act-Ind	optat	['opita:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+opus	['opos']	OPUS	Noun	3	Nm-N-S	operis	['opezes']	Gn-N-S	G3			TRUE		
+orbis	['orβis']	ORBIS	Noun	3	Nm-M-S	orbis	['orβes']	Gn-M-S	G3			TRUE		
+orbus	['orβos']	ORBUS	Adjective	2	Nm-M-S-Ps	orbi:	['orβi:']	Gn-M-S-Ps	G3			TRUE		
+orior	['orjo:r']	ORIOR	Verb	4	1-S-Pr-Dep-Ind	ori:tur	['orjetor']	3-S-Pr-Dep-Ind	V3					
+os	['ost']	OS1	Noun	3	Nm-N-S	ossis	['ostos']	Gn-N-S	G3			TRUE	NOTE: Or nominative singular *osts?	
+ovis	['owis']	OVIS	Noun	3	Nm-F-S	ovis	['owes']	Gn-F-S	G3					
+o:di:	['o:dai']	ODI	Verb	Special	1-S-Pr-Act-Ind									
+o:lla	['auksla:']	OLLA	Noun	1	Nm-F-S	o:llae	['auksla:i:']	Gn-F-S	G1					
+o:men	['okwsmen']	OMEN	Noun	3	Nm-N-S	o:minis	['okwsmenes']	Gn-N-S	G3			TRUE		
+o:pilos	['owipolos']	OPILIO	Noun	3	Nm-M-S					PHONOLOGY		TRUE	[Phonology] owi- should yield u:. Is this Sabellic? The Latin word is opilio: with an -io suffix; the underlying compound is not attested as such.	
+o:rdo:	['ordo:']	ORDO	Noun	3	Nm-M-S	o:rdinis	['ordenes']	Gn-M-S	G3	PHONOLOGY			[Phonology] The o: is apparently secondary.	
+o:s	['o:s']	OS2	Noun	3	Nm-N-S	o:ris	['o:ses']	Gn-N-S	G3					
+o:vum	['o:wom']	OVUM	Noun	2	Nm-N-S	o:vi:	['o:wi:']	Gn-N-S	G2					
+pala:tum	['pala:tom']	PALATUM	Noun	2	Nm-N-S	pala:ti:	['pala:ti:']	Gn-N-S	G2			TRUE		
+palea	['paleja:']	PALEA	Noun	1	Nm-F-S	paleae	['paleja:i:']	Gn-F-S	G1			TRUE		
+palleo:	['palwe:o:']	PALLEO	Verb	2	1-S-Pr-Act-Ind	pallet	['palwe:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+palma	['palama:']	PALMA	Noun	1	Nm-F-S	palmae	['palama:i:']	Gn-F-S	G1			TRUE		
+palu:s	['palu:ts']	PALUS	Noun	3	Nm-F-S	palu:dis	['palu:des']	Gn-F-S	G3					
+pando:	['pandno:']	PANDO	Verb	3	1-S-Pr-Act-Ind	pandit	['pandneti']	3-S-Pr-Act-Ind	V3					
+paŋgo:	['pango:']	PANGO	Verb	3	1-S-Pr-Act-Ind	paŋgit	['pangeti']	3-S-Pr-Act-Ind	V3					
+parco:	['pearko:']	PARCO	Verb	3	1-S-Pr-Act-Ind	parcit	['pearketi']	3-S-Pr-Act-Ind	V3					
+pario:	['parjo:']	PARIO	Verb	3	1-S-Pr-Act-Ind	parit	['parjeti']	3-S-Pr-Act-Ind	V3					
+paro:	['para:jo:']	PARO	Verb	1	1-S-Pr-Act-Ind	parat	['para:jeti']	3-S-Pr-Act-Ind	V3					
+parra	['parasa:']	PARRA	Noun	1	Nm-F-S	parrae	['parasa:i:']	Gn-F-S	G1				The second -a- is a guess; only V can be securely reconstructed.	
+pars	['partis']	PARS	Noun	3	Nm-F-S	partis	['partes']	Gn-F-S	G3					
+particeps	['partikaps']	PARTICEPS	Adjective	3	Nm-M/F/N-S-Ps	participis	['partikapes']	Gn-M/F/N-S-Ps	G3					
+parvus	['pauros']	PARVUS	Adjective	2	Nm-M-S-Ps	parvi:	['parvi:']	Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] This form has a rare metathesis (-ur- > -ru-), as does parvus (-ur- > -rv-, the mirror image change).	
+passer	['pattros']	PASSER	Noun	3	Nm-M-S								We leave off the genitive singular since it is the source of a paradigm split; passeri: is generated from the nominative.	
+passus	['patstus']	PASSUS	Noun	2	Nm-M-S	passi:	['patsti:']	Gn-M-S	G2					
+pateo:	['pate:o:']	PATEO	Verb	2	1-S-Pr-Act-Ind	patet	['pate:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+pater	['pate:r']	PATER	Noun	3	Nm-M-S	patris	['patres']	Gn-M-S	G3					
+patior	['patjo:r']	PATIOR	Verb	3	1-S-Pr-Dep-Ind	patitur	['patjetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+paucus	['paukos']	PAUCUS	Adjective	2	Nm-M-S-Ps	pauci:	['pauki:']	Gn-M-S-Ps	G2					
+paulus	['paurelos']	PAULUS	Adjective	2	Nm-M-S-Ps	pauli:	['paureli:']	Gn-M-S-Ps	G2					
+pauper	['pauperos']	PAUPER	Adjective	3	Nm-M/F/N-S-Ps	pauperi	['pauperi:']	Gn-M/F/N-S-Ps	G2					
+paveo:	['pawe:o:']	PAVEO	Verb	2	1-S-Pr-Act-Ind	pavet	['pawe:eti']	3-S-Pr-Act-Ind	V3					
+pavio:	['pawjo:']	PAVIO	Verb	4	1-S-Pr-Act-Ind	pavit	['pawjeti']	3-S-Pr-Act-Ind	V3					
+pa:la	['paksla:']	PALA	Noun	1	Nm-F-S	pa:lae	['paksla:i:']	Gn-F-S	G1			TRUE		
+pa:lor	['pa:la:jo:r']	PALOR	Verb	1	1-S-Pr-Dep-Ind	pa:la:tur	['pa:la:jetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+pa:lus	['pa:kslos']	PALUS	Noun	2	Nm-M-S	pa:li:	['pa:ksli:']	Gn-M-S	G2					
+pa:nis	['pa:stnis']	PANIS	Noun	3	Nm-M-S	pa:nis	['pa:stnes']	Gn-M-S	G3					
+pa:reo:	['pa:ze:o:']	PAREO	Verb	2	1-S-Pr-Act-Ind	pa:ret	['pa:re:eti']	3-S-Pr-Act-Ind	V3					
+parrici:da	['pa:rikaida']	PARRICIDA	Noun	1	Nm-M/F-S	parrici:dae	['pa:rikaida:i:']	Gn-M/F-S	G1	PHONOLOGY		TRUE	[Phonology] Littera rule? (if pa:r is correctly reconstructed.)	
+pa:sco:	['pa:sko:']	PASCO	Verb	3	1-S-Pr-Act-Ind	pa:scit	['pa:sketi']	3-S-Pr-Act-Ind	V3					
+pa:x	['pa:ks']	PAX	Noun	3	Nm-F-S	pa:cis	['pa:kes']	Gn-F-S	G3					
+pecco:	['petka:jo:']	PECCO	Verb	1	1-S-Pr-Act-Ind	peccat	['petka:jeti']	3-S-Pr-Act-Ind	V3				Dubious etymology.	
+pecten	['pekten']	PECTEN	Noun	3	Nm-M-S	pectinis	['pektenes']	Gn-M-S	G3					
+pecto:	['pekto:']	PECTO	Verb	3	1-S-Pr-Act-Ind	pectit	['pekteti']	3-S-Pr-Act-Ind	V3					
+pectus	['pektos']	PECTUS	Noun	3	Nm-N-S	pectoris	['pektozes']	Gn-N-S	G3					
+pecu:	['peku']	PECU	Noun	4	Nm-N-S	pecu:s	['pekwos']	Gn-N-S	G4					
+pellis	['pelnis']	PELLIS	Noun	3	Nm-F-S	pellis	['pelnes']	Gn-F-S	G3					
+pello:	['pelna:jo:']	PELLO	Verb	1	1-S-Pr-Act-Ind	pellat	['pelna:jeti']	3-S-Pr-Act-Ind	V3					
+pendeo:	['pende:jo:']	PENDEO	Verb	2	1-S-Pr-Act-Ind	pendet	['pende:jeti']	3-S-Pr-Act-Ind	V3					
+pendo:	['pendo:']	PENDO	Verb	3	1-S-Pr-Act-Ind	pendit	['pendeti']	3-S-Pr-Act-Ind	V3					
+penes	['penets']	PENES	Preposition											
+penna	['petna:']	PENNA	Noun	1	Nm-F-S	pennae	['petna:i:']	Gn-F-S	G1					
+penus	['penos']	PENUS	Noun	3	Nm-N-S	penoris	['penozes']	Gn-N-S	G3					
+per	['peri']	PER	Preposition											
+perdo:	['perido:']	PERDO	Verb	3	1-S-Pr-Act-Ind	perdit	['peridati']	3-S-Pr-Act-Ind	V3					
+peregre:	['pereagro']	PEREGRE	Adverb		Ps									
+peregre	['pereagro']	PEREGRE	Adverb		Ps									
+perfacilis	['perifakelis']	PERFACILIS	Adjective	3	Nm-M/F-S-Ps			Gn-M/F-S-Ps						
+perfectus	['perifaktos']	PERFICIO	Participle	2	Pf-Psv-Nm-M-S-Ps									
+perficio:	['perifakjo:']	PERFICIO	Verb	3	1-S-Pr-Act-Ind									
+peri:culum	['pereitlom']	PERICULUM	Noun	2	Nm-N-S	peri:culi:	['pereitli:']	Gn-N-S	G2			TRUE		
+permultus	['perimoltos']	PERMULTUS	Adjective	2	Nm-M-S-Ps									
+perna	['perzna:']	PERNA	Noun	1	Nm-F-S	pernae	['perzna:i:']	Gn-F-S	G1					
+perperus	['periperos']	PERPERUS	Adjective	2	Nm-M-S-Ps	perperi:	['periperi:']	Gn-M-S-Ps	G2					
+pertica	['perth' 'pertika:']	PERTICA	Noun	1	Nm-F-S			Gn-F-S						
+pessimus	['pessemos']	MALUS1	Adjective	2	Nm-M-S-Sp									
+pessum	['pedtom']	PESSUM	Adverb		Ps									
+peto:	['peto:']	PETO	Verb	3	1-S-Pr-Act-Ind	petit	['peteti']	3-S-Pr-Act-Ind	V3			TRUE		
+pe:dis	['pezdis']	PEDIS	Noun	3	Nm-M-S									
+pe:do:	['pezdo:']	PEDO	Verb	3	1-S-Pr-Act-Ind									
+pe:nis	['petznis']	PENIS	Noun	3	Nm-M-S	pe:nis	['petznes']	Gn-M-S	G3					
+pe:s	['pets']	PES	Noun	3	Nm-M-S	pedis	['pedes']	Gn-M-S	G3				P. Ital. definitely had the inherited po:d-.	
+pictus	['piktos']	PINGO	Participle	2	Pf-Psv-Nm-M-S-Ps	picti:	['pikti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+piget	['pige:eti']	PIGEO	Verb	2	3-S-Pr-Act-Ind							TRUE		
+piger	['pigros']	PIGER	Adjective	2	Nm-M-S-Ps	pigri:	['pigri:']	Gn-M-S-Ps	G2			TRUE		
+piŋnus	['pegnos']	PIGNUS	Noun	3	Nm-N-S	piŋnoris	['pegnozes']	Gn-N-S	G3			TRUE		
+pilleus	['pislejos']	PILLEUS	Noun	2	Nm-M-S	pillei:	['pisleji:']	Gn-M-S	G2			TRUE		
+piŋgo:	['pingo:']	PINGO	Verb	3	1-S-Pr-Act-Ind	piŋgit	['pingeti']	3-S-Pr-Act-Ind	V3			TRUE		
+pinna	['petna:']	PINNA	Noun	1	Nm-F-S	pinnae	['petna:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] e to i after labial?	
+piscis	['piskis']	PISCIS	Noun	3	Nm-M-S	piscis	['piskes']	Gn-M-S	G3					
+pius	['pwi:jos']	PIUS	Adjective	2	Nm-M-S-Ps	pii:	['pwi:ji:']	Gn-M-S-Ps	G2					
+pix	['piks']	PIX	Noun	3	Nm-F-S	picis	['pikes']	Gn-F-S	G3			TRUE		
+pi:la_1	['pistla:']	PILA1	Noun	1	Nm-F-S	pi:lae_1	['pistla:i:']	Gn-F-S	G1					
+pi:la_2	['peila:']	PILA2	Noun	1	Nm-F-S	pi:lae_2	['peila:i:']	Gn-F-S	G1					
+pi:lum	['pistlom']	PILUM	Noun	2	Nm-N-S	pi:li:	['pistli:']	Gn-N-S	G2					
+placeo:	['plake:o:']	PLACEO	Verb	2	1-S-Pr-Act-Ind	placet	['plake:eti']	3-S-Pr-Act-Ind	V3					
+planta	['pla:nta:']	PLANTA	Noun	1	Nm-F-S	plantae	['pla:nta:i:']	Gn-F-S	G1					
+plaudo:	['plaudo:']	PLAUDO	Verb	3	1-S-Pr-Act-Ind	plaudit	['plaudeti']	3-S-Pr-Act-Ind	V3					
+plausus	['plaudtos']	PLAUDO	Participle	2	Pf-Psv-Nm-M-S-Ps	plausi:	['plaudti:']	Pf-Psv-Gn-M-S-Ps	G1			TRUE		
+plautus	['plautos']	PLAUTUS	Adjective	2	Nm-M-S-Ps	plauti:	['plauti:']	Gn-M-S-Ps	G2					
+pla:co:	['pla:ka:jo:']	PLACO	Verb	1	1-S-Pr-Act-Ind	pla:cat	['pla:ka:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+pla:ga	['pla:ga:']	PLAGA	Noun	1	Nm-F-S	pla:gae	['pla:ga:i:']	Gn-F-S	G1					
+plaŋgo:	['pla:ngo:']	PLANGO	Verb	3	1-S-Pr-Act-Ind	plaŋgit	['pla:ngeti']	3-S-Pr-Act-Ind	V3					
+pla:nus	['pla:nos']	PLANUS	Adjective	2	Nm-M-S-Ps	pla:ni:	['pla:ni:']	Gn-M-S-Ps	G2					
+plecto:	['plekto:']	PLECTO	Verb	3	1-S-Pr-Act-Ind	plectit	['plekteti']	3-S-Pr-Act-Ind	V3					
+pleo:	['ple:jo:']	PLEO	Verb	2	1-S-Pr-Act-Ind	plet	['ple:jeti']	3-S-Pr-Act-Ind	V3					
+ple:be:s	['ple:ðe:s']	PLEBES	Noun	3	Nm-F-S	ple:bis	['ple:ðes']	Gn-F-S	G3				This is a complicated paradigm; some leveling probably already occurred in P. Ital.	
+ple:nus	['ple:nos']	PLENUS	Adjective	2	Nm-M-S-Ps	ple:ni:	['ple:ni:']	Gn-M-S-Ps	G2					
+ple:rus	['ple:ros']	PLERUS	Adjective	2	Nm-M-S-Ps	ple:ri:	['ple:ri:']	Gn-M-S-Ps	G2					
+pleco:	['pleka:jo:']	PLECO	Verb	1	1-S-Pr-Act-Ind	plecat	['pleka:jeti:']	3-S-Pr-Act-Ind	V3				The verb only shows up in compounds in the form plico:.	
+pluo:	['plowo:']	PLUO	Verb	3	1-S-Pr-Act-Ind	pluit	['ploweti']	3-S-Pr-Act-Ind	V3			TRUE		
+plu:ma	['plouksma:']	PLUMA	Noun	1	Nm-F-S	plu:mae	['plouksma:i:']	Gn-F-S	G1					
+plu:rimus	['ploisamos']	MULTUS	Adjective	2	Nm-M-S-Sp	plu:rimi:	['ploisami:']	Gn-M-S-Ps	G2					
+plu:s	['plois']	MULTUS	Adjective	3	Nm-N-S-Cm	plu:ris	['ploises']	Gn-N-S-Cm	G3					
+polio:	['polijo:']	POLIO	Verb	4	1-S-Pr-Act-Ind	polit	['polijeti']	3-S-Pr-Act-Ind	V3			TRUE		
+polleo:	['polne:o:']	POLLEO	Verb	2	1-S-Pr-Act-Ind	pollet	['polne:eti']	3-S-Pr-Act-Ind	V3					
+pollen	['pole:n']	POLLEN	Noun	3	Nm-N-S	pollinis	['polnis']	Gn-N-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The -ll- has its origin in the oblique cases.	
+polliŋgo:	['porwlinkʷo:']	POLLINGO	Verb	3	1-S-Pr-Act-Ind	polliŋgit	['porwlinkʷeti']	3-S-Pr-Act-Ind	V3					
+polluceo:	['porloikejo:']	POLLUCEO	Verb	2	1-S-Pr-Act-Ind	pollucet	['porloikejeti']	3-S-Pr-Act-Ind	V3			TRUE		
+polluo	['porlawo:']	POLLUO	Verb	3	1-S-Pr-Act-Ind	polluit	['porlawit']	3-S-Pr-Act-Ind	V3			TRUE		
+pondus	['pondos']	PONDUS	Noun	3	Nm-N-S	ponderis	['ponderes']	Gn-N-S	G3					
+pontifex	['pontifaks']	PONTIFEX	Noun	3	Nm-M-S	pontificis	['pontifakes']	Gn-M-S	G3					
+populus	['poplos']	POPULUS	Noun	2	Nm-M-S	populi:	['popli:']	Gn-M-S	G2					
+porca	['porka:']	PORCA	Noun	1	Nm-F-S	porcae	['porka:i:']	Gn-F-S	G1			TRUE		
+porcus	['porkos']	PORCUS	Noun	2	Nm-M-S	porci:	['porki:']	Gn-M-S	G2					
+porgo:	['porrego:']	PORGO	Verb	3	1-S-Pr-Act-Ind	porgit	['porregit']	3-S-Pr-Act-Ind	V3				Also attested as porrigo:.	
+porta	['porta:']	PORTA	Noun	1	Nm-F-S	portae	['porta:i:']	Gn-F-S	G1					
+porto:	['porta:jo:']	PORTO	Verb	1	1-S-Pr-Act-Ind	portat	['porta:jeti']	3-S-Pr-Act-Ind	V3					
+portus	['portus']	PORTUS	Noun	4	Nm-M-S	portu:s	['portwos']	Gn-M-S	G4					
+posco:	['porsko:']	POSCO	Verb	3	1-S-Pr-Act-Ind	poscit	['porsketi']	3-S-Pr-Act-Ind	V3					
+post	['posti']	POST	Preposition											
+postis	['porstis']	POSTIS	Noun	3	Nm-M-S	postis	['porstes']	Gn-M-S	G3			TRUE		
+postre:mus	['posterezemos']	POSTREMUS	Adjective	2	Nm-M-S-Sp	postre:mi:	['posterezemi:']	Gn-M-S-Ps	G2					
+postulo:	['postela:jo:']	POSTULO	Verb	1	1-S-Pr-Act-Ind	postulat	['postula:jeti']	3-S-Pr-Act-Ind	V3					
+potior_1	['potjo:r']	POTIOR	Verb	4	1-S-Pr-Dep-Ind	potitur	['potjetor']	3-S-Pr-Dep-Ind	V3					
+potior_2	['potjo:s']	POTIS	Adjective	3	Nm-M/F-S-Cm	potio:ris	['potjo:ses']	Gn-M/F-S-Cm	G3					
+potis	['potis']	POTIS	Adjective	3	Nm-M/F-S-Ps									
+po:culum	['po:tlom']	POCULUM	Noun	2	Nm-N-S	po:culi:	['po:tli:']	Gn-N-S	G2					
+po:mum	['poomom']	POMUM	Noun	2	Nm-N-S	po:mi:	['poomi:']	Gn-N-S	G2					
+po:mus	['poomos']	POMUS	Noun	2	Nm-F-S	po:mi:	['poomi:']	Gn-F-S	G2					
+po:ne	['pozni']	PONE	Preposition											
+po:no:	['pozino:']	PONO	Verb	3	1-S-Pr-Act-Ind	po:nit	['pozineti']	3-S-Pr-Act-Ind	V3					
+po:ns	['ponts']	PONS	Noun	3	Nm-M-S	pontis	['pontes']	Gn-M-S	G3					
+po:tus	['po:tos']	POTUS	Noun	2	Nm-M-S	po:ti:	['po:ti:']	Gn-M-S	G2					
+prae	['prai']	PRAE	Preposition											
+praeda	['praiɣoda:']	PRAEDA	Noun	1	Nm-F-S	praedae	['praiɣoda:i:']	Gn-F-S	G1					
+praeeo:	['praiejo:']	PRAEEO	Verb	Special	1-S-Pr-Act-Ind	praeit	['praieiti']	3-S-Pr-Act-Ind	V3					
+praefero:	['praifero:']	PRAEFERO	Verb	Special	1-S-Pr-Act-Ind									
+praeficio:	['praifakjo:']	PRAEFICIO	Verb	3	1-S-Pr-Act-Ind	praeficit	['praifakjeti']	3-S-Pr-Act-Ind	V3					
+praes	['praiwoss']	PRAES	Noun	3	Nm-M-S	praedis	['praewodes']	Gn-M-S	G3					
+praeses	['praiseds']	PRAESES	Noun	3	Nm-M-S	praesedis	['praesedes']	Gn-M-S	G3			TRUE		
+praeter	['praiteros']	PRAETER	Preposition											
+praetor	['praiito:r']	PRAETOR	Noun	3	Nm-M-S	praeto:ris	['praiito:res']	Gn-M-S	G3					
+prandium	['pra:moedjom']	PRANDIUM	Noun	2	Nm-N-S	prandi:	['pra:moedji:']	Gn-N-S	G2					
+pra:tum	['pra:tom']	PRATUM	Noun	2	Nm-N-S	pra:ti:	['pra:ti:']	Gn-N-S	G2			TRUE		
+pra:vus	['pra:wos']	PRAVUS	Adjective	2	Nm-M-S-Ps	pra:vi	['pra:wi:']	Gn-M-S-Ps	G2					
+prehendo:	['praiɣendo:']	PREHENDO	Verb	3	1-S-Pr-Act-Ind	prehendit	['praiɣendeti']	3-S-Pr-Act-Ind	V3					
+pressus	['pressos']	PREMO	Participle	2	Pf-Psv-Nm-M-S-Ps	pressi:	['pressi:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+pretium	['pretjom']	PRETIUM	Noun	2	Nm-N-S	preti:	['pretji:']	Gn-N-S	G2					
+pre:lum	['preslom']	PRELUM	Noun	2	Nm-N-S	pre:li:	['pre:li:']	Gn-N-S	G2					
+prior	['prijo:s']	PRAE	Adjective	3	Nm-M/F-S-Cm	prio:ris	['prijo:ses']	Gn-M/F-S-Cm	G3	PHONOLOGY			[Phonology] The long o: is secondary.	
+pri:mus	['priisemos']	PRAE	Adjective	2	Nm-M-S-Sp	pri:mi:	['priisemi:']	Gn-M-S-Ps	G2					
+pri:nceps	['priisemokaps']	PRINCEPS	Noun	3	Nm-M-S	pri:ncipis	['priisemokapes']	Gn-M-S	G3					
+pri:viŋna	['preiwogena:']	PRIVIGNA	Noun	1	Nm-F-S	pri:viŋnae	['preiwogena:i:']	Gn-F-S	G1					
+pri:viŋnus	['preiwogenos']	PRIVIGNUS	Noun	2	Nm-M-S	pri:viŋni:	['preiwogeni:']	Gn-M-S	G2					
+pri:vus	['preiwos']	PRIVUS	Adjective	2	Nm-M-S-Ps	pri:vi:	['preiwi:']	Gn-M-S-Ps	G2			TRUE		
+probo:	['proβwa:jo:']	PROBO	Verb	1	1-S-Pr-Act-Ind	probat	['proβwa:jeti']	3-S-Pr-Act-Ind						
+probrum	['proβrom']	PROBRUM	Noun	2	Nm-N-S	probri:	['proβri:']	Gn-N-S	G2			TRUE		
+probus	['proβwos']	PROBUS	Adjective	2	Nm-M-S-Ps	probi:	['proβwi:']	Gn-M-S-Ps	G2					
+prosperus	['prosparos']	PROSPERUS	Adjective	2	Nm-M-S-Ps	prosperi:	['prospari:']	Gn-M-S-Ps	G2					
+proximus	['prokwisemos']	PROPE	Adjective	2	Nm-M-S-Sp	proximi:	['prokwisemi:']	Gn-M-S-Ps	G2			TRUE		
+pro:ce:rus	['pro:kre:ros']	PROCERUS	Adjective	2	Nm-M-S-Ps	pro:ce:ri:	['pro:ke:ri:']	Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] Possible dissimilation of kr_r > k_r.	
+pro:ficio:	['pro:fakjo:']	PROFICIO	Verb	3	1-S-Pr-Act-Ind	pro:ficit	['pro:fakjeti']	3-S-Pr-Act-Ind	V3					
+pro:vincia	['pro:winkja:']	PROVINCIA	Noun	1	Nm-F-S	pro:vinciae	['pro:winkja:i:']	Gn-F-S	G1					
+prui:na	['pruswi:na:']	PRUINA	Noun	1	Nm-F-S	prui:nae	['pruswi:na:i:']	Gn-F-S	G1	PHONOLOGY		TRUE	[Phonology] sw > rw > ør (dissimilation after earlier r).	
+pru:rio:	['prousjo:']	PRURIO	Verb	4	1-S-Pr-Act-Ind	pru:rit	['prousjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+pudeo:	['pude:o:']	PUDEO	Verb	2	1-S-Pr-Act-Ind	pudet	['pude:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+puer	['puweros']	PUER	Noun	2	Nm-M-S	pueri:	['puweri:']	Gn-M-S	G2			TRUE		
+pulcher	['perkros']	PULCHER	Adjective	2	Nm-M-S-Ps	pulchri:	['perkri:']	Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] r_r > l_r.	
+pullus_1	['polwos']	PULLUS1	Adjective	2	Nm-M-S-Ps	pulli:_1	['polwi:']	Gn-M-S-Ps	G2			TRUE		
+pullus_2	['putslos']	PULLUS2	Noun	2	Nm-M-S	pulli:_2	['putsli:']	Gn-M-S	G2			TRUE		
+pulpa	['pelpa:']	PULPA	Noun	1	Nm-F-S	pulpae	['pelpa:i:']	Gn-F-S	G2			TRUE		
+puls	['poltis']	PULS	Noun	3	Nm-F-S	pultis	['poltes']	Gn-F-S	G3			TRUE		
+pulvis	['polawis']	PULVIS	Noun	3	Nm-M-S	pulvis	['polawes']	Gn-M-S	G3			TRUE		
+puŋnus	['pugnos']	PUGNUS	Noun	2	Nm-M-S	puŋni:	['pugni:']	Gn-M-S	G2					
+puŋgo:	['puŋgo:']	PUNGO	Verb	3	1-S-Pr-Act-Ind	puŋgit	['puŋgeti']	3-S-Pr-Act-Ind	V3					
+pusillus	['putslolos']	PUSILLUS	Adjective	2	Nm-M-S-Ps	pusilli:	['putsloli:']	Gn-M-S-Ps	G2					
+pu:mex	['poimeks']	PUMEX	Noun	3	Nm-M/F-S	pu:micis	['poimekes']	Gn-M/F-S	G3			TRUE		
+pu:rgo:	['purago:']	PURGO	Verb	3	1-S-Pr-Act-Ind	pu:rgit	['puragit']	3-S-Pr-Act-Ind	V3					
+pu:rus	['pu:ros']	PURUS	Adjective	2	Nm-M-S-Ps	pu:ri:	['pu:ri:']	Gn-M-S-Ps	G2					
+pu:s	['pu:s']	PUS	Noun	3	Nm-N-S	pu:ris	['pu:ses']	Gn-N-S	G3					
+quaero:	['kʷaizeo:']	QUAERO	Verb	3	1-S-Pr-Act-Ind	quaerit	['kʷaizeti']	3-S-Pr-Act-Ind	V3					
+quaestus	['kʷaistos']	QUAESTUS	Noun	4	Nm-M-S	quaesti:	['kʷaisti:']	Gn-M-S	G2					
+quantus	['kʷa:ntos']	QUANTUS	Adjective	2	Nm-M-S-Ps	quanti:	['kʷa:nti:']	Gn-M-S-Ps	G2					
+quatio:	['kwatjo:']	QUATIO	Verb	3	1-S-Pr-Act-Ind	quatit	['kwatjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+quattuor	['kʷettwo:r']	QUATTUOR	Numeral							PARADIGM LEVELING			[Paradigm Leveling] The a is secondary, from oblique cases (when there were oblique cases).	
+qua:lis	['kwa:lis']	QUALIS	Adjective	3	Nm-M/F-S-Ps	qua:lis	['kwa:les']	Gn-M/F-S-Ps	G3			TRUE		
+qua:lus	['kwatstlos']	QUALUS	Noun	2	Nm-M-S	qua:li:	['kwa:li:']	Gn-M-S	G2			TRUE		
+quei	['kʷoi']	QUI	Pronoun	Special	Ab-M/F/N-S									
+quercus	['kʷerkus']	QUERCUS	Noun	4	Nm-F-S	quercus	['kʷerkuos']	Gn-F-S	G4					
+queror	['kwezo:r']	QUEROR	Verb	3	1-S-Pr-Dep-Ind	queritur	['kwezetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+quie:s	['kwje:tis']	QUIES	Noun	3	Nm-F-S	quie:tis	['kwje:tes']	Gn-F-S	G3			TRUE		
+quie:tus	['kʷje:tos']	QUIETUS	Adjective	2	Nm-M-S-Ps	quie:ti:	['kʷje:ti:']	Gn-M-S-Ps	G2					
+qui:	['kʷoi']	QUI	Pronoun	Special	Nm-M-S									
+qui:nque	['kʷenkʷe']	QUINQUE	Numeral							ASSOCIATION			[Association] i: is secondary.	
+qui:ntus	['kʷenktos']	QUINTUS	Adjective	2	Nm-M-S-Ps	qui:nti:	['kʷenkti:']	Gn-M-S-Ps	G2					
+quot	['kwoti']	QUOT	Determiner	Special										
+rabio:	['raβjo:']	RABIO	Verb	3	1-S-Pr-Act-Ind	rabit	['raβjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+raia	['ragja:']	RAIA	Noun	1	Nm-F-S	raiae	['ragja:i']	Gn-F-S	G1					
+rapio:	['rapjo:']	RAPIO	Verb	3	1-S-Pr-Act-Ind	rapit	['rapjeti']	3-S-Pr-Act-Ind	V3					
+ratis	['ratis']	RATIS	Noun	3	Nm-F-S	ratis	['rates']	Gn-F-S	G3					
+ravus	['rawos']	RAVUS	Adjective	2	Nm-M-S-Ps	ravi:	['ravi:']	Gn-M-S-Ps	G2			TRUE		
+ra:di:x	['wra:di:ks']	RADIX	Noun	3	Nm-F-S	ra:di:cis	['wra:di:kes']	Gn-F-S	G3					
+ra:do:	['razdo:']	RADO	Verb	3	1-S-Pr-Act-Ind	ra:dit	['razdeti']	3-S-Pr-Act-Ind	V3					
+ra:mentum	['ra:dmentom']	RAMENTUM	Noun	2	Nm-N-S	ra:menti:	['ra:dmenti:']	Gn-N-S	G2			TRUE		
+ra:mus	['wra:dmos']	RAMUS	Noun	2	Nm-M-S	ra:mi:	['wra:dmi:']	Gn-M-S	G2			TRUE		
+ra:rus	['ra:ros']	RARUS	Adjective	2	Nm-M-S-Ps	ra:ri:	['ra:ri:']	Gn-M-S-Ps	G2					
+ra:strum	['ra:dstrom']	RASTRUM	Noun	2	Nm-N-S	ra:stri:	['ra:dstri:']	Gn-N-S	G2			TRUE		
+rece:ns	['wrekentis']	RECENS	Adjective	3	Nm-M/F/N-S-Ps	recentis	['wrekentes']	Gn-M/F/N-S-Ps	G3			TRUE		
+reciprocus	['wrekʷeprokʷos']	RECIPROCUS	Adjective	2	Nm-M-S-Ps	reciproci:	['wrekʷeprokʷi:']	Gn-M-S-Ps	G3					
+redu:co:	['wredouko:']	REDUCO	Verb	3	1-S-Pr-Act-Ind	redu:cit	['wredouketi']	3-S-Pr-Act-Ind	V3					
+reficio:	['wrefakjo:']	REFICIO	Verb	3	1-S-Pr-Act-Ind	reficit	['wrefakjeti']	3-S-Pr-Act-Ind	V3					
+rego:	['rego:']	REGO	Verb	3	1-S-Pr-Act-Ind	regit	['regeti']	3-S-Pr-Act-Ind	V3					
+relinquo:	['wrelinkʷo:']	RELINQUO	Verb	3	1-S-Pr-Act-Ind	relinquit	['wrelinkʷeti']	3-S-Pr-Act-Ind	V3					
+removeo:	['wremowe:o:']	REMOVEO	Verb	2	1-S-Pr-Act-Ind	removet	['wremowe:eti']	3-S-Pr-Act-Ind	V3					
+repe:ns	['wrepents']	REPENS	Adjective	3	Nm-M/F/N-S-Ps	repentis	['wrepentes']	Gn-M/F/N-S-Ps	G3			TRUE		
+reor	['re:o:r']	REOR	Verb	2	1-S-Pr-Dep-Ind	re:tur	['re:etor']	3-S-Pr-Dep-Ind	V3					
+residuus	['resedowos']	RESIDUUS	Adjective	2	Nm-M-S-Ps	residui:	['resedowi:']	Gn-M-S-Ps	G2			TRUE		
+restis	['rekstis']	RESTIS	Noun	3	Nm-F-S	restis	['rekstes']	Gn-F-S	G3			TRUE		
+retro:	['wretro:']	RETRO	Adverb		Ps									
+reus	['reiwos']	REUS	Adjective	2	Nm-M-S-Ps	rei:	['reiwi:']	Gn-M-S-Ps	G2					
+re:ctus	['rektos']	RECTUS	Adjective	2	Nm-M-S-Ps	re:cti:	['rekti:']	Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] Long e by Lachmann's law.	
+re:gi:na	['re:gina:']	REGINA	Noun	1	Nm-F-S			Gn-F-S						
+re:gulus	['re:gelos']	REGULUS	Noun	2	Nm-M-S									
+re:mus	['resmos']	REMUS	Noun	2	Nm-M-S	re:mi:	['re:mi:']	Gn-M-S	G2			TRUE		
+re:n	['hre:n' 'sre:n']	REN	Noun	3	Nm-M-S	re:nis	['hre:nes' 'sre:nes']	Gn-M-S	G3					
+re:po:	['re:po:']	REPO	Verb	3	1-S-Pr-Act-Ind	re:pit	['re:peti']	3-S-Pr-Act-Ind	V3			TRUE		
+re:s	['reis']	RES	Noun	5	Nm-F-S					PARADIGM LEVELING			[Paradigm Leveling] From Indo-European *reH1is, the Latin outcome would be *reis > ri:s, so that re:s must represent some remodeling, probably from elsewhere in the paradigm.	
+re:te	['re:ti']	RETE	Noun	3	Nm-N-S	re:tis	['re:tis']	Gn-N-S	G3			TRUE		
+re:x	['re:ks']	REX	Noun	3	Nm-M-S	re:gis	['re:ges']	Gn-M-S	G3					
+re:xi:	['re:gsai']	REGO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+rigeo:	['rige:o:']	RIGEO	Verb	2	1-S-Pr-Act-Ind	riget	['rige:eti']	3-S-Pr-Act-Ind	V3					
+riŋgor	['wrengo:r']	RINGOR	Verb	3	1-S-Pr-Dep-Ind	riŋgitur	['wrengetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+ri:ca	['wreika:']	RICA	Noun	1	Nm-F-S	ri:cae	['wreika:i:']	Gn-F-S	G1					
+ri:ma	['reiksma:']	RIMA	Noun	1	Nm-F-S	ri:mae	['reiksma:i:']	Gn-F-S	G1			TRUE		
+ri:pa	['reipa:']	RIPA	Noun	1	Nm-F-S	ri:pae	['reipa:i:']	Gn-F-S	G1					
+ri:tus	['reitus']	RITUS	Noun	4	Nm-M-S	ri:tu:s	['reituos']	Gn-M-S	G2					
+ri:vo:	['reiwa:jo:']	RIVO	Verb	1	1-S-Pr-Act-Ind	ri:vat	['reiwa:jeti']	3-S-Pr-Act-Ind	V3					
+ri:vus	['ri:wos']	RIVUS	Noun	2	Nm-M-S	ri:vi:	['ri:wi:']	Gn-M-S	G2					
+rogo:	['roga:jo:']	ROGO	Verb	1	1-S-Pr-Act-Ind	rogat	['roga:jeti']	3-S-Pr-Act-Ind	V3					
+rota	['rota:']	ROTA	Noun	1	Nm-F-S	rotae	['rota:i:']	Gn-F-S	G1					
+roto:	['rota:jo:']	ROTO	Verb	1	1-S-Pr-Act-Ind	rotat	['rota:jeti']	3-S-Pr-Act-Ind	V3					
+ro:bus	['rouðos']	ROBUS	Adjective	2	Nm-M-S-Ps	ro:bi:	['rouði:']	Gn-M-S-Ps	G2	BORROWING		TRUE	[Borrowing] Pure Latin would have u:, not o:.	
+ro:bur	['rouβos']	ROBUR	Noun	3	Nm-N-S	ro:boris	['rouβozes']	Gn-N-S	G3	BORROWING			[Borrowing] Pure Latin would have u:, not o:.	
+ro:do:	['wro:do:']	RODO	Verb	3	1-S-Pr-Act-Ind	ro:dit	['wro:deti']	3-S-Pr-Act-Ind	V3			TRUE		
+ro:s	['ro:s']	ROS	Noun	3	Nm-M-S	ro:ris	['ro:ses']	Gn-M-S	G3			TRUE		
+rubeo:	['ruðe:o:']	RUBEO	Verb	2	1-S-Pr-Act-Ind	rubet	['ruðe:eti']	3-S-Pr-Act-Ind	V3					
+ruber	['ruðros']	RUBER	Adjective	2	Nm-M-S-Ps	rubri:	['ruðri:']	Gn-M-S-Ps	G2					
+rubus	['wruðos']	RUBUS	Noun	2	Nm-M-S									
+rumpo:	['rumpo:']	RUMPO	Verb	3	1-S-Pr-Act-Ind	rumpit	['rumpeti']	3-S-Pr-Act-Ind	V3					
+russus	['ruttos']	RUSSUS	Adjective	2	Nm-M-S-Ps	russi:	['rutti:']	Gn-M-S-Ps	G2					
+ruo:	['rowo:']	RUO	Verb	3	1-S-Pr-Act-Ind	ruit	['roweti']	3-S-Pr-Act-Ind	V3			TRUE		
+ru:fus	['rouðos']	RUFUS	Adjective	2	Nm-M-S-Ps	ru:fi:	['rouði:']	Gn-M-S-Ps	G2	BORROWING		TRUE	[Borrowing] Pure Latin would have not have f.	
+ru:ga	['rouga:']	RUGA	Noun	1	Nm-F-S	ru:gae	['rouga:i:']	Gn-F-S	G1			TRUE		
+ru:mor	['roumo:s']	RUMOR	Noun	3	Nm-M-S	rumo:ris	['roumozes']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] nom. in r is from the oblique cases, long o: in paradigm is from nom. sg.	
+ru:s	['rowos']	RUS	Noun	3	Nm-N-S	ru:ris	['rowozes']	Gn-N-S	G3					
+ru:sticus	['rowestikos']	RUSTICUS	Adjective	2	Nm-M-S-Ps	ru:stici:	['rowestiki:']	Gn-M-S-Ps	G2					
+sabulum	['psaðlom']	SABULUM	Noun	2	Nm-N-S	sabuli:	['psaðli:']	Gn-N-S	G2			TRUE	Probably a substrate word.	
+sacer	['sakros']	SACER	Adjective	2	Nm-M-S-Ps	sacri:	['sakri:']	Gn-M-S-Ps	G2					
+sacerdo:s	['sakrodo:ts']	SACERDOS	Noun	3	Nm-M/F-S	sacerdo:tis	['sakrodo:tes']	Gn-M/F-S	G3					
+saeculum	['saitlom']	SAECULUM	Noun	2	Nm-N-S	saeculi:	['saitli:']	Gn-N-S	G2			TRUE		
+saepe:s	['saipis']	SAEPES	Noun	3	Nm-F-S	saepis	['saepes']	Gn-F-S	G3	MORPHOLOGY			[Morphology] Nom. -e:s is probably imported.	
+saevus	['saiwos']	SAEVUS	Adjective	2	Nm-M-S-Ps	saevi:	['saevi:']	Gn-M-S-Ps	G2					
+saeta	['saita:']	SAETA	Noun	1	Nm-F-S	saetae	['saeta:i:']	Gn-F-S	G1					
+salebra	['salesra:']	SALEBRA	Noun	1	Nm-F-S	salebrae	['salebra:i:']	Gn-F-S	G1			TRUE		
+salio:	['saljo:']	SALIO	Verb	4	1-S-Pr-Act-Ind	salit	['saljeti']	3-S-Pr-Act-Ind	V3					
+salix	['saliks']	SALIX	Noun	3	Nm-F-S	salicis	['salikes']	Gn-F-S	G3			TRUE		
+salveo:	['saluwe:o:']	SALVEO	Verb	2	1-S-Pr-Act-Ind	salvet	['saluwe:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+salvus	['saluwos']	SALVUS	Adjective	2	Nm-M-S-Ps	salvi:	['saluwi:']	Gn-M-S-Ps	G2			TRUE		
+sancio:	['sankjo:']	SANCIO	Verb	4	1-S-Pr-Act-Ind	sancit	['sankjeti']	3-S-Pr-Act-Ind	V3					
+saŋguen	['sangwen']	SANGUEN	Noun	3	Nm-M-S	saŋguinis	['sangwenes']	Gn-M-S	G2			TRUE		
+sapio:	['sapjo:']	SAPIO	Verb	3	1-S-Pr-Act-Ind	sapit	['sapjeti']	3-S-Pr-Act-Ind	V3					
+sarcio:	['sarkjo:']	SARCIO	Verb	4	1-S-Pr-Act-Ind	sarcit	['sarkjeti']	3-S-Pr-Act-Ind	V3			TRUE		
+sarpo:	['serpo:']	SARPO	Verb	3	1-S-Pr-Act-Ind	sarpit	['serpeti']	3-S-Pr-Act-Ind	V3	PARADIGM LEVELING		TRUE	[Paradigm leveling] The a may come from the perfect passive participle.	
+sarptus	['sarptom']	SARPO	Participle	2	Pf-Psv-Nm-M-S-Ps	sarpti:	['sarpti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+sat	['sati']	SAT	Adverb		Ps							TRUE		
+saucius	['ksawakjos']	SAUCIUS	Adjective	2	Nm-M-S-Ps	saucii:	['ksawakji:']	Gn-M-S-Ps	G2			TRUE		
+saxum	['saksom']	SAXUM	Noun	2	Nm-N-S	saxi:	['saksi:']	Gn-N-S	G2					
+sa:gio:	['sa:gio:']	SAGIO	Verb	4	1-S-Pr-Act-Ind									
+sa:l	['sa:ls']	SAL	Noun	3	Nm-M/N-S	salis	['salos']	Gn-M/N-S	G3					
+sa:nctio:	['sa:nktjo:']	SANCTIO	Noun	3	Nm-F-S									
+sa:nctus	['sa:nktos']	SANCTUS	Adjective	2	Nm-M-S-Ps	sa:ncti:	['sa:nkti:']	Gn-M-S-Ps	G2					
+sa:nus	['sa:nos']	SANUS	Adjective	2	Nm-M-S-Ps	sa:ni:	['sa:ni:']	Gn-M-S-Ps	G2			TRUE		
+sa:rio:	['sarsjo:']	SARIO	Verb	4	1-S-Pr-Act-Ind	sa:rit	['sarsjeti']	3-S-Pr-Act-Ind	V3					
+scabellum	['skabnelom']	SCABELLUM	Noun	2	Nm-N-S	scabelli:	['skabneli:']	Gn-N-S	G2			TRUE		
+scaber	['skaβros']	SCABER	Adjective	2	Nm-M-S-Ps	scabri:	['skaβri:']	Gn-M-S-Ps	G2			TRUE		
+scabo:	['skaβo:']	SCABO	Verb	3	1-S-Pr-Act-Ind	scabit	['skaβeti']	3-S-Pr-Act-Ind	V3			TRUE		
+scaevus	['skaiwos']	SCAEVUS	Adjective	2	Nm-M-S-Ps	scaevi:	['skaiwi:']	Gn-M-S-Ps	G2					
+scamnum	['skamβnom']	SCAMNUM	Noun	2	Nm-N-S	scamni:	['skamβni:']	Gn-N-S	G2					
+scando:	['skando:']	SCANDO	Verb	3	1-S-Pr-Act-Ind	scandit	['skandeti']	3-S-Pr-Act-Ind	V3			TRUE		
+scapula	['skapela:']	SCAPULA	Noun	1	Nm-F-S	scapulae	['skapela:i:']	Gn-F-S	G1			TRUE		
+sca:la	['skandsla:']	SCALA	Noun	1	Nm-F-S	sca:lae	['skandsla:i:']	Gn-F-S	G1			TRUE		
+scelus	['skelos']	SCELUS	Noun	3	Nm-N-S	sceleris	['skelezes']	Gn-N-S	G3			TRUE		
+scicidi:	['skiskidai']	SCINDO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+scindo:	['skindo:']	SCINDO	Verb	3	1-S-Pr-Act-Ind	scindit	['skindeti']	3-S-Pr-Act-Ind	V3					
+scio:	['skijo:']	SCIO	Verb	4	1-S-Pr-Act-Ind	scit	['skijeti']	3-S-Pr-Act-Ind	V3					
+scissus	['skidtos']	SCINDO	Participle	2	Pf-Psv-Nm-M-S-Ps	scissi:	['skidti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+scortum	['skortom']	SCORTUM	Noun	2	Nm-N-S	scorti:	['skorti:']	Gn-N-S	G2			TRUE		
+scri:bo:	['skreiβo:']	SCRIBO	Verb	3	1-S-Pr-Act-Ind	scri:bit	['skreiβeti']	3-S-Pr-Act-Ind	V3					
+scriptus	['skriβtos']	SCRIBO	Participle	2	Pf-Psv-Nm-M-S-Ps	scripti:	['skriβti:']	Pf-Psv-Gn-M-S-Ps	G2					
+scrobis	['skroβis']	SCROBIS	Noun	3	Nm-M-S	scrobis	['skroβes']	Gn-M-S	G3			TRUE		
+scro:fa	['skro:βa:']	SCROFA	Noun	1	Nm-F-S	scro:fae	['skro:βa:i:']	Gn-F-S	G1	BORROWING		TRUE	[Borrowing] -f-, not -b-.	
+scu:tum	['skoitom']	SCUTUM	Noun	2	Nm-N-S	scu:ti:	['skoiti:']	Gn-N-S	G2			TRUE		
+seco:	['seka:jo:']	SECO	Verb	1	1-S-Pr-Act-Ind	secat	['seka:jeti']	3-S-Pr-Act-Ind	V3					
+secundus	['sekʷontinos']	SECUNDUS	Adjective	2	Nm-M-S-Ps									
+secus	['sekwos']	SECUS	Adverb		Ps							TRUE		
+sedeo:	['sede:o:']	SEDEO	Verb	2	1-S-Pr-Act-Ind	sedet	['sede:eti']	3-S-Pr-Act-Ind	V3					
+seges	['segets']	SEGES	Noun	3	Nm-F-S	segetis	['segetes']	Gn-F-S	G3			TRUE		
+sella	['sedla:']	SELLA	Noun	1	Nm-F-S	sellae	['sedla:i:']	Gn-F-S	G1					
+senex	['seneks']	SENEX	Adjective	3	Nm-M/F/N-S-Ps	senis	['senes']	Gn-M/F/N-S-Ps	G3			TRUE		
+sentio:	['sentjo:']	SENTIO	Verb	4	1-S-Pr-Act-Ind	sentit	['sentjeti']	3-S-Pr-Act-Ind	V3					
+senti:na	['semti:na']	SENTINA	Noun	1	Nm-F-S	senti:nae	['semti:na:i:']	Gn-F-S	G1					
+sepelio:	['sepeljo:']	SEPELIO	Verb	4	1-S-Pr-Act-Ind	sepelit	['sepeljeti']	3-S-Pr-Act-Ind	V3			TRUE		
+septem	['septem']	SEPTEM	Numeral											
+september	['septemome:nzris']	SEPTEMBER	Noun	3	Nm-M-S	septembris	['septemome:nzres']	Gn-M-S	G3	PHONOLOGY			[Phonology] Haplology.	
+sepultus	['sepeltus']	SEPULTUS	Adjective	2	Nm-M-S-Ps	sepulti:	['sepelti:']	Gn-M-S-Ps	G2			TRUE		
+sequor	['sekʷo:r']	SEQUOR	Verb	3	1-S-Pr-Act-Ind	sequitur	['sekʷetor']	3-S-Pr-Dep-Ind	V3					
+sere:nus	['ksere:nos']	SERENUS	Adjective	2	Nm-M-S-Ps	sere:ni:	['ksere:ni:']	Gn-M-S-Ps	G2			TRUE		
+sero:_1	['sizo:']	SERO1	Verb	3	1-S-Pr-Act-Ind	serit_1	['sizeti']	3-S-Pr-Act-Ind	V3					
+sero:_2	['sero:']	SERO2	Verb	3	1-S-Pr-Act-Ind	serit_2	['serit']	3-S-Pr-Act-Ind	V3					
+serpo:	['serpo:']	SERPO	Verb	3	1-S-Pr-Act-Ind	serpit	['serpeti']	3-S-Pr-Act-Ind	V3					
+serra	['serza:']	SERRA	Noun	1	Nm-F-S	serrae	['serza:i:']	Gn-F-S	G1					
+servo:	['serwa:jo:']	SERVO	Verb	1	1-S-Pr-Act-Ind	servat	['serwa:jeti']	3-S-Pr-Act-Ind	V3					
+servus	['serwos']	SERVUS	Noun	2	Nm-M-S	servi:	['serwi:']	Gn-M-S	G2					
+seve:rus	['seɣwe:ros']	SEVERUS	Adjective	2	Nm-M-S-Ps	seve:ri:	['seɣwe:ri:']	Gn-M-S-Ps	G2					
+sex	['seks']	SEX	Numeral									TRUE		
+sexus	['seksus']	SEXUS	Noun	4	Nm-M-S									
+se:do:	['sede:o:']	SEDO	Verb	1	1-S-Pr-Act-Ind									
+se:ŋnis	['se:gnis']	SEGNIS	Adjective	3	Nm-M/F-S-Ps	se:ŋnis	['se:gnes']	Gn-M/F-S-Ps	G3			TRUE		
+se:men	['se:men']	SEMEN	Noun	3	Nm-N-S									
+se:mita	['se:mita:']	SEMITA	Noun	1	Nm-F-S									
+se:rius	['swerjos' 'se:rjos']	SERIUS	Adjective	2	Nm-M-S-Ps	se:rii:	['swerji:' 'se:rji:']	Gn-M-S-Ps	G2					
+se:rus	['se:ros']	SERUS	Adjective	2	Nm-M-S-Ps	se:ri:	['se:ri:']	Gn-M-S-Ps	G2					
+se:tius	['se:tjos']	SETIUS	Adverb		Cm									
+siccus	['siskwos']	SICCUS	Adjective	2	Nm-M-S-Ps	sicci:	['siskwi:']	Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] The etymon makes good sense cross-linguistically but the phonetics (as normally understood) don't work out.	
+sileo:	['sile:o:']	SILEO	Verb	2	1-S-Pr-Act-Ind	silet	['sile:eti']	3-S-Pr-Act-Ind	V3					
+siŋnum	['seknom']	SIGNUM	Noun	2	Nm-N-S	siŋni:	['sekni:']	Gn-N-S	G2					
+similis	['semalis']	SIMILIS	Adjective	3	Nm-M/F-S-Ps	similis	['semales']	Gn-M/F-S-Ps	G3					
+simplex	['semplaks']	SIMPLEX	Adjective	3	Nm-M/F/N-S-Ps	simplicis	['semplakes']	Gn-M/F/N-S-Ps	G3					
+since:rus	['senkairos']	SINCERUS	Adjective	2	Nm-M-S-Ps	since:ri:	['senkairi:']	Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] If the etymology is right, -ae- is second position should give -i:-.	
+siŋguli:	['semɣeloi']	SINGULUS	Adjective	2	Nm-M-P-Ps									
+siŋgultus	['sengwoltus']	SINGULTUS	Noun	4	Nm-M-S	siŋgultu:s	['sengwoltuos']	Gn-M-S	G4			TRUE		
+siŋgulus	['semɣelos']	SINGULUS	Adjective	2	Nm-M-S-Ps									
+sinister	['senisteros']	SINISTER	Adjective	2	Nm-M-S-Ps	sinistri:	['senisteri:']	Gn-M-S-Ps	G2					
+sino:	['sino:']	SINO	Verb	3	1-S-Pr-Act-Ind	sinit	['sineti']	3-S-Pr-Act-Ind	V3					
+sinus	['sinus']	SINUS	Noun	4	Nm-M-S	sinu:s	['sinwos']	Gn-M-S	G4			TRUE		
+sisto:	['sisto:']	SISTO	Verb	3	1-S-Pr-Act-Ind	sistit	['sisteti']	3-S-Pr-Act-Ind	V3			TRUE		
+sitis	['ksitis']	SITIS	Noun	3	Nm-F-S	sitis	['ksites']	Gn-F-S	G3					
+si:	['sei']	SI	Conjunction											
+si:do:	['sizdo:']	SIDO	Verb	3	1-S-Pr-Act-Ind	si:dit	['sizdeti']	3-S-Pr-Act-Ind	V3					
+si:dus	['si:ðos']	SIDUS	Noun	3	Nm-N-S	si:deris	['si:ðeres']	Gn-N-S	G3					
+socer	['swekuros']	SOCER	Noun	3	Nm-M-S	soceri:	['swekuri:']	Gn-M-S	G2					
+socius	['sokjos']	SOCIUS	Noun	2	Nm-M-S	socii:	['sokji:']	Gn-M-S	G2			TRUE		
+socrus	['swekrus' 'swekru:']	SOCRUS	Noun	4	Nm-F-S	socru:s	['swekrous']	Gn-F-S	G4					
+soda:lis	['sweða:lis']	SODALIS	Noun	3	Nm-M/F-S	soda:lis	['sweða:les']	Gn-M/F-S	G3					
+soleo:	['solejo:']	SOLEO	Verb	2	1-S-Pr-Act-Ind	solet	['solejeti']	3-S-Pr-Act-Ind	V3					
+solidus	['soliðos']	SOLIDUS	Adjective	2	Nm-M-S-Ps	solidi:	['soliði:']	Gn-M-S-Ps	G2					
+solium	['sodjom']	SOLIUM	Noun	2	Nm-N-S	soli:	['sodji:']	Gn-N-S	G2	PHONOLOGY			[Phonology] -d- > -l-.	
+sollus	['solnos']	SOLLUS	Adjective	2	Nm-M-S-Ps	solli:	['solni:']	Gn-M-S-Ps	G2					
+solum	['solom']	SOLUM	Noun	2	Nm-N-S	soli:	['soli:']	Gn-N-S	G2					
+solvo:	['seluwo:']	SOLVO	Verb	3	1-S-Pr-Act-Ind	solvit	['seluweti']	3-S-Pr-Act-Ind	V3					
+somnus	['swepnos']	SOMNUS	Noun	2	Nm-M-S	somni:	['swepni:']	Gn-M-S	G2					
+sono:	['swona:jo:']	SONO	Verb	1	1-S-Pr-Act-Ind	sonat	['swona:jeti']	3-S-Pr-Act-Ind	V3					
+sopor	['swepo:s']	SOPOR	Noun	3	Nm-M-S	sopo:ris	['swepores']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] r from obliques; o: from the nominative.	
+sorbeo:	['sorβejo:']	SORBEO	Verb	2	1-S-Pr-Act-Ind	sorbet	['sorβejeti']	3-S-Pr-Act-Ind	V3					
+sordeo:	['swerde:o:']	SORDEO	Verb	2	1-S-Pr-Act-Ind	sordet	['swerde:eti']	3-S-Pr-Act-Ind	V3					
+sorde:s	['swerdis']	SORDES	Noun	3	Nm-F-S	sordis	['swerdes']	Gn-F-S	G3	MORPHOLOGY			[Morphology] An inherited -e:s nominative perhaps imported to this noun.	
+soror	['swezo:r']	SOROR	Noun	3	Nm-F-S	soro:ris	['swezo:res']	Gn-F-S	G3	PARADIGM LEVELING			[Paradigm leveling] Latin has -o:r- throughout the paradigm; Indo-European did not; did P. Ital.?	
+sors	['sortis']	SORS	Noun	3	Nm-F-S	sortis	['sortes']	Gn-F-S	G3					
+sospes	['swespats']	SOSPES	Adjective	3	Nm-M/F/N-S-Ps	sospitis	['swespates']	Gn-M/F/N-S-Ps	G3					
+so:brius	['sweobrios']	SOBRIUS	Adjective	2	Nm-M-S-Ps	so:brii:	['sweobrii:']	Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] Assumes sweo > so: (no parallels).	
+so:bri:nus	['swezri:nos']	SOBRINUS	Noun	2	Nm-M-S	so:bri:ni:	['swezri:ni:']	Gn-M-S	G2					
+so:l	['saul']	SOL	Noun	3	Nm-M-S					PHONOLOGY			[Phonology] A PIE seH2ul would have yielded P. Ital. *saul, but au should not have become o: at this point	
+so:lus	['swelos']	SOLUS	Adjective	2	Nm-M-S-Ps					PHONOLOGY			[Phonology] If this is the right etymology, the o: is unusual.	
+so:ns	['sonts']	SONS	Adjective	3	Nm-M/F/N-S-Ps	sontis	['sontes']	Gn-M/F/N-S-Ps	G3					
+spargo:	['spargo:']	SPARGO	Verb	3	1-S-Pr-Act-Ind	spargit	['spargeti']	3-S-Pr-Act-Ind	V3			TRUE		
+sparsi:	['spargsai']	SPARGO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+specio:	['spekjo:']	SPECIO	Verb	3	1-S-Pr-Act-Ind	specit	['spekjeti']	3-S-Pr-Act-Ind	V3					
+sperno:	['sperno:']	SPERNO	Verb	3	1-S-Pr-Act-Ind	spernit	['sperneti']	3-S-Pr-Act-Ind	V3			TRUE		
+spe:s	['spe:s']	SPES	Noun	5	Nm-F-S									
+spi:ca	['speika:']	SPICA	Noun	1	Nm-F-S	spi:cae	['speika:i:']	Gn-F-S	G1					
+spi:na	['speina:']	SPINA	Noun	1	Nm-F-S	spi:nae	['speina:i:']	Gn-F-S	G1					
+spi:ro:	['speiza:jo:']	SPIRO	Verb	1	1-S-Pr-Act-Ind	spi:rat	['speiza:jeti']	3-S-Pr-Act-Ind	V3					
+spissus	['spidtos']	SPISSUS	Adjective	2	Nm-M-S-Ps	spissi:	['spidti:']	Gn-M-S-Ps	G2			TRUE		
+sponda	['sponda:']	SPONDA	Noun	1	Nm-F-S	spondae	['sponda:i:']	Gn-F-S	G1					
+spondeo:	['spondejo:']	SPONDEO	Verb	2	1-S-Pr-Act-Ind	spondet	['spondejeti']	3-S-Pr-Act-Ind	V3					
+spopondi:	['spespondai']	SPONDEO	Verb	2	1-S-Pf-Act-Ind					MORPHOLOGY			[Morphology] spe- is the correct perfectivizer, but the pattern was reinterpreted, and the vowel of the root was used (maybe).	
+sponte	['sponti']	SPONTE	Adverb		Ps							TRUE		
+spo:nsum	['spondtom']	SPONDEO	Participle	2	Pf-Psv-Nm-N-S-Ps	spo:nsi:	['spondti:']	Pf-Psv-Gn-N-S-Ps	G2			TRUE		
+spuo:	['spujo:']	SPUO	Verb	3	1-S-Pr-Act-Ind	spuit	['spujeti']	3-S-Pr-Act-Ind	V3					
+spurcus	['sporkos']	SPURCUS	Adjective	2	Nm-M-S-Ps									
+spu:ma	['spoima:']	SPUMA	Noun	1	Nm-F-S	spu:mae	['spoima:i:']	Gn-F-S	G1			TRUE		
+stabulum	['staðlom']	STABULUM	Noun	2	Nm-N-S	stabuli:	['staðli:']	Gn-N-S	G2			TRUE		
+sta:men	['sta:men']	STAMEN	Noun	3	Nm-N-S	sta:minis	['stamenes']	Gn-N-S	G3					
+stercus	['sterkos']	STERCUS	Noun	3	Nm-N-S	stecoris	['sterkores']	Gn-N-S	G3			TRUE		
+sterno:	['sterno:']	STERNO	Verb	3	1-S-Pr-Act-Ind	sternit	['sterneti']	3-S-Pr-Act-Ind	V3					
+sternuo:	['psternuwo:']	STERNUO	Verb	3	1-S-Pr-Act-Ind	sternuit	['psternuweti']	3-S-Pr-Act-Ind	V3			TRUE		
+ste:lla	['ste:rola:']	STELLA	Noun	1	Nm-F-S	ste:llae	['ste:rola:i:']	Gn-F-S	G1					
+stiŋguo:	['stengwo:']	STINGUO	Verb	3	1-S-Pr-Act-Ind	stiŋguit	['stengweti']	3-S-Pr-Act-Ind	V3			TRUE		
+sti:lla	['steirla:']	STILLA	Noun	1	Nm-F-S	sti:llae	['steirla:i:']	Gn-F-S	G1			TRUE		
+stips	['stips']	STIPS	Noun	3	Nm-M-S	stipis	['stipes']	Gn-M-S	G3					
+stipula	['stipela:']	STIPULA	Noun	1	Nm-F-S	stipulae	['stipela:i:']	Gn-F-S	G1					
+sti:po:	['steipa:jo:']	STIPO	Verb	1	1-S-Pr-Act-Ind	sti:pat	['steipa:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+stolo:	['stelo:']	STOLO	Noun	3	Nm-M-S	stolo:nis	['stelo:nes']	Gn-M-S	G3					
+sto:	['stae:o:']	STO	Verb	1	1-S-Pr-Act-Ind	stat	['stae:eti']	3-S-Pr-Act-Ind	V3					
+stra:tus	['stra:tos']	STERNO	Participle	2	Pf-Psv-Nm-M-S-Ps	stra:ti:	['stra:ti:']	Pf-Psv-Gn-M-S-Ps	G2					
+strepo:	['strepo:']	STREPO	Verb	3	1-S-Pr-Act-Ind	strepit	['strepeti']	3-S-Pr-Act-Ind	V3			TRUE		
+stria	['strigja:']	STRIA	Noun	1	Nm-F-S	striae	['strigja:i:']	Gn-F-S	G1					
+striŋgo:	['stringo:']	STRINGO	Verb	3	1-S-Pr-Act-Ind	striŋgit	['stringeti']	3-S-Pr-Act-Ind	V3					
+struo:	['strowo:']	STRUO	Verb	3	1-S-Pr-Act-Ind	struit	['stroweti']	3-S-Pr-Act-Ind	V3					
+stultus	['stoltos']	STULTUS	Adjective	2	Nm-M-S-Ps	stulti:	['stolti:']	Gn-M-S-Ps	G2					
+stupeo:	['stupe:o:']	STUPEO	Verb	2	1-S-Pr-Act-Ind	stupet	['stupe:eti']	3-S-Pr-Act-Ind	V3					
+sturnus	['stornos']	STURNUS	Noun	2	Nm-M-S	struni:	['storni:']	Gn-M-S	G2			TRUE		
+sua:deo:	['swa:dejo:']	SUADEO	Verb	2	1-S-Pr-Act-Ind	sua:det	['swadejeti']	3-S-Pr-Act-Ind	V3					
+sua:sum	['swarssom']	SUASUM	Noun	2	Nm-N-S	sua:si:	['swarssi:']	Gn-N-S	G2					
+sua:vis	['swa:dwis']	SUAVIS	Adjective	3	Nm-M/F-S-Ps	sua:vis	['swadwes']	Gn-M/F-S-Ps	G3					
+sub	['supo']	SUB	Preposition											
+subliga:culum	['supoleigaklom']	SUBLIGACULUM	Noun	2	Nm-N-S									
+sue:sco:	['sweðsko:']	SUESCO	Verb	3	1-S-Pr-Act-Ind	sue:scit	['sweðsketi']	3-S-Pr-Act-Ind	V3			TRUE		
+suffio:	['supoðu:jo:']	SUFFIO	Verb	4	1-S-Pr-Act-Ind	suffit	['supoðu:jeti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] pi:us rule.	
+sulcus	['solkos']	SULCUS	Noun	2	Nm-M-S	sulci:	['solki:']	Gn-M-S	G2					
+sulphur	['solpor']	SULPHUR	Noun	3	Nm-N-S									
+sum	['ezom']	SUM	Verb	Special	1-S-Pr-Act-Ind									
+summus	['supamos']	SUPERUS	Adjective	2	Nm-M-S-Sp	summi:	['supami:']	Gn-M-S-Ps	G2					
+suo:	['su:o:']		Verb	3	1-S-Pr-Act-Ind						TRUE			
+super	['superi']	SUPER	Preposition											
+supra:	['supera:d']	SUPRA	Preposition									TRUE		
+supre:mus	['superizamos']	SUPERUS	Adjective	2	Nm-M-S-Sp	supre:mi:	['superizami:']	Gn-M-S-Ps	G2					
+surgo:	['surrego:']	SURGO	Verb	3	1-S-Pr-Act-Ind	surgit	['surregeti']	3-S-Pr-Act-Ind	V3			TRUE		
+suo:	['sjujo:']	SUO	Verb	3	1-S-Pr-Act-Ind	suit	['sjujeti']	3-S-Pr-Act-Ind	V3			TRUE		
+suppus	['soupos']	SUPPUS	Adjective	2	Nm-M-S-Ps	suppi:	['soupi:']	Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] Littera rule.	
+suus	['sowos']	SUUS	Adjective	2	Nm-M-S-Ps									
+su:cus	['soukos']	SUCUS	Noun	2	Nm-M-S	su:ci:	['souki:']	Gn-M-S	G2					
+su:dor	['swoido:s']	SUDOR	Noun	3	Nm-M-S	su:do:ris	['swoido:ses']	Gn-M-S	G3	PARADIGM LEVELING		TRUE	[Paradigm Leveling] Nominative r from the oblique cases, o: from the nominative.	
+su:dus	['swoidos']	SUDUS	Adjective	2	Nm-M-S-Ps	su:di:	['swoidi:']	Gn-M-S-Ps	G2			TRUE		
+su:go:	['sougo:']	SUGO	Verb	3	1-S-Pr-Act-Ind	su:git	['sougeti']	3-S-Pr-Act-Ind	V3			TRUE		
+su:men	['sougmen']	SUMEN	Noun	3	Nm-N-S	su:minis	['sougmenes']	Gn-N-S	G3			TRUE		
+su:s	['su:s']	SUS	Noun	3	Nm-M/F-S	suis	['suwos']	Gn-M/F-S	G3					
+taberna	['traberna:']	TABERNA	Noun	1	Nm-F-S	tabernae	['traberna:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Dissimilation of r.	
+tabula	['taðla:']	TABULA	Noun	1	Nm-F-S	tabulae	['taðla:i:']	Gn-F-S	G1			TRUE		
+taceo:	['take:o:']	TACEO	Verb	2	1-S-Pr-Act-Ind	tacet	['take:eti']	3-S-Pr-Act-Ind	V3					
+te:ctus	['tegtos']	TEGO	Participle	2	Pf-Psv-Nm-M-S-Ps	te:cti:	['tegti:']	Pf-Psv-Gn-M-S-Ps	G2	PHONOLOGY		TRUE	[Phonology] Lachmann's law.	
+taedet	['taede:eti']	TAEDEO	Verb	2	3-S-Pr-Act-Ind							TRUE		
+taeter	['taedros']	TAETER	Adjective	2	Nm-M-S-Ps	taetri:	['taedri:']	Gn-M-S-Ps	G2			TRUE		
+taŋgo:	['tango:']	TANGO	Verb	3	1-S-Pr-Act-Ind	taŋgit	['tangeti']	3-S-Pr-Act-Ind	V3					
+taurus	['tauros']	TAURUS	Noun	2	Nm-M-S	tauri:	['tauri:']	Gn-M-S	G2					
+taxillus	['takslolos']	TAXILLUS	Noun	2	Nm-M-S	taxilli:	['taksloli:']	Gn-M-S	G2			TRUE		
+ta:beo:	['ta:βe:o:']	TABEO	Verb	2	1-S-Pr-Act-Ind	ta:bet	['ta:βe:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+ta:lis	['ta:lis']	TALIS	Adjective	3	Nm-M/F-S-Ps	ta:lis	['ta:les']	Gn-M/F-S-Ps	G3			TRUE		
+ta:lus	['takslos']	TALUS	Noun	2	Nm-M-S	ta:li:	['taksli:']	Gn-M-S	G2					
+tego:	['tego:']	TEGO	Verb	3	1-S-Pr-Act-Ind	tegit	['tegeti']	3-S-Pr-Act-Ind	V3					
+tellu:s	['telnu:s']	TELLUS	Noun	3	Nm-F-S	tellu:ris	['telnu:res']	Gn-F-S	G3			TRUE		
+tetigi:	['tetagai']	TEGO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+temere	['temezi']	TEMERE	Adverb		Ps									
+temno:	['temno:']	TEMNO	Verb	3	1-S-Pr-Act-Ind	temnit	['temneti']	3-S-Pr-Act-Ind	V3			TRUE		
+tempero:	['tempeza:jo:']	TEMPERO	Verb	1	1-S-Pr-Act-Ind	temperat	['tempeza:jeti']	3-S-Pr-Act-Ind	V3					
+templum	['templom']	TEMPLUM	Noun	2	Nm-N-S	templi:	['templi:']	Gn-N-S	G2					
+tempus	['tempos']	TEMPUS	Noun	3	Nm-N-S	temporis	['tempores']	Gn-N-S	G3			TRUE		
+tendo:	['tendo:']	TENDO	Verb	3	1-S-Pr-Act-Ind	tendit	['tendeti']	3-S-Pr-Act-Ind	V3					
+tenebra	['temesra:']	TENEBRA	Noun	1	Nm-F-S	tenebrae	['temesra:i:']	Gn-F-S	G1				tenebrae is pluralia tantum, but we reconstruct the singular here.	
+teneo:	['tene:o:']	TENEO	Verb	2	1-S-Pr-Act-Ind	tenet	['tene:eti']	3-S-Pr-Act-Ind	V3					
+tener	['terenos']	TENER	Adjective	2	Nm-M-S-Ps	teneri:	['tereni:']	Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] Metathesis of n and r.	
+tenuis	['tenwis']	TENUIS	Adjective	3	Nm-M/F-S-Ps	tenuis	['tenwes']	Gn-M/F-S-Ps	G3					
+tenus_1	['tenos']	TENUS1	Preposition											
+tenus_2	['tenos']	TENUS2	Noun	3	Nm-N-S	tenoris	['tenozes']	Gn-N-S	G3					
+tepeo:	['tepe:o:']	TEPEO	Verb	2	1-S-Pr-Act-Ind	tepet	['tepe:eti']	3-S-Pr-Act-Ind	V3					
+ter	['tre:s']	TER	Adverb		Ps									
+terebrum	['terasrom']	TEREBRUM	Noun	2	Nm-N-S	terebri:	['terasri:']	Gn-N-S	G1			TRUE		
+tergum	['tergom']	TERGUM	Noun	2	Nm-N-S	tergi:	['tergi:']	Gn-N-S	G2			TRUE		
+termen	['termen']	TERMEN	Noun	3	Nm-N-S	terminis	['termonis']	Gn-N-S	G3					
+terminus	['termenos']	TERMINUS	Noun	2	Nm-M-S	termini:	['termini:']	Gn-M-S	G2					
+terra	['terza:']	TERRA	Noun	1	Nm-F-S	terrae	['terza:i:']	Gn-F-S	G1					
+terreo:	['torzejo:']	TERREO	Verb	2	1-S-Pr-Act-Ind	terret	['torzejeti']	3-S-Pr-Act-Ind	V3					
+testis	['tristis']	TESTIS	Noun	3	Nm-M/F-S	testis	['tristes']	Gn-M/F-S	G3					
+texo:	['tekso:']	TEXO	Verb	3	1-S-Pr-Act-Ind	texit	['teksit']	3-S-Pr-Act-Ind	V3					
+texui:	['teksawai']	TEXO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+te:xi:	['te:gsai']	TEGO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+te:la	['teksla:']	TELA	Noun	1	Nm-F-S	te:lae	['teksla:i:']	Gn-F-S	G1					
+te:lum	['tendslom']	TELUM	Noun	2	Nm-N-S	te:li:	['tendsli:']	Gn-N-S	G2			TRUE		
+te:mo:	['tenksmo:n']	TEMO	Noun	3	Nm-M-S	te:mo:nis	['tenksmo:nes']	Gn-M-S	G3			TRUE		
+te:nsa	['tensa:']	TENSA	Noun	1	Nm-F-S	te:nsae	['tensa:i:']	Gn-F-S	G1					
+tigillum	['tegnolom']	TIGILLUM	Noun	2	Nm-N-S	tigilli:	['tegnoli:']	Gn-N-S	G2			TRUE		
+ti:ŋnum	['tegnom']	TIGNUM	Noun	2	Nm-N-S	ti:ŋni:	['tegni:']	Gn-N-S	G2					
+tiŋgo:	['tengo:']	TINGO	Verb	3	1-S-Pr-Act-Ind	tiŋgit	['tengeti']	3-S-Pr-Act-Ind	V3					
+ti:tio:	['ti:tjo:n']	TITIO	Noun	3	Nm-M-S	ti:tio:nis	['ti:tjo:nes']	Gn-M-S	G3					
+toga	['toga:']	TOGA	Noun	1	Nm-F-S	togae	['toga:i:']	Gn-F-S	G1			TRUE		
+tolero:	['tolaza:jo:']	TOLERO	Verb	1	1-S-Pr-Act-Ind	tolerat	['tolaza:jeti']	3-S-Pr-Act-Ind	V3					
+tollo:	['tolno:']	TOLLO	Verb	3	1-S-Pr-Act-Ind	tollit	['tolneti']	3-S-Pr-Act-Ind	V3					
+tondeo:	['tondejo:']	TONDEO	Verb	2	1-S-Pr-Act-Ind	tondet	['tondejeti']	3-S-Pr-Act-Ind	V3			TRUE		
+tono:	['tona:jo:']	TONO	Verb	1	1-S-Pr-Act-Ind	tonat	['tona:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+tormentum	['torkwmentom']	TORMENTUM	Noun	2	Nm-N-S	tormenti:	['torkwmenti:']	Gn-N-S	G2					
+torpeo:	['torpe:o:']	TORPEO	Verb	2	1-S-Pr-Act-Ind	torpet	['torpe:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+torqueo:	['torkʷejo:']	TORQUEO	Verb	2	1-S-Pr-Act-Ind	torquet	['torkʷejeti']	3-S-Pr-Act-Ind	V3					
+torreo:	['torzejo:']	TORREO	Verb	2	1-S-Pr-Act-Ind	torret	['torzejeti']	3-S-Pr-Act-Ind	V3					
+torvus	['torgwos']	TORVUS	Adjective	2	Nm-M-S-Ps	torvi:	['torgwi:']	Gn-M-S-Ps	G2			TRUE		
+torsi:	['torkwsai']	TORQUEO	Verb	2	1-S-Pf-Act-Ind							TRUE		
+tortus	['torkwtos']	TORQUEO	Adjective	2	Nm-M-S-Ps	torti:	['torkwti:']	Gn-M-S-Ps	G2			TRUE		
+tot	['toti']	TOT	Determiner	Special								TRUE		
+to:le:s	['tonslejes']	TOLES	Noun	3	Nm-M-P	to:lium	['tonsljo:m']	Gn-M-P	G3				toles is pluralia tantum, and it was reconstructed as such.	
+to:mentum	['towamentom']	TOMENTUM	Noun	2	Nm-N-S	to:menti:	['towamenti:']	Gn-N-S	G2					
+to:nsilla	['tonslila:']	TONSILLA	Noun	1	Nm-F-S	to:nsillae	['tonslila:i:']	Gn-F-S	G1					
+to:tus	['toutos']	TOTUS	Adjective	2	Nm-M-S-Ps					PHONOLOGY			[Phonology] If this is the right etymology, then the vowel outcome is Sabellic, not Latin.	
+trabs	['trabs']	TRABS	Noun	3	Nm-F-S	trabis	['trabes']	Gn-F-S	G3					
+tractus	['traɣtos']	TRAHO	Participle	2	Pf-Psv-Nm-M-S-Ps	tracti:	['traɣti:']	Pf-Psv-Gn-M-S-Ps	G2					
+traho:	['traɣo:']	TRAHO	Verb	3	1-S-Pr-Act-Ind	trahit	['traɣeti']	3-S-Pr-Act-Ind	V3					
+tra:ns	['tra:nts']	TRANS	Preposition											
+tra:xi:	['tra:ɣsai:']	TRAHO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+tremo:	['tremo:']	TREMO	Verb	3	1-S-Pr-Act-Ind	tremit	['tremeti']	3-S-Pr-Act-Ind	V3					
+tre:s	['trejes']	TRES	Numeral	Special	Nm-M/F-P									
+tribus	['triðus' 'triβus']	TRIBUS	Noun	4	Nm-M-S	tribu:s	['triðuos' 'triβuos']	Gn-M-S	G4					
+triceps	['triskaputis']	TRICEPS	Adjective	3	Nm-M/F/N-S-Ps									
+tri:duum	['trizdiwom']	TRIDUUM	Noun	2	Nm-N-S									
+triquetrus	['trikwadros']	TRIQUETRUS	Adjective	2	Nm-M-S-Ps	triquetri:	['trikwadri:']	Gn-M-S-Ps	G2					
+tri:stis	['treistis']	TRISTIS	Adjective	3	Nm-M/F-S-Ps									
+tru:do:	['troudo:']	TRUDO	Verb	3	1-S-Pr-Act-Ind	tru:dit	['troudeti']	3-S-Pr-Act-Ind	V3					
+trux	['druks']	TRUX	Adjective	3	Nm-M/F/N-S-Ps	trucis	['drukes']	Gn-M/F/N-S-Ps	G3			TRUE		
+tucca	['tukko']	TUCCA	Noun	1	Nm-F-S									
+tudes	['tudets']	TUDES	Noun	3	Nm-M-S	tuditis	['tudetes']	Gn-M-S	G3			TRUE		
+tueor	['towejo:r']	TUEOR	Verb	2	1-S-Pr-Dep-Ind	tue:tur	['toweje:eti']	3-S-Pr-Act-Ind	V3					
+tum	['tom']	TUM	Adverb		Ps							TRUE		
+tumeo:	['tume:o:']	TUMEO	Verb	2	1-S-Pr-Act-Ind	tumet	['tume:eti']	3-S-Pr-Act-Ind	V3					
+tundo:	['tundo:']	TUNDO	Verb	3	1-S-Pr-Act-Ind	tundit	['tundeti']	3-S-Pr-Act-Ind	V3					
+turdus	['torzdos']	TURDUS	Noun	2	Nm-M-S	turdi:	['torzdi:']	Gn-M-S	G2					
+tuus	['towos']	TUUS	Determiner	2	Nm-M-S-Ps									
+tu:	['tu:']	TU	Pronoun	Special	Nm-M/F/N-S									
+tu:sus	['tudtos']	TUNDO	Participle	2	Pf-Psv-Nm-M-S-Ps	tu:si:	['tudti:']	Pf-Psv-Gn-M-S-Ps	G2	PHONOLOGY			[Phonology] Lachmann's law applies; then, degemination occurs.	
+ulci:scor	['olki:sko:r']	ULCISCOR	Verb	3	1-S-Pr-Dep-Ind	ulci:scitur	['olki:sketetor']	3-S-Pr-Dep-Ind	V3			TRUE		
+ulcus	['elkos']	ULCUS	Noun	3	Nm-N-S	ulceris	['elkeres']	Gn-N-S	G3					
+ulna	['olena:']	ULNA	Noun	1	Nm-F-S	ulnae	['olena:i:']	Gn-F-S	G1					
+ulmus	['olmos']	ULMUS	Noun	2	Nm-F-S	ulmi:	['olmi:']	Gn-F-S	G2			TRUE		
+ultra:	['oltera:d']	ULTRA	Preposition									TRUE		
+ultimus	['oltamos']	ULTER	Adjective	2	Nm-M-S-Ps	ultimi:	['oltami:']	Gn-M-S-Ps	G2			TRUE		
+ultus	['olktos']	ULCISCOR	Participle	2	Pf-Dep-Nm-M-S-Ps	ulti:	['olkti:']	Pf-Dep-Gn-M-S-Ps	G2			TRUE		
+umbili:cus	['ombeli:kos']	UMBILICUS	Noun	2	Nm-M-S	umbili:ci:	['ombeli:ki:']	Gn-M-S	G2			TRUE		
+umbo:	['ombo:n']	UMBO	Noun	3	Nm-M-S	umbo:nis	['ombo:nes']	Gn-M-S	G3			TRUE		
+umbra	['unksra:']	UMBRA	Noun	1	Nm-F-S	umbrae	['unksra:i:']	Gn-F-S	G1			TRUE		
+umerus	['omezos']	UMERUS	Noun	2	Nm-M-S	umeri:	['omesi:']	Gn-M-S	G2			TRUE		
+unctus	['ongʷtos']	UNGO	Adjective	2	Nm-M-S-Ps	uncti:	['ongʷti:']	Gn-M-S-Ps	G2			TRUE		
+uncus	['onkos']	UNCUS	Noun	2	Nm-M-S	unci:	['onki:']	Gn-M-S	G2			TRUE		
+unda	['udna:']	UNDA	Noun	1	Nm-F-S	undae	['udna:i:']	Gn-F-S	G1			TRUE		
+uŋguen	['ongʷen']	UNGUEN	Noun	3	Nm-N-S	uŋguinis	['ongʷenes']	Gn-N-S						
+uŋguis	['unguis']	UNGUIS	Noun	3	Nm-M-S	uŋguis	['ungues']	Gn-M-S	G3					
+uŋgula	['ongla:']	UNGULA	Noun	1	Nm-F-S	uŋgulae	['ongla:i:']	Gn-F-S	G1			TRUE		
+uŋgulus	['ongelos']	UNGULUS	Noun	2	Nm-M-S	uŋguli:	['ongeli:']	Gn-M-S	G2			TRUE		
+uŋguo:	['ongʷo:']	UNGUO	Verb	3	1-S-Pr-Act-Ind	uŋguit	['ongʷeti']	3-S-Pr-Act-Ind	V3					
+urbs	['worβis']	URBS	Noun	3	Nm-F-S	urbis	['worβes']	Gn-F-S	G3					
+urgeo:	['worɣejo:']	URGEO	Verb	2	1-S-Pr-Act-Ind	urget	['worɣejeti']	3-S-Pr-Act-Ind	V3					
+ursa	['orssa:']	URSA	Noun	1	Nm-F-S	ursae	['orssa:i:']	Gn-F-S	G1					
+ursus	['orssos' 'arktos']	URSUS	Noun	2	Nm-M-S	ursi:	['orssi:' 'arkti:']	Gn-M-S	G2	PHONOLOGY		TRUE	[Phonology] We entered a second etymon variant here. *Orssos is a good candidate for the immediate pre-form, but the real issue with this word is how it developed from the IE *H2rktos. The *arktos form represents an 'early' P. Ital. version. It could be a taboo deformation.	
+uter	['udris']	UTER	Noun	3	Nm-M-S	utris	['udres']	Gn-M-S	G3			TRUE		
+uterus	['uderos']	UTERUS	Noun	2	Nm-M-S	uderi:	['uteri:']	Gn-M-S	G2	PHONOLOGY		TRUE	[Phonology] -t- from the -tr- of utr-?	
+uxor	['ukso:r']	UXOR	Noun	3	Nm-F-S	uxo:ris	['ukso:res']	Gn-F-S	G3					
+u:ber	['ouðris']	UBER	Noun	3	Nm-N-S	u:beris	['ouðres']	Gn-N-S	G3					
+u:dus	['uwidos']	UDUS	Adjective	2	Nm-M-S-Ps	u:di:	['uwidi:']	Gn-M-S-Ps	G2			TRUE		
+u:llus	['oinolos']	ULLUS	Adjective	2	Nm-M-S-Ps									
+u:meo:	['u:me:o:']	UMEO	Verb	2	1-S-Pr-Act-Ind	u:met	['u:me:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+u:nus	['oinos']	UNUS	Numeral	2	Nm-M-S	u:na	['oina:']	Nm-F-S				TRUE		
+u:ro:	['ouzo:']	URO	Verb	3	1-S-Pr-Act-Ind	u:rit	['ouzeti']	3-S-Pr-Act-Ind	V3					
+u:sque	['u:skʷe']	USQUE	Adverb		Ps									
+u:sus	['oissos']	UTOR	Noun	2	Nm-M-S	u:si:	['oissi:']	Gn-M-S	G2					
+u:tor	['oito:r']	UTOR	Verb	3	1-S-Pr-Dep-Ind	u:titur	['oitetor']	3-S-Pr-Dep-Ind	V3					
+u:va	['oiwa:']	UVA	Noun	1	Nm-F-S	u:vae	['oiwa:i:']	Gn-F-S	G1			TRUE		
+vacca	['wa:ka:']	VACCA	Noun	1	Nm-F-S	vaccae	['wakka:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Quantitative metathesis, if a:k is correctly constructed.	
+vaco:	['waka:jo:']	VACO	Verb	1	1-S-Pr-Act-Ind	vacat	['waka:jeti']	3-S-Pr-Act-Ind	V3					
+vacuus	['wakowos']	VACUUS	Adjective	2	Nm-M-S-Ps	vacui:	['wakowi:']	Gn-M-S-Ps	G2					
+vadum	['waðom']	VADUM	Noun	2	Nm-N-S	vadi:	['waði:']	Gn-N-S	G2					
+vagus	['wagos']		Adjective	2	Nm-M-S-Ps	vagi:	['wagi:']	Gn-M-S-Ps	G2		TRUE	TRUE		
+vae	['wai']	VAE	Interjection											
+vafer	['wasros']	VAFER	Adjective	2	Nm-M-S-Ps	vafri:	['wasri:']	Gn-M-S-Ps	G2	BORROWING		TRUE	[Borrowing] The f suggests a Sabellic borrowing; Lat would have b, not f.	
+vagus	['wagos']	VAGUS	Adjective	2	Nm-M-S-Ps	vagi:	['wagi:']	Gn-M-S-Ps	G2					
+valeo:	['wale:o:']	VALEO	Verb	2	1-S-Pr-Act-Ind	valet	['wale:eti']	3-S-Pr-Act-Ind	V3			TRUE		
+vallum	['walsom']	VALLUM	Noun	2	Nm-N-S	valli:	['walsi:']	Gn-N-S	G2			TRUE		
+vallus	['wantnelos']	VALLUS	Noun	2	Nm-M-S	valli:	['wantneli:']	Gn-N-S	G2			TRUE		
+valva	['wolawa:']	VALVA	Noun	1	Nm-F-S	valvae	['wolawa:i:']	Gn-F-S	G1			TRUE	valvae is pluralia tantum; its singular forms are reconstructed here.	
+vannus	['wantnos']	VANNUS	Noun	2	Nm-F-S	vanni:	['wantni:']	Gn-F-S	G2					
+vapor	['kwwapo:s']	VAPOR	Noun	3	Nm-M-S	vapo:ris	['kwwapo:ses']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] r from the oblique, o: from the nominative.	
+varus	['waros']	VARUS	Adjective	2	Nm-M-S-Ps	vari:	['wari:']	Gn-M-S-Ps	G2			TRUE		
+vas	['woss']	VAS	Noun	3	Nm-M-S	vadis	['waðos']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] Vowel of the oblique cases was imported to the nominative.	
+va:do:	['wa:ðo:']	VADO	Verb	3	1-S-Pr-Act-Ind	va:dit	['wa:ðeti']	3-S-Pr-Act-Ind	V3					
+va:gi:na	['wa:gi:na:']	VAGINA	Noun	1	Nm-F-S	va:gi:nae	['wa:gi:na:i:']	Gn-F-S	G1					
+va:gio:	['wa:gijo:']	VAGIO	Verb	4	1-S-Pr-Act-Ind	va:git	['wa:gijeti']	3-S-Pr-Act-Ind	V3			TRUE		
+va:nus	['wa:znos']	VANUS	Adjective	2	Nm-M-S-Ps	va:ni:	['wa:zni:']	Gn-M-S-Ps	G2					
+va:pulo:	['wa:pela:jo:']	VAPULO	Verb	1	1-S-Pr-Act-Ind	va:pulat	['wa:pela:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+va:s	['wa:ss']	VAS	Noun	3	Nm-N-S	va:sis	['wa:ses']	Gn-N-S	G3					
+va:stus	['wa:stos']	VASTUS	Adjective	2	Nm-M-S-Ps	va:sti:	['wa:sti:']	Gn-M-S-Ps	G2			TRUE		
+va:te:s	['wa:te:s']	VATES	Noun	3	Nm-M-S	va:tis	['wa:tes']	Gn-M-S	G3					
+vectus	['weɣtos']	VEHO	Participle	2	Pf-Psv-Nm-M-S-Ps	vecti:	['weɣti:']	Pf-Psv-Gn-M-S-Ps	G2			TRUE		
+vegeo:	['wegejo:']	VEGEO	Verb	2	1-S-Pr-Act-Ind	veget	['wegejeti']	3-S-Pr-Act-Ind	V3					
+vehiculum	['weɣitlom']	VEHICULUM	Noun	2	Nm-N-S	vehiculi:	['weɣitli:']	Gn-N-S	G2			TRUE		
+veho:	['weɣo:']	VEHO	Verb	3	1-S-Pr-Act-Ind	vehit	['weɣeti']	3-S-Pr-Act-Ind	V3					
+vello:	['welno:']	VELLO	Verb	3	1-S-Pr-Act-Ind	vellit	['welneti']	3-S-Pr-Act-Ind	V3					
+veneror	['weneza:jo:r']	VENEROR	Verb	1	1-S-Pr-Dep-Ind	venera:tur	['weneza:jetor']	3-S-Pr-Dep-Ind	V3					
+vene:num	['weneznom']	VENENUM	Noun	2	Nm-N-S	vene:ni:	['wenezni:']	Gn-N-S	G2					
+venia	['wenja:']	VENIA	Noun	1	Nm-F-S	veniae	['wenja:i:']	Gn-F-S	G1					
+venio:	['gʷenjo:']	VENIO	Verb	4	1-S-Pr-Act-Ind	venit	['gʷenjeti']	3-S-Pr-Act-Ind	V3					
+venter	['wendris']	VENTER	Noun	3	Nm-M-S	ventris	['wendres']	Gn-M-S	G2			TRUE		
+ventus_1	['wentos']	VENTUS1	Noun	2	Nm-M-S	venti:	['wenti:']	Gn-N-S	G2					
+ventus_2	['gʷentus']	VENTUS2	Noun	2	Nm-M-S	ventu:s	['gʷentuos']	Gn-M-S	G2					
+venus	['wenos']	VENUS	Noun	3	Nm-F-S	veneris	['wenezes']	Gn-F-S	G3					
+venustus	['wenostos']	VENUSTUS	Adjective	2	Nm-M-S-Ps	venusti:	['wenosti:']	Gn-M-S-Ps	G2					
+verbera	['werβesa']	VERBERA	Noun	3	Nm-N-P							TRUE	Originally a plural.	
+verbum	['werβom']	VERBUM	Noun	2	Nm-N-S	verbi:	['werβi:']	Gn-N-S	G2					
+vereor	['were:o:r']	VEREOR	Verb	2	1-S-Pr-Dep-Ind	vere:tur	['were:etor']	3-S-Pr-Dep-Ind	V3					
+vergo:	['wergo:']	VERGO	Verb	3	1-S-Pr-Act-Ind	vergit	['wergeti']	3-S-Pr-Act-Ind	V3					
+vermis	['wormis']	VERMIS	Noun	3	Nm-M-S	vermis	['wormes']	Gn-M-S	G3			TRUE		
+verre:s	['werse:n']	VERRES	Noun	3	Nm-M-S	verris	['werses']	Gn-M-S	G3	MORPHOLOGY			[Morphology] The e:s is brought in to nominativize the e: that would have resulted from e:n.	
+verro:	['worso:']	VERRO	Verb	3	1-S-Pr-Act-Ind	verrit	['worseti']	3-S-Pr-Act-Ind	V3			TRUE		
+verru:ca	['worsu:ka:']	VERRUCA	Noun	1	Nm-F-S	verru:cae	['worsu:ka:i:']	Gn-F-S	G2			TRUE		
+versus	['worssos']	VERTO	Participle	2	Pf-Psv-Nm-M-S-Ps	versi:	['worssi:']	Pf-Psv-Gn-M-S-Ps	G2					
+verto:	['werto:']	VERTO	Verb	3	1-S-Pr-Act-Ind	vertit	['werteti']	3-S-Pr-Act-Ind	V3					
+veru:	['gʷeru']	VERU	Noun	4	Nm-N-S	veru:s	['gʷeruos']	Gn-N-S	G4					
+vespa	['wopsa:']	VESPA	Noun	1	Nm-F-S	vespae	['wopsa:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Metathesis of -ps-.	
+vesper	['weksperos']	VESPER	Noun	2	Nm-M-S	vesperi:	['weksperi:']	Gn-M-S	G2					
+vester	['westeros']	VESTER	Determiner	2	Nm-M-S-Ps	vestri:	['westeri:']	Gn-M-S-Ps	G2					
+vesti:gium	['werstiagjom']	VESTIGIUM	Noun	2	Nm-N-S	vestigi:	['werstiagji:']	Gn-N-S	G2			TRUE		
+vestis	['westis']	VESTIS	Noun	3	Nm-F-S	vestis	['westes']	Gn-F-S	G3					
+veto:	['wota:jo:']	VETO	Verb	1	1-S-Pr-Act-Ind	vetat	['wota:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+vetus	['wetos']	VETUS	Adjective	3	Nm-M/F/N-S-Ps	veteris	['wetezos']	Gn-M/F/N-S-Ps	G3					
+vetustus	['wetustos']	VETUSTUS	Adjective	2	Nm-M-S-Ps	vetusti:	['wetusti:']	Gn-M-S-Ps	G2			TRUE		
+vexo:	['weɣsa:jo:']	VEXO	Verb	1	1-S-Pr-Act-Ind	vexat	['weɣsa:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+ve:lum	['wekslom']	VELUM	Noun	2	Nm-N-S	ve:li:	['weksli:']	Gn-N-S	G2					
+ve:na	['wezna:']	VENA	Noun	1	Nm-F-S	ve:nae	['wezna:i:']	Gn-F-S	G1			TRUE		
+ve:num	['weznom']	VENUM	Noun	2	Ac-M-S							TRUE		
+ve:nor	['we:na:jo:r']	VENOR	Verb	1	1-S-Pr-Dep-Ind	ve:na:tur	['we:na:jetor']	3-S-Pr-Dep-Ind	V3					
+ve:r	['wezor']	VER	Noun	3	Nm-N-S	ve:ris	['weznos']	Gn-N-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The paradigm was an old r/n stem, but wholly remodelled.	
+ve:rus	['we:ros']	VERUS	Adjective	2	Nm-M-S-Ps	ve:ri:	['we:ri:']	Gn-M-S-Ps	G2					
+ve:scor	['we:sko:r']	VESCOR	Verb	3	1-S-Pr-Dep-Ind	ve:scitur	['we:sketor']	3-S-Pr-Dep-Ind	V3			TRUE		
+ve:xillum	['wekslolom']	VEXILLUM	Noun	2	Nm-N-S	ve:xilli:	['weksloli:']	Gn-N-S	G2					
+ve:xi:	['weɣsai']	VEHO	Verb	3	1-S-Pf-Act-Ind							TRUE		
+via	['wija:']	VIA	Noun	1	Nm-F-S	viae	['wija:i:']	Gn-F-S	G2					
+vibro:	['wibra:jo:']	VIBRO	Verb	1	1-S-Pr-Act-Ind	vibrat	['wibra:jeti']	3-S-Pr-Act-Ind	V3					
+video:	['wide:o:']	VIDEO	Verb	2	1-S-Pr-Act-Ind	videt	['wide:eti']	3-S-Pr-Act-Ind	V3					
+viduus	['wiðowos']	VIDUUS	Adjective	2	Nm-M-S-Ps	vidui:	['wiðowi:']	Gn-M-S-Ps	G2					
+vieo:	['wijejo:']	VIEO	Verb	2	1-S-Pr-Act-Ind	viet	['wijejeti']	3-S-Pr-Act-Ind	V3					
+vigeo:	['wege:o:']	VIGEO	Verb	2	1-S-Pr-Act-Ind	viget	['wege:eti']	3-S-Pr-Act-Ind	V3	PHONOLOGY			[Phonology] Raising of e to i after labial?	
+vincio:	['winkjo:']	VINCIO	Verb	4	1-S-Pr-Act-Ind	vincit	['winkjeti']	3-S-Pr-Act-Ind	V3					
+vinco:	['winko:']	VINCO	Verb	3	1-S-Pr-Act-Ind	vincit	['winketi']	3-S-Pr-Act-Ind	V3					
+violo:	['wijela:o:']	VIOLO	Verb	1	1-S-Pr-Act-Ind	violat	['wijela:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+vir	['wiros']	VIR	Noun	2	Nm-M-S	viri:	['wiri:']	Gn-M-S	G2					
+vireo:	['wize:o:']	VIREO	Verb	2	1-S-Pr-Act-Ind	viret	['wize:eti']	3-S-Pr-Act-Ind	V3					
+virga	['wizga:']	VIRGA	Noun	1	Nm-F-S	virgae	['wizga:i:']	Gn-F-S	G1	PHONOLOGY			[Phonology] Normally z drops before a voiced consonant, lengthening the preceding vowel, but very unusually it seems to rhotacize before g.	
+viridis	['wejziðis']	VIRIDIS	Adjective	3	Nm-M/F-S-Ps							TRUE		
+vitium	['witjom']	VITIUM	Noun	2	Nm-N-S	viti:	['witji:']	Gn-N-S	G2					
+vitrum	['wedrom']	VITRUM	Noun	2	Nm-N-S	vitri:	['wedri:']	Gn-N-S	G2	PHONOLOGY			[Phonology] Raising after labial.	
+vitulus	['wetolos']	VITULUS	Noun	2	Nm-M-S	vituli:	['wetoli:']	Gn-M-S	G2	PHONOLOGY		TRUE	[Phonology] Raising after labial.	
+vix	['wiks' 'wiksu']	VIX	Adverb		Ps									
+vi:cus	['weikos']	VICUS	Noun	2	Nm-M-S	vi:ci:	['weiki:']	Gn-M-S	G2					
+vi:ginti:	['wi:kenti:']	VIGINTI	Numeral							ASSOCIATION, PHONOLOGY			[Association] The g may be from the regular -mk- > -ng- in 'seventy'.  [Phonology] "ent" raised to "int" between two other i's?	
+vi:lis	['weslis']	VILIS	Adjective	3	Nm-M/F-S-Ps	vi:lis	['wesles']	Gn-M/F-S-Ps	G3	PHONOLOGY			[Phonology] Raising after labial?	
+vi:lla	['weiksla:']	VILLA	Noun	1	Nm-F-S									
+vi:lla:	['weiksla:']	VILLA	Noun	1	Nm-F-S									
+vi:men	['weimen']	VIMEN	Noun	3	Nm-N-S	vi:minis	['weimenes']	Gn-N-S	G3					
+vi:mentum	['weimentom']	VIMENTUM	Noun	2	Nm-N-S									
+vi:num	['woinom']	VINUM	Noun	2	Nm-N-S	vi:ni:	['woini:']	Gn-N-S	G2					
+vi:pera	['weipeza:']	VIPERA	Noun	1	Nm-F-S	vi:perae	['weipeza:i:']	Gn-F-S	G1			TRUE		
+vi:rus	['weizos']	VIRUS	Noun	2	Nm-N-S	vi:ri:	['weizi:']	Gn-N-S	G2					
+vi:s	['wi:s']	VIS	Noun	3	Nm-F-S									
+vi:so:	['weidso:']	VISO	Verb	3	1-S-Pr-Act-Ind	vi:sit	['weidseti']	3-S-Pr-Act-Ind	V3					
+vi:sus	['weidtos']	VIDEO	Participle	2	Pf-Psv-Nm-M-S-Ps	vi:si:	['weidti:']	Pf-Psv-Gn-M-S-Ps	G2					
+vi:ta	['gʷi:ta:']	VITA	Noun	1	Nm-F-S	vi:tae	['gʷi:ta:i:']	Gn-F-S	G1					
+vi:tis	['wi:tis']	VITIS	Noun	3	Nm-F-S	vi:tis	['wi:tes']	Gn-F-S	G3			TRUE		
+vi:vo:	['gʷi:wo:']	VIVO	Verb	3	1-S-Pr-Act-Ind	vi:vit	['gʷi:weti']	3-S-Pr-Act-Ind	V3					
+vi:vus	['gʷi:wos']	VIVUS	Adjective	2	Nm-M-S-Ps	vi:vi:	['gʷi:wi:']	Gn-M-S-Ps	G2					
+vola	['wela:']	VOLA	Noun	1	Nm-F-S	volae	['wela:i:']	Gn-F-S	G1					
+volo:_1	['welo:']	VOLO1	Verb	Special	1-S-Pr-Act-Ind	vult	['welti']	3-S-Pr-Act-Ind	V3					
+volo:_2	['gʷela:jo:']	VOLO2	Verb	1	1-S-Pr-Act-Ind	volat	['gʷela:jeti']	3-S-Pr-Act-Ind	V3					
+voltus	['weltus']	VOLTUS	Noun	4	Nm-M-S	voltu:s	['weltuos']	Gn-M-S	G4			TRUE		
+volup	['welopi']	VOLUP	Adverb		Ps							TRUE		
+volva	['welwa:']	VOLVA	Noun	1	Nm-F-S	volvae	['welwa:i:']	Gn-F-S	G2			TRUE		
+volvo:	['welwo:']	VOLVO	Verb	3	1-S-Pr-Act-Ind	volvit	['welweti']	3-S-Pr-Act-Ind	V3			TRUE		
+vomo:	['wemo:']	VOMO	Verb	3	1-S-Pr-Act-Ind	vomit	['wemeti']	3-S-Pr-Act-Ind	V3					
+voro:	['wera:jo:']	VORO	Verb	1	1-S-Pr-Act-Ind	vorat	['wera:jeti']	3-S-Pr-Act-Ind	V3			TRUE		
+voveo:	['wogʷejo:']	VOVEO	Verb	2	1-S-Pr-Act-Ind	vovet	['wogʷejeti']	3-S-Pr-Act-Ind	V3					
+vo:mis	['woɣsmis']	VOMIS	Noun	3	Nm-M-S	vo:meris	['woɣsmezes']	Gn-M-S	G3	PARADIGM LEVELING			[Paradigm Leveling] The original nominative was vo:mis and is attested; later vo:mer is created analogically.	
+vo:s	['wo:s']	VOS	Pronoun	Special	Nm-M/F/N-P									
+vo:tus	['wogʷetos']	VOTUS	Participle	2	Pf-Psv-Nm-M-S-Ps	vo:ti:	['wogʷeti:']	Pf-Psv-Gn-M-S-Ps	G2					
+vo:x	['wo:ks']	VOX	Noun	3	Nm-F-S	vo:cis	['wo:kes']	Gn-F-S	G3					
+vulnero:	['welaneza:jo:']	VULNERO	Verb	1	1-S-Pr-Act-Ind	vulnerat	['welaneza:jeti']	3-S-Pr-Act-Ind	V3					
+vulnus	['welanos']	VULNUS	Noun	3	Nm-N-S	vulneris	['welenozes']	Gn-N-S	G3					
+vulpe:s	['wolpis']	VULPES	Noun	3	Nm-F-S	vulpis	['wolpes']	Gn-F-S	G3	MORPHOLOGY			[Morphology] One of those -e:s noms.	
